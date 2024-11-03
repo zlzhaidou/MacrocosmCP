@@ -1,32 +1,32 @@
 Mods: {
 	Macrocosm: {
 		Common: {
-			Rocket: Rocket
-			LaunchPad: Launchpad
+			Rocket: 火箭
+			LaunchPad: 发射平台
 			MapNames.Poster: Poster
 
 			Tooltips: {
-				DeveloperItem: Developer
-				UnobtainableItem: Unobtainable
-				BurnFuel: This flammable item can be used as fuel
-				LiquidContainer: This item can store liquids
-				WeaponNerf: Cosmic radiation has degraded this weapon
-				WeaponBuff: Cosmic radiation has made this weapon more powerful
+				DeveloperItem: 开发者物品
+				UnobtainableItem: 不可获取
+				BurnFuel: 可作为燃料
+				LiquidContainer: 可储存液体
+				WeaponNerf: 宇宙辐射削弱了这件武器
+				WeaponBuff: 宇宙辐射强化了这件武器
 			}
 		}
 
 		Liquids: {
-			Oil: Oil
-			RocketFuel: Rocket Fuel
+			Oil: 油
+			RocketFuel: 火箭燃料
 		}
 
-		GameTips.Generic_Tip1: You may find silica sand beneath the ocean. Use it for highly advanced technologies!
+		GameTips.Generic_Tip1: 你能在海洋中找到硅砂。使用它来制造高科技物品！
 	}
 
-	SubworldLibrary.Return: Save & Exit
+	SubworldLibrary.Return: 保存并退出
 }
 
-ItemName.Coal: Christmas Coal
+ItemName.Coal: 圣诞煤块
 
 Bestiary_FlavorText: {
 	npc_KingSlime: A gluttonous gelatin that has made off with the crown of a deceased giant. It has amassed a sizeable following of slimes to defend their king.
