@@ -29,11 +29,11 @@ DemonSunBiome: {
 }
 
 MoonNightBiome: {
-	DisplayName: 夜月域
-	TownNPCDialogueName: 夜月域
+	DisplayName: 月球夜晚
+	TownNPCDialogueName: 月球夜晚
 }
 
 MoonUndergroundBiome: {
-	DisplayName: 底下皓月之地
-	TownNPCDialogueName: 底下皓月之地
+	DisplayName: 月球地下
+	TownNPCDialogueName: 月球地下
 }
