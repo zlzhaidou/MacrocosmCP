@@ -1,39 +1,39 @@
 EarthBiome: {
-	DisplayName: Earth
-	TownNPCDialogueName: the Earth
+	DisplayName: 地球
+	TownNPCDialogueName: 地球
 }
 
 MoonBiome: {
-	DisplayName: The Moon
-	TownNPCDialogueName: the Moon
+	DisplayName: 月球
+	TownNPCDialogueName: 月球
 }
 
 BloodMoonBiome: {
-	DisplayName: Blood Moon
-	TownNPCDialogueName: Blood Moon
+	DisplayName: 血月
+	TownNPCDialogueName: 血月
 }
 
 BasaltBiome: {
-	DisplayName: Basalt
-	TownNPCDialogueName: the Basalt
+	DisplayName: 玄武岩之地
+	TownNPCDialogueName: 玄武岩之地
 }
 
 IrradiationBiome: {
-	DisplayName: The Irradiation
-	TownNPCDialogueName: the Irradiation
+	DisplayName: 辐照之地
+	TownNPCDialogueName: 辐照之地
 }
 
 DemonSunBiome: {
-	DisplayName: Demon Sun Biome
-	TownNPCDialogueName: the Demon Sun
+	DisplayName: 妖日之地
+	TownNPCDialogueName: 妖日之地
 }
 
 MoonNightBiome: {
-	DisplayName: Moon Night
-	TownNPCDialogueName: the Moon Night
+	DisplayName: 夜月域
+	TownNPCDialogueName: 夜月域
 }
 
 MoonUndergroundBiome: {
-	DisplayName: Moon Underground
-	TownNPCDialogueName: the Moon Underground
+	DisplayName: 底下皓月之地
+	TownNPCDialogueName: 底下皓月之地
 }
