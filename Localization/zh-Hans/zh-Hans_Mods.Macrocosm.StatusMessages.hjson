@@ -6,6 +6,6 @@ LaunchpadMarker: {
 }
 
 MeteorStorm: {
-	Start: Meteors are falling from the sky!
-	End: Meteors have stopped falling from the sky.
+	Start: 陨星正在从天而降！
+	End: 陨星不再从天而降.
 }
