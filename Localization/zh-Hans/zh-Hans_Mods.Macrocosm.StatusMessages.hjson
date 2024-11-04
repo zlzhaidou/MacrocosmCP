@@ -1,11 +1,11 @@
 LaunchpadMarker: {
-	TooClose: The launch pad markers are too close to each other.
-	SolidBlock: There is a solid block, can't place launch pad here.
-	FoundGap: The area is not flat, can't place launchpad here.
-	NoPair: Found no other valid launch pad marker in the vicinity.
+	TooClose: 发射台标记器之间的距离太近了. 
+	SolidBlock: 这里有一个实心块，不能在这里放置发射台. 
+	FoundGap: 请确保有足够平坦的空间来放置发射台. 
+	NoPair: 在附近未找到有效的发射台标记器. 
 }
 
 MeteorStorm: {
-	Start: 陨星正在从天而降！
-	End: 陨星不再从天而降.
+	Start: 陨星正在从天空中坠落！
+	End: 陨星们回到了自己的轨道上!
 }
