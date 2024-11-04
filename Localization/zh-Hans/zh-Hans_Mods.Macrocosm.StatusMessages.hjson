@@ -1,8 +1,8 @@
 LaunchpadMarker: {
 	TooClose: 发射台标记器之间的距离太近了. 
-	SolidBlock: 这里有一个实心块，不能在这里放置发射台. 
-	FoundGap: 请确保有足够平坦的空间来放置发射台. 
-	NoPair: 在附近未找到有效的发射台标记器. 
+	SolidBlock: 这里有一个实心块，不能组装火箭. 
+	FoundGap: 地面不平整，不能组装火箭. 
+	NoPair: 在附近未找到可配对的发射台标记器. 
 }
 
 MeteorStorm: {
