@@ -1,11 +1,11 @@
 Sun: {
 	DisplayName: 太阳
-	FlavorText: 默认
+	FlavorText: 未实现
 }
 
 Vulcan: {
-	DisplayName: 火神星
-	FlavorText: 默认
+	DisplayName: 祝融星
+	FlavorText: 未实现
 }
 
 Mercury: {
@@ -36,80 +36,80 @@ Mars: {
 Phobos: {
 	DisplayName: 火卫一，福波斯
 	FlavorText: 火星的唯一卫星。它的兄弟卫星已被恶魔般的入侵者从火星轨道中撕下，恶魔们又把邪恶的触手伸向了这颗卫星，意图让它与兄弟卫星团聚. 无论这些恶魔对火星的这对双子卫星有何图谋，我们绝不能允许它们的计划得逞. 
-	FlavorText_DeimosReturn: 火星最内侧的卫星. 与它的兄弟卫星德摩斯相比，它的命运要好得多，但仍然承受着异世界入侵的创伤，那次入侵彻底扭曲了它的兄弟，使其面目全非. 
+	FlavorText_DeimosReturn: 火星最内侧的卫星. 与它的兄弟卫星戴摩斯相比，它的命运要好得多，但仍然承受着异世界入侵的创伤，那次入侵彻底扭曲了它的兄弟，使其面目全非. 
 }
 
 Deimos: {
-	DisplayName: Deimos
-	FlavorText: The outermost moon of Mars. While it has been returned to Martian orbit this moon has been warped and mutilated, remade as an amalgamation of flesh and rock. The moon itself has been transformed into a colossal organism; how many other worlds now share its fate?
+	DisplayName: 火卫二，戴摩斯
+	FlavorText: 火星最外侧的卫星. 虽然它已被送回火星轨道，但这颗卫星已经扭曲变形，被重塑为肉体与岩石的混合体. 这颗卫星本身已经转变成了一个巨大的生物体；如今又有多少其他世界与它命运相同？
 }
 
 AsteroidBelt: {
-	DisplayName: Asteroid Belt
-	FlavorText: A circular ring of debris divides the inner and outer solar system, home to millions of chunks of rock and metal. Colonies of cybernetic organisms have established numerous colonies and facilities throughout the belt.
+	DisplayName: 小行星带
+	FlavorText: 一个环绕的碎片环将内太阳系与外太阳系分隔开来，这里是数以百万计的岩石和金属块的归属. 赛博生物体在这之中建立了众多的殖民地和设施. 
 }
 
 Ceres: {
-	DisplayName: Ceres
-	FlavorText: default
+	DisplayName: 谷神星
+	FlavorText: 未实现
 }
 
 Jupiter: {
-	DisplayName: Jupiter
-	FlavorText: default
+	DisplayName: 木星
+	FlavorText: 未实现
 }
 
 Io: {
-	DisplayName: Io
-	FlavorText: The innermost major moon of Jupiter, this primitive world mirrors the early history of Earth. Vast fields of sulfur, lava flows, and active volcanoes cover this moon's irradiated, highly unstable surface.
+	DisplayName: 木卫一，艾奥
+	FlavorText: 作为木星最内层的主要卫星，艾奥. 它仿佛是地球早期历史的缩影. 这个荒凉的星球表面被广阔的硫磺平原、流淌的熔岩和活跃的火山所覆盖，它们共同构成了这个受尽了辐射、极不稳定的地表. 
 }
 
 Europa: {
-	DisplayName: Europa
-	FlavorText: The frozen surface of Jupiter's moon Europa is theorized to cover a vast, global ocean. However, Europa also orbits within Jupiter's hazardous radiation belts, so whether life has had a chance to develop beneath the ice has yet to be determined.
+	DisplayName: 木卫二，欧罗巴
+	FlavorText: 木星的卫星，欧罗巴. 人们推测它冰冷的表面覆盖着一个广阔的全球性海洋. 然而，欧罗巴也运动在木星的危险辐射带内，因此，冰层下是否有生命存在的机会尚未确定……
 }
 
 Saturn: {
-	DisplayName: Saturn
-	FlavorText: default
+	DisplayName: 土星
+	FlavorText: 未实现
 }
 
 Titan: {
-	DisplayName: Titan
-	FlavorText: The largest moon of Saturn, and the only moon in the solar system with a dense atmosphere and clouds. Beneath its orange haze, the moon's surface is covered in numerous rivers and lakes of liquid methane.
+	DisplayName: 土卫六，泰坦星
+	FlavorText: 土星最大的卫星，同时也是太阳系中唯一一个拥有浓密大气层和云层的卫星. 橙色的雾霾之下是众多由液态甲烷构成的河流和湖泊. 
 }
 
 Ouranos: {
-	DisplayName: Ouranos
-	FlavorText: default
+	DisplayName: 天王星
+	FlavorText: 未实现
 }
 
 Miranda: {
-	DisplayName: Miranda
-	FlavorText: Ouranos's innermost moon Miranda is a grotesque labyrinth of canyons and jagged peaks. It is undetermined whether this moon's distorted appearance is owed to numerous heavy asteroid bombardments, or something lurking deep within the moon's abyssal chasms.
+	DisplayName: 天卫五，米兰达
+	FlavorText: 天王星的内层卫星米兰达是一个充满怪异地形的迷宫，拥有众多的峡谷和参差不齐的山峰. 目前尚不确定这颗卫星扭曲的外观是由于遭受了大量小行星的猛烈撞击，还是由于卫星深渊中潜藏的某些未知因素所致. 
 }
 
 Neptune: {
-	DisplayName: Neptune
-	FlavorText: default
+	DisplayName: 海王星
+	FlavorText: 未实现
 }
 
 Triton: {
-	DisplayName: Triton
-	FlavorText: default
+	DisplayName: 海卫一，崔顿
+	FlavorText: 未实现
 }
 
 Pluto: {
-	DisplayName: Pluto
-	FlavorText: A frozen dwarf planet orbiting in the Kuiper Belt; an expanse of icy debris beyond Neptune. Its surface is perforated by tunnels carved by various insectoids that take refuge on this desolate world.
+	DisplayName: 冥王星
+	FlavorText: 一个在柯伊伯带中运行的冰冻矮行星；柯伊伯带是位于海王星之外的一片冰质碎片区域. 它的表面被各种昆虫类生物挖掘的隧道穿透，这些生物在这个荒凉的世界中寻找避难所. 
 }
 
 Charon: {
-	DisplayName: Charon
+	DisplayName: 冥卫一，卡戎
 	FlavorText: Pluto's largest satellite, and much like its parent planet, a frozen sphere of ice and rock. It has been colonized by various insectoids and daemons that took refuge on Pluto, and have begun spreading outwards to other dwarf planets.
 }
 
 Eris: {
-	DisplayName: Eris
+	DisplayName: 阎神星
 	FlavorText: This bone-white dwarf planet orbits close to the terminus of the solar system. A world ravaged by daemons and other eldritch monsters from beyond our solar system, from the void of interstellar space.
 }
