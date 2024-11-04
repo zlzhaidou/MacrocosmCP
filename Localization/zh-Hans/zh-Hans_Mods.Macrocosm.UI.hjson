@@ -1,119 +1,123 @@
 Common: {
-	AlignLeft: Align left
-	AlignRight: Align right
-	AlignCenterHorizontal: Align center
-	AlignTop: Align top
-	AlignBottom: Align bottom
-	AlignCenterVertical: Align center
-	CopyColorHex: Copy color to clipboard
-	PasteColorHex: Paste color from clipboard
-	RandomizeColor: Randomize color
-	ApplyColor: Accept color changes
-	CancelColor: Discard color changes
-	ZoomIn: Zoom In
-	ZoomOut: Zoom Out
-	Inventory.OpenInventory: Open Inventory
+	AlignLeft: 左对齐
+	AlignRight: 右对齐
+	AlignCenterHorizontal: 居中对齐
+	AlignTop: 顶部对齐
+	AlignBottom: 底部对齐
+	AlignCenterVertical: 居中对齐
+	CopyColorHex: 复制颜色到剪切板
+	PasteColorHex: 从剪切板中导入颜色
+	RandomizeColor: 随机颜色
+	ApplyColor: 保存颜色更改
+	CancelColor: 取消颜色更改
+	ZoomIn: 放大
+	ZoomOut: 缩小
+	Inventory.OpenInventory: 打开仓库
 }
 
 LaunchPad: {
-	Assemble: Assemble
-	Disassemble: Disassemble
-	AnyChest: Any Chest
-	UnknownLocation: Unknown
+	Assemble: 组装
+	Disassemble: 拆解
+	AnyChest: 任何箱子
+	UnknownLocation: 未知
 }
 
 Rocket: {
 	Common: {
-		Close: Close
-		Navigation: Navigation
-		Checklist: Pre-flight checklist
-		LaunchLocations: Launch Locations
-		Crew: Crew
-		Commander: Commander
-		Cargo: Cargo
-		Payload: Payload
-		Inventory: Inventory
-		Fuel: Fuel
-		Customization: Customization
-		Assembly: Assembly
+		Close: 关闭
+		Navigation: 导航
+		Checklist: 起飞前查验清单
+		LaunchLocations: 目标地点
+		Crew: 机组人员
+		Commander: 指挥人员
+		Cargo: 货物
+		Payload: 有效载荷
+		Inventory: 仓库
+		Fuel: 燃料
+		Customization: 定制
+		Assembly: 组装
 	}
 
 	Modules: {
-		CommandPod.DisplayName: Command Pod
-		ServiceModule.DisplayName: Service Module
-		ReactorModule.DisplayName: Reactor Module
-		EngineModule.DisplayName: Engine Module
-		BoosterLeft.DisplayName: Left Booster
-		BoosterRight.DisplayName: Right Booster
+		CommandPod.DisplayName: 指挥舱
+		ServiceModule.DisplayName: 服务模块
+		ReactorModule.DisplayName: 反应器模块
+		EngineModule.DisplayName: 引擎模块
+		BoosterLeft.DisplayName: 左助推器
+		BoosterRight.DisplayName: 右助推器
 	}
 
 	Customization: {
-		Apply: Apply rocket appearance changes
-		Cancel: Discard rocket appearance changes
-		CopyModule: Copy module appearance
-		PasteModule: Paste module appearance
-		CopyRocket: Copy rocket appearance
-		PasteRocket: Paste rocket appearance
-		ResetModule: Reset module to default appearance
-		ResetRocket: Reset rocket to default appearance
-		ResetPattern: Reset pattern to default appearance
+		Apply: 应用火箭外观修改
+		Cancel: 取消火箭外观修改
+		CopyModule: 复制外观模块
+		PasteModule: 粘贴模块外观
+		CopyRocket: 复制火箭外观
+		PasteRocket: 粘贴火箭外观
+		ResetModule: 重置模块外观
+		ResetRocket: 重置火箭外观
+		ResetPattern: 重置图案外观
 	}
 
-	Cargo.DumpFuel: Dump
+	Cargo.DumpFuel: 倾倒
 
 	Navigation: {
 		LaunchButton: {
-			NoTarget: NO TARGET
-			CantReach: INACCESSIBLE
-			DifferentTarget: CURRENT LOCATION
-			Occupied: OCCUPIED
-			ZoomIn: ZOOM IN
-			Launch: LAUNCH
-			LaunchInactive: LAUNCH
+			NoTarget: -无-目-标-
+			CantReach: -无-法-到-达-
+			DifferentTarget: -当-前-坐-标-
+			Occupied: -已-被-占-用-
+			ZoomIn: -放-大-
+			Launch: -发-射-
+			LaunchInactive: -发-射-
 		}
 
 		Gravity: {
-			Name: Gravity
+			Name: 重力
 			UnitG: "{0} G {1}{2}{3}"
 			UnitMetric: "{0} m/s² {1}{2}{3}"
 			UnitImperial: "{0} ft/s² {1}{2}{3}"
 		}
 
 		Radius: {
-			Name: Radius
+			Name: 半价
 			UnitMetric: "{0} km {1}{2}{3}"
 			UnitImperial: "{0} {^0:mile;miles} {1}{2}{3}"
 		}
+// 这段英里还是不翻译的好，感觉一堆英文单位里面突然出现个中文很怪
 
 		DayPeriod: {
-			Name: Day Period
+			Name: 自转周期
+			// 这个自转周期得到了作者的解释，就是这个意思
 			UnitDays: "{0} {^0:day;days} {1}{2}{3}"
 			UnitHours: "{0} {^0:hour;hours} {1}{2}{3}"
 		}
+// 我实在是没看懂这个是在哪里使用的文本，先摸了
 
 		Special: {
-			TidallyLocked: Tidally Locked
-			Unstable: Unstable
+			TidallyLocked: 潮汐锁定
+			Unstable: 不稳定的
 		}
 
 		ThreatLevel: {
-			Name: Threat Level
-			Threat1: "{0} - Harmless"
-			Threat2: "{0} - Arduous"
-			Threat3: "{0} - Challenging"
-			Threat4: "{0} - Dangerous"
-			Threat5: "{0} - Treacherous"
-			Threat6: "{0} - Lethal"
-			Threat7: "{0} - Cataclysmic"
-			Threat8: "{0} - Nightmare"
-			Threat9: "{0} - Apollyon"
-			Threat10: "{0} - Unknown"
+			Name: 威胁等级
+			Threat1: "{0} - 无害"
+			Threat2: "{0} - 轻微"
+			Threat3: "{0} - 挑战"
+			Threat4: "{0} - 危险"
+			Threat5: "{0} - 艰难"
+			Threat6: "{0} - 致命"
+			Threat7: "{0} - 灾难"
+			Threat8: "{0} - 噩梦"
+			Threat9: "{0} - 地狱"
+			Threat10: "{0} - ？？？"
 		}
+// 原文的直接本地化看着很怪，改了一点点
 
 		Hazard: {
-			Name: Hazard
-			MeteorStorms: Meteor Storms
-			SolarStorms: Solar Storms
+			Name: 紧急事态！
+			MeteorStorms: 陨星风暴
+			SolarStorms: 太阳风暴
 		}
 
 		Checklist: {
