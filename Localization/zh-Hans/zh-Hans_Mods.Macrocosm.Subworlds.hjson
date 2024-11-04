@@ -1,42 +1,42 @@
 Sun: {
-	DisplayName: The Sun
-	FlavorText: default
+	DisplayName: 太阳
+	FlavorText: 默认
 }
 
 Vulcan: {
-	DisplayName: Vulcan
-	FlavorText: default
+	DisplayName: 伏尔甘
+	FlavorText: 默认
 }
 
 Mercury: {
-	DisplayName: Mercury
-	FlavorText: The innermost planet to the Sun, Mercury is a barren, airless rock covered in countless craters, much like Earth's Moon. Temperatures vary dramatically from scorching during the day, and subzero during the night.
+	DisplayName: 水星
+	FlavorText: 水星，这颗最邻近太阳的行星. 一个荒芜、无大气层的岩石世界，其表面布满了众多的撞击坑，与地球的卫星——月球，颇为相似. 这里每天都要经历极端的温度波动：白昼时分，炽热的阳光使得温度飙升；而到了夜晚，温度则骤降至冰点以下. 
 }
 
 Venus: {
-	DisplayName: Venus
-	FlavorText: A hellish planet suffocated under an atmosphere comprised almost exclusively of carbon dioxide, and melting under infernal temperatures. Its scorching surface is covered in active volcanoes and vast plains of sulfur.
+	DisplayName: 金星
+	FlavorText: 一颗宛如炼狱的星球. 被几乎全部由二氧化碳构成的厚重大气所笼罩，其地表在极端高温下仿佛熔化开来. 炽热的地表上，活跃的火山与辽阔的硫磺平原交织成一幅炽烈的景象. 
 }
 
 Earth: {
-	DisplayName: Earth
-	FlavorText: Third planet from the Sun, and homeworld of humanity. Covered in lush green forests, liquid oceans, and an oxygen-rich atmosphere, it is the ideal world for life to comfortably thrive.
+	DisplayName: 地球
+	FlavorText: 位居太阳系第三位的行星，亦是人类的摇篮. 这颗星球被郁郁葱葱的绿色森林、液态水的海洋和富含氧气的大气层所覆盖，是生命舒适繁衍的理想之地. 
 }
 
 Moon: {
-	DisplayName: The Moon
-	FlavorText: Homeworld of the infamous Moon Lord, the Earth's Moon is a desolate, airless rock with an unforgiving environment. The Moon is well known for its high concentration of precious luminite, guarded by alien terrors that dwell beneath the dead moonscape.
+	DisplayName: 月球
+	FlavorText: 臭名昭著的月亮领主的母星，同时也是地球的卫星——月球. 一个荒凉、极端恶劣，无空气的岩石世界. 月球死寂的表面下存在着无数恐惧异形，守护着其储量丰富的珍贵夜明矿石. 
 }
 
 Mars: {
-	DisplayName: Mars
-	FlavorText: While Mars may have once appeared much like Earth in its distant past, this arid desert has long since lost most of its atmosphere and oceans. What little life remains has since adapted to the planet's unforgiving environment, and is highly aggressive towards outsiders.
+	DisplayName: 火星
+	FlavorText: 尽管火星在遥远的过去可能与地球颇为相似，但这个干旱的沙漠早已失去了大部分大气层和海洋. 残存的生命为了适应这个星球严酷的环境而发生了演化，对外来者表现出极强的攻击性. 
 }
 
 Phobos: {
-	DisplayName: Phobos
-	FlavorText: The sole moon of Mars. Its brother moon has been torn from Martian orbit, and the daemonic incursion on the moon's surface intends it to join its brother. Whatever plans these daemons have for Mars's twin moons, they cannot be allowed to see completion.
-	FlavorText_DeimosReturn: The innermost moon of Mars. It has fared far better than its brother Deimos, but still bears the scars of an otherworldly invasion, one that has completely distorted its brother beyond recognition.
+	DisplayName: 火卫一，福波斯
+	FlavorText: 火星的唯一卫星。它的兄弟卫星已被恶魔般的入侵者从火星轨道中撕下，恶魔们又把邪恶的触手伸向了这颗卫星，意图让它与兄弟卫星团聚. 无论这些恶魔对火星的这对双子卫星有何图谋，我们绝不能允许它们的计划得逞. 
+	FlavorText_DeimosReturn: 火星最内侧的卫星. 与它的兄弟卫星德摩斯相比，它的命运要好得多，但仍然承受着异世界入侵的创伤，那次入侵彻底扭曲了它的兄弟，使其面目全非. 
 }
 
 Deimos: {
