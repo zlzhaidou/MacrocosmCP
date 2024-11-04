@@ -106,10 +106,10 @@ Pluto: {
 
 Charon: {
 	DisplayName: 冥卫一，卡戎
-	FlavorText: Pluto's largest satellite, and much like its parent planet, a frozen sphere of ice and rock. It has been colonized by various insectoids and daemons that took refuge on Pluto, and have begun spreading outwards to other dwarf planets.
+	FlavorText: 冥王星最大的卫星，与它的母行星类似，是一个由冰和岩石构成的冰冻球体. 原本在上面寻求庇护的各种昆虫类生物和恶魔反过来殖民了它，并在逐渐开始向其他矮行星扩散……
 }
 
 Eris: {
 	DisplayName: 阎神星
-	FlavorText: This bone-white dwarf planet orbits close to the terminus of the solar system. A world ravaged by daemons and other eldritch monsters from beyond our solar system, from the void of interstellar space.
+	FlavorText: 这个骨白色的矮行星绕着太阳系的末端轨道运行. 正饱受一个来自我们太阳系之外、星际空间的虚空中的恶魔和其他怪异怪物蹂躏……
 }
