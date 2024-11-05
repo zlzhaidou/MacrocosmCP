@@ -24,8 +24,8 @@ IrradiationBiome: {
 }
 
 DemonSunBiome: {
-	DisplayName: 妖日之地
-	TownNPCDialogueName: 妖日之地
+	DisplayName: 渎耀之地
+	TownNPCDialogueName: 渎耀之地
 }
 
 MoonNightBiome: {
