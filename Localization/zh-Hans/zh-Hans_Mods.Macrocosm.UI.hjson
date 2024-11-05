@@ -80,7 +80,7 @@ Rocket: {
 		}
 
 		Radius: {
-			Name: 半价
+			Name: 半径
 			UnitMetric: "{0} km {1}{2}{3}"
 			UnitImperial: "{0} {^0:mile;miles} {1}{2}{3}"
 		}
@@ -122,88 +122,88 @@ Rocket: {
 
 		Checklist: {
 			Fuel: {
-				Met.Display: Enough fuel
+				Met.Display: 燃料足够
 
 				NotMet: {
-					Display: Not enough fuel
-					Hover: You need more fuel to launch the rocket
+					Display: 燃料不足
+					Hover: 你需要更多燃料来发动火箭
 				}
 			}
 
 			Obstruction: {
-				Met.Display: Path unobstructed
+				Met.Display: 路径通顺
 
 				NotMet: {
-					Display: Path obstructed
-					Hover: There is an obstruction in the rocket's flight path
+					Display: 路径被阻挡
+					Hover: 火箭飞行的路径被阻挡
 				}
 			}
 
 			Boss: {
 				NotMet: {
-					Display: Boss alive
-					Hover: You must defeat the boss before being able to fly safely
+					Display: 世界上存在Boss
+					Hover: 先击败当前Boss才能安全起飞
 				}
 			}
 
 			Invasion: {
 				NotMet: {
-					Display: Invasion ongoing
-					Hover: You must defeat the ongoing invasion before being able to fly safely
+					Display: 正处于入侵中
+					Hover: 先击败当前入侵才能安全起飞
 				}
 			}
 
 			BloodMoon: {
 				NotMet: {
-					Display: Blood Moon ongoing
-					Hover: The vacuum of space is not safe when there's a Blood Moon
+					Display: 正处于血月
+					Hover: 血月存在时，外太空极其危险
 				}
 			}
 
 			Selected: {
 				NotMet: {
-					Display: Select a destination
-					Hover: default
+					Display: 选择目的地
+					Hover: 默认
 				}
 			}
 
 			DifferentTarget: {
 				NotMet: {
-					Display: You are already here
-					Hover: default
+					Display: 你就在这里
+					Hover: 默认
 				}
 			}
 
 			VacantLaunchpad: {
 				NotMet: {
-					Display: Launchpad is occupied
-					Hover: default
+					Display: 发射平台已被占用
+					Hover: 默认
 				}
 			}
 		}
 	}
 
-	Special.TidallyLocked: Tidally Locked
+	Special.TidallyLocked: 潮汐锁定
 }
 
 LoadingScreenTips: {
 	Moon: {
-		Moon_Tip1: You've taken your first step into a larger world.
-		Moon_Tip2: The Moon takes much longer to rotate than the Earth. Make sure you have enough supplies to last through the night.
-		Moon_Tip3: Is the Moon really made of cheese? Dig down to its core to find out.
-		Moon_Tip4: Even on this airless rock, life finds a way. Always remain on guard.
-		Moon_Tip5: Take advantage of the Moon's low gravity, but remember your enemies will do the same.
-		Moon_Tip6: When the sanguine hour comes, it's time to hide.
-		Moon_Tip7: No atmosphere means no torches, but there are other ways of illuminating the darkness.
-		Moon_Tip8: Beware of solar storms!
-		Moon_Tip9: Moon Lord was just the beginning. What other horrors await you on our silver satellite?
+		Moon_Tip1: 这是你的一小步，却是泰拉人的一大步！
+		Moon_Tip2: 月球的自转比地球慢得多.确保你带上了足够撑过一晚的补给.
+		Moon_Tip3: 月亮真的是用奶酪做的吗？向月核掘进，揭开真相吧！
+		Moon_Tip4: 即使在这块缺乏空气的冰冷岩石上，生命仍自有出路.不要放松警惕.
+		Moon_Tip5: 月球的重力很低，这可能是你的优势，也可能是敌人的.
+		Moon_Tip6: 当血红之时来临，快找地方躲起来.
+		Moon_Tip7: 没有氧气，就没有火把.你需要想别的方法来照明.
+		Moon_Tip8: 当心太阳风暴！
+		Moon_Tip9: 月球领主只是这一切的开始.这颗银亮的卫星上又有什么在等着你？
 	}
 
 	Earth: {
-		Earth_Tip1: Returning for a beer?
-		Earth_Tip2: Did you know that there are more than 1 quadrillion ants roaming our Earth?
-		Earth_Tip3: Normal gravity can be quite punishing after a long trek in zero-g. You'll get used to it.
-		Earth_Tip4: Nearly seven billion deaths within the first 24 hours.
-		Earth_Tip5: You are never truly safe.
+		Earth_Tip1: 回家小憩？
+		Earth_Tip2: 你知道吗？地球上的蚂蚁有1千万亿多只！
+		Earth_Tip3: 经历过低重力之后，地球上的生活会很艰难.习惯就好了.
+		Earth_Tip4: 最初的24小时中，有70亿起死亡.
+		Earth_Tip5: 没有真正安全的地方.
 	}
 }
