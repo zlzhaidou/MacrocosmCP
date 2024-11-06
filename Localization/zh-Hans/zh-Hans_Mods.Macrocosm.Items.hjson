@@ -612,11 +612,11 @@ ClawWrench: {
 }
 
 Crucible: {
-	DisplayName: Crucible
+	DisplayName: 熔釜炽刃
 	Tooltip:
 		'''
-		A sword forged from the fires of Hell itself
-		'The only thing they fear is you.'
+		由地狱烈火锻造之剑
+		'它们唯一的恐惧，是你.'
 		'''
 }
 
@@ -626,8 +626,8 @@ MoonSword: {
 }
 
 Noxsaber: {
-	DisplayName: The Noxsaber
-	Tooltip: An ancient black energy saber, stolen from the temple of a long dead cult
+	DisplayName: 归虚之刃
+	Tooltip: 一柄由暗能量铸成的远古神兵，从一个早已消亡的教团殿堂中偷出.
 }
 
 AluminumBow: {
