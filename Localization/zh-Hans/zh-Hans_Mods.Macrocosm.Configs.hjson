@@ -1,44 +1,44 @@
 # Localization file for the configs
 
 MacrocosmConfig: {
-	DisplayName: General Configuration
-	GameplayHeader: Gameplay
-	GraphicsHeader: Graphics
-	UIHeader: User Interface
+	DisplayName: 一般配置
+	GameplayHeader: 游戏
+	GraphicsHeader: 图案
+	UIHeader: 用户界面
 
 	AlwaysDisplayTitleCards: {
-		Label: Always display title cards
-		Tooltip: Whether to display the introductory title card even if you've visited this celestial body before.
+		Label: 始终显示天体名称
+		Tooltip: 是否在每次到达一个新星球的时候显示一小段时间的天体名称，无论您是否到达过
 	}
 
 	GunRecoilEffects: {
-		Label: Gun recoil effects
-		Tooltip: Whether guns have recoil effects.
+		Label: 枪支的后坐力
+		Tooltip: 枪支是否具有后坐力
 	}
 
 	HighResolutionEffects: {
-		Label: High Resolution Effects
-		Tooltip: Use high resolution visual effects.
+		Label: 高分辨率效果
+		Tooltip: 使用更高的分辨率视觉效果
 	}
 
 	UnitSystem: {
-		Label: Unit system
-		Tooltip: The unit system used to display numeric values.
+		Label: 单位标准
+		Tooltip: 用于显示数值的单位标准
 	}
 
 	DisplayGravityInGs: {
-		Label: Display gravity values in Gs
-		Tooltip: Whether to display the gravity in Gs, or gravitational acceleration measured in the current unit system.
+		Label: 以G显示重力值
+		Tooltip: 是否要以G（地球重力加速度）显示重力，或者以当前单位系统中测量的重力加速度显示
 	}
 
 	SelectedUITheme: {
-		Label: UI Theme
-		Tooltip: The mod's UI display theme.
+		Label: UI主题
+		Tooltip: 这个mod的UI显示主题
 	}
 }
 
 UnitSystemType: {
 	Tooltip: ""
-	Metric.Label: Metric
-	Imperial.Label: Imperial
+	Metric.Label: 公制
+	Imperial.Label: 英制
 }
