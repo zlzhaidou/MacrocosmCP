@@ -209,9 +209,9 @@ LoadingScreenTips: {
 
 	Earth: {
 		Earth_Tip1: 回家小憩？
-		Earth_Tip2: If you think you have enough electricity, you definitely don't.
+		Earth_Tip2: 电量永远不嫌多！
 		Earth_Tip3: 经历过低重力之后，地球上的生活会很艰难.习惯就好了.
-		Earth_Tip4: You can customize your rocket! Give it a new coat of paint, fly your favorite flag, give it a name!
-		Earth_Tip5: Try to use multiple sources of electricity. You never know when it's suddenly going to start raining.
+		Earth_Tip4: 您可以个性化定制您的火箭！给它涂上新漆、挂上喜欢的旗帜最后给它起个好名字吧！
+		Earth_Tip5: 做多种电力的来源规划，你永远不知道某天是否会因为某些原因缺少电的来源！
 	}
 }
