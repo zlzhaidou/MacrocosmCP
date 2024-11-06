@@ -14,32 +14,32 @@ CelestialBulwark: {
 }
 
 AluminumBoots: {
-	DisplayName: Aluminum Boots
+	DisplayName: 铝Boots
 	Tooltip: ""
 }
 
 AluminumBreastplate: {
-	DisplayName: Aluminum Breastplate
+	DisplayName: 铝Breastplate
 	Tooltip: ""
 }
 
 AluminumHelmet: {
-	DisplayName: Aluminum Helmet
+	DisplayName: 铝Helmet
 	Tooltip: ""
 }
 
 ArtemiteBreastplate: {
-	DisplayName: Artemite Breastplate
+	DisplayName: 嫦娥Breastplate
 	Tooltip: 6% increased melee critical strike chance
 }
 
 ArtemiteHelmet: {
-	DisplayName: Artemite Helmet
+	DisplayName: 嫦娥Helmet
 	Tooltip: 18% increased melee damage
 }
 
 ArtemiteLeggings: {
-	DisplayName: Artemite Leggings
+	DisplayName: 嫦娥Leggings
 	Tooltip: 15% increased melee and movement speed
 }
 
@@ -59,7 +59,7 @@ AstronautSuit: {
 }
 
 ChandriumBreastplate: {
-	DisplayName: Chandrium Breastplate
+	DisplayName: 常羲Breastplate
 	Tooltip:
 		'''
 		Increases max number of minions by 1
@@ -68,7 +68,7 @@ ChandriumBreastplate: {
 }
 
 ChandriumHelm: {
-	DisplayName: Chandrium Helm
+	DisplayName: 常羲Helm
 	Tooltip:
 		'''
 		Increases max number of minions by 1
@@ -77,7 +77,7 @@ ChandriumHelm: {
 }
 
 ChandriumLeggings: {
-	DisplayName: Chandrium Leggings
+	DisplayName: 常羲Leggings
 	Tooltip:
 		'''
 		Increases you max number of minions by 1
@@ -86,12 +86,12 @@ ChandriumLeggings: {
 }
 
 DianiteBreastplate: {
-	DisplayName: Dianite Breastplate
+	DisplayName: 黛安娜Breastplate
 	Tooltip: 12% increased magic critical strike chance
 }
 
 DianiteLeggings: {
-	DisplayName: Dianite Leggings
+	DisplayName: 黛安娜Leggings
 	Tooltip:
 		'''
 		5% increased magic damage
@@ -100,7 +100,7 @@ DianiteLeggings: {
 }
 
 DianiteVisor: {
-	DisplayName: Dianite Visor
+	DisplayName: 黛安娜Visor
 	Tooltip:
 		'''
 		Increases maximum mana by 50
@@ -109,12 +109,12 @@ DianiteVisor: {
 }
 
 SeleniteBreastplate: {
-	DisplayName: Selenite Breastplate
+	DisplayName: 月亮Breastplate
 	Tooltip: 12% increased ranged critical strike chance
 }
 
 SeleniteHeadgear: {
-	DisplayName: Selenite Headgear
+	DisplayName: 月亮Headgear
 	Tooltip:
 		'''
 		10% increased ranged damage
@@ -123,7 +123,7 @@ SeleniteHeadgear: {
 }
 
 SeleniteLeggings: {
-	DisplayName: Selenite Leggings
+	DisplayName: 月亮Leggings
 	Tooltip:
 		'''
 		5% increased ranged damage
@@ -178,22 +178,22 @@ Teleporter: {
 }
 
 AluminumBar: {
-	DisplayName: Aluminum Bar
+	DisplayName: 铝Bar
 	Tooltip: ""
 }
 
 AluminumOre: {
-	DisplayName: Aluminum Ore
+	DisplayName: 铝Ore
 	Tooltip: ""
 }
 
 ArtemiteBar: {
-	DisplayName: Artemite Bar
+	DisplayName: 嫦娥Bar
 	Tooltip: ""
 }
 
 ArtemiteOre: {
-	DisplayName: Artemite Ore
+	DisplayName: 嫦娥Ore
 	Tooltip: ""
 }
 
@@ -203,12 +203,12 @@ BrokenHeroShield: {
 }
 
 ChandriumBar: {
-	DisplayName: Chandrium Bar
+	DisplayName: 常羲Bar
 	Tooltip: ""
 }
 
 ChandriumOre: {
-	DisplayName: Chandrium Ore
+	DisplayName: 常羲Ore
 	Tooltip: ""
 }
 
@@ -233,12 +233,12 @@ DeliriumPlating: {
 }
 
 DianiteBar: {
-	DisplayName: Dianite Bar
+	DisplayName: 黛安娜Bar
 	Tooltip: ""
 }
 
 DianiteOre: {
-	DisplayName: Dianite Ore
+	DisplayName: 黛安娜Ore
 	Tooltip: ""
 }
 
@@ -248,12 +248,12 @@ LithiumOre: {
 }
 
 LuminiteCrystal: {
-	DisplayName: Luminite Crystal
+	DisplayName: 月明Crystal
 	Tooltip: ""
 }
 
 OilShale: {
-	DisplayName: Oil Shale
+	DisplayName: 油页岩
 	Tooltip: ""
 }
 
@@ -263,17 +263,17 @@ OxygenTank: {
 }
 
 PrintedCircuitBoard: {
-	DisplayName: Printed Circuit Board
+	DisplayName: 印刷电路板
 	Tooltip: ""
 }
 
 SeleniteBar: {
-	DisplayName: Selenite Bar
+	DisplayName: 月亮Bar
 	Tooltip: ""
 }
 
 SeleniteOre: {
-	DisplayName: Selenite Ore
+	DisplayName: 月亮Ore
 	Tooltip: ""
 }
 
@@ -398,7 +398,7 @@ TitaniumLoom: {
 }
 
 SolarPanelLarge: {
-	DisplayName: Large Solar Panel
+	DisplayName: Large 太阳能电池板
 	Tooltip: Coverts solar energy into electricity
 }
 
@@ -463,97 +463,97 @@ CraterDemonTrophy: {
 }
 
 AluminumAxe: {
-	DisplayName: Aluminum Axe
+	DisplayName: 铝Axe
 	Tooltip: ""
 }
 
 AluminumHammer: {
-	DisplayName: Aluminum Hammer
+	DisplayName: 铝Hammer
 	Tooltip: ""
 }
 
 AluminumPickaxe: {
-	DisplayName: Aluminum Pickaxe
+	DisplayName: 铝Pickaxe
 	Tooltip: ""
 }
 
 ArtemiteAxe: {
-	DisplayName: Artemite Axe
+	DisplayName: 嫦娥Axe
 	Tooltip: ""
 }
 
 ArtemiteDrill: {
-	DisplayName: Artemite Drill
+	DisplayName: 嫦娥Drill
 	Tooltip: ""
 }
 
 ArtemiteHammer: {
-	DisplayName: Artemite Hammer
+	DisplayName: 嫦娥Hammer
 	Tooltip: ""
 }
 
 ArtemitePickaxe: {
-	DisplayName: Artemite Pickaxe
+	DisplayName: 嫦娥Pickaxe
 	Tooltip: ""
 }
 
 ChandriumAxe: {
-	DisplayName: Chandrium Axe
+	DisplayName: 常羲Axe
 	Tooltip: ""
 }
 
 ChandriumDrill: {
-	DisplayName: Chandrium Drill
+	DisplayName: 常羲Drill
 	Tooltip: ""
 }
 
 ChandriumHammer: {
-	DisplayName: Chandrium Hammer
+	DisplayName: 常羲Hammer
 	Tooltip: ""
 }
 
 ChandriumPickaxe: {
-	DisplayName: Chandrium Pickaxe
+	DisplayName: 常羲Pickaxe
 	Tooltip: ""
 }
 
 DianiteAxe: {
-	DisplayName: Dianite Axe
+	DisplayName: 黛安娜Axe
 	Tooltip: ""
 }
 
 DianiteDrill: {
-	DisplayName: Dianite Drill
+	DisplayName: 黛安娜Drill
 	Tooltip: ""
 }
 
 DianiteHammer: {
-	DisplayName: Dianite Hammer
+	DisplayName: 黛安娜Hammer
 	Tooltip: ""
 }
 
 DianitePickaxe: {
-	DisplayName: Dianite Pickaxe
+	DisplayName: 黛安娜Pickaxe
 	Tooltip: ""
 }
 
 SeleniteAxe: {
-	DisplayName: Selenite Axe
+	DisplayName: 月亮Axe
 	Tooltip: ""
 }
 
 SeleniteDrill: {
-	DisplayName: Selenite Drill
+	DisplayName: 月亮Drill
 	Tooltip: ""
 }
 
 SeleniteHammer: {
-	DisplayName: Selenite Hammer
+	DisplayName: 月亮Hammer
 	Tooltip: ""
 }
 
 SelenitePickaxe: {
-	DisplayName: Selenite Pickaxe
+	DisplayName: 月亮Pickaxe
 	Tooltip: ""
 }
 
@@ -563,12 +563,12 @@ CraterDemonMask: {
 }
 
 DianiteFork: {
-	DisplayName: Dianite Fork
+	DisplayName: 黛安娜Fork
 	Tooltip: Fire swirling magic at your enemies!
 }
 
 DianiteTome: {
-	DisplayName: Dianite Tome
+	DisplayName: 黛安娜Tome
 	Tooltip:
 		'''
 		Conjure a portal to rain 
@@ -582,27 +582,27 @@ ImbriumJewel: {
 }
 
 AluminumBroadsword: {
-	DisplayName: Aluminum Broadsword
+	DisplayName: 铝Broadsword
 	Tooltip: ""
 }
 
 AluminumShortsword: {
-	DisplayName: Aluminum Shortsword
+	DisplayName: 铝Shortsword
 	Tooltip: ""
 }
 
 ArtemiteGreatsword: {
-	DisplayName: Artemite Greatsword
+	DisplayName: 嫦娥Greatsword
 	Tooltip: Hold <right> for a charged up swing
 }
 
 ArtemiteSpear: {
-	DisplayName: Artemite Spear
+	DisplayName: 嫦娥Spear
 	Tooltip: <right> to throw the spear
 }
 
 ArtemiteSword: {
-	DisplayName: Artemite Straightsword
+	DisplayName: 嫦娥Straightsword
 	Tooltip: ""
 }
 
@@ -631,7 +631,7 @@ Noxsaber: {
 }
 
 AluminumBow: {
-	DisplayName: Aluminum Bow
+	DisplayName: 铝Bow
 	Tooltip: ""
 }
 
@@ -669,12 +669,12 @@ NWARocketLauncher: {
 }
 
 SeleniteBow: {
-	DisplayName: Selenite Bow
+	DisplayName: 月亮Bow
 	Tooltip: Fires two arrows
 }
 
 SeleniteMagnum: {
-	DisplayName: Selenite Magnum
+	DisplayName: 月亮Magnum
 	Tooltip: <right> to rapidly fan six bullets
 }
 
@@ -684,12 +684,12 @@ CalcicCane: {
 }
 
 ChandriumStaff: {
-	DisplayName: Chandrium Staff
+	DisplayName: 常羲Staff
 	Tooltip: Summons a Crescent Ghoul to fight for you
 }
 
 ChandriumWhip: {
-	DisplayName: Chandrium Whip
+	DisplayName: 常羲Whip
 	Tooltip: Extra damage every third hit
 }
 
@@ -746,22 +746,22 @@ ChampionsBlade: {
 }
 
 SilicaCrimsand: {
-	DisplayName: Silica Crimsand
+	DisplayName: 猩红二氧化硅沙
 	Tooltip: ""
 }
 
 SilicaEbonsand: {
-	DisplayName: Silica Ebonsand
+	DisplayName: 腐化二氧化硅沙
 	Tooltip: ""
 }
 
 SilicaPearlsand: {
-	DisplayName: Silica Pearlsand
+	DisplayName: 神圣二氧化硅沙
 	Tooltip: ""
 }
 
 SilicaSand: {
-	DisplayName: Silica Sand
+	DisplayName: 硅沙
 	Tooltip: ""
 }
 
@@ -771,242 +771,242 @@ LaunchPadMarker: {
 }
 
 SteelBar: {
-	DisplayName: Steel Bar
+	DisplayName: 钢Bar
 	Tooltip: ""
 }
 
 SteelHamaxe: {
-	DisplayName: Steel Hamaxe
+	DisplayName: 钢Hamaxe
 	Tooltip: ""
 }
 
 SteelPickaxe: {
-	DisplayName: Steel Pickaxe
+	DisplayName: 钢Pickaxe
 	Tooltip: ""
 }
 
 SteelZweihander: {
-	DisplayName: Steel Zweihander
+	DisplayName: 钢Zweihander
 	Tooltip: Hold <right> for a charged up swing
 }
 
 SteelCrossbow: {
-	DisplayName: Steel Crossbow
+	DisplayName: 钢Crossbow
 	Tooltip: ""
 }
 
 SteelRifle: {
-	DisplayName: Steel Rifle
+	DisplayName: 钢Rifle
 	Tooltip: ""
 }
 
 IndustrialPlating: {
-	DisplayName: Industrial Plating
+	DisplayName: 工业Plating
 	Tooltip: ""
 }
 
 IndustrialPlatform: {
-	DisplayName: Industrial Platform
+	DisplayName: 工业Platform
 	Tooltip: ""
 }
 
 IndustrialHazardWall: {
-	DisplayName: Industrial Hazard Wall
+	DisplayName: 工业Hazard Wall
 	Tooltip: ""
 }
 
 IndustrialHazardWallUnsafe: {
-	DisplayName: Unsafe Industrial Hazard Wall
+	DisplayName: Unsafe 工业Hazard Wall
 	Tooltip: ""
 }
 
 IndustrialPlatingWall: {
-	DisplayName: Industrial Plating Wall
+	DisplayName: 工业Plating Wall
 	Tooltip: ""
 }
 
 IndustrialPlatingWallUnsafe: {
-	DisplayName: Unsafe Industrial Plating Wall
+	DisplayName: Unsafe 工业Plating Wall
 	Tooltip: ""
 }
 
 IndustrialSquarePaneledWall: {
-	DisplayName: Industrial Square Paneled Wall
+	DisplayName: 工业Square Paneled Wall
 	Tooltip: ""
 }
 
 IndustrialSquarePaneledWallUnsafe: {
-	DisplayName: Unsafe Industrial Square Paneled Wall
+	DisplayName: Unsafe 工业Square Paneled Wall
 	Tooltip: ""
 }
 
 IndustrialTrimmingWall: {
-	DisplayName: Industrial Trimming Wall
+	DisplayName: 工业Trimming Wall
 	Tooltip: ""
 }
 
 IndustrialTrimmingWallUnsafe: {
-	DisplayName: Unsafe Industrial Trimming Wall
+	DisplayName: Unsafe 工业Trimming Wall
 	Tooltip: ""
 }
 
 IndustrialCandle: {
-	DisplayName: Industrial Candle
+	DisplayName: 工业Candle
 	Tooltip: ""
 }
 
 IndustrialLamp: {
-	DisplayName: Industrial Lamp
+	DisplayName: Industrial台灯
 	Tooltip: ""
 }
 
 IndustrialLantern: {
-	DisplayName: Industrial Lantern
+	DisplayName: 工业Lantern
 	Tooltip: ""
 }
 
 IndustrialNeonTube: {
-	DisplayName: Industrial Neon Tube
+	DisplayName: 工业霓虹灯管
 	Tooltip: ""
 }
 
 IndustrialCrate: {
-	DisplayName: Industrial Crate
+	DisplayName: 工业板条箱
 	Tooltip: ""
 }
 
 IndustrialGurney: {
-	DisplayName: Industrial Gurney
+	DisplayName: 工业轮床
 	Tooltip: ""
 }
 
 IndustrialTable: {
-	DisplayName: Industrial Table
+	DisplayName: 工业Table
 	Tooltip: ""
 }
 
 IndustrialWorkbench: {
-	DisplayName: Industrial Workbench
+	DisplayName: 工业Workbench
 	Tooltip: ""
 }
 
 IndustrialBed: {
-	DisplayName: Industrial Bed
+	DisplayName: 工业Bed
 	Tooltip: ""
 }
 
 IndustrialChair: {
-	DisplayName: Industrial Reception Chair
+	DisplayName: 工业Reception Chair
 	Tooltip: ""
 }
 
 IndustrialChairSleek: {
-	DisplayName: Industrial Sleek Chair
+	DisplayName: 工业Sleek Chair
 	Tooltip: ""
 }
 
 IndustrialDeskLamp: {
-	DisplayName: Industrial Desk Lamp
+	DisplayName: 工业台灯
 	Tooltip: ""
 }
 
 IndustrialSofa: {
-	DisplayName: Industrial Sofa
+	DisplayName: Industrial沙发
 	Tooltip: ""
 }
 
 IndustrialChest: {
-	DisplayName: Industrial Storage Unit
+	DisplayName: 工业存储单元
 	Tooltip: ""
 }
 
 IndustrialChestElectronic: {
-	DisplayName: Industrial Electronic Storage Unit
+	DisplayName: 工业电子存储单元
 	Tooltip: ""
 }
 
 IndustrialLocker: {
-	DisplayName: Industrial Locker
+	DisplayName: 工业储物柜
 	Tooltip: ""
 }
 
 IndustrialDoor: {
-	DisplayName: Industrial Door
+	DisplayName: 工业Door
 	Tooltip: ""
 }
 
 IndustrialBulkhead: {
-	DisplayName: Industrial Bulkhead
+	DisplayName: 工业舱壁
 	Tooltip: ""
 }
 
 IndustrialBathtub: {
-	DisplayName: Industrial Bathtub
+	DisplayName: 工业Bathtub
 	Tooltip: ""
 }
 
 IndustrialControlPanel: {
-	DisplayName: Industrial Control Panel
+	DisplayName: 工业控制面板
 	Tooltip: ""
 }
 
 IndustrialControlStation: {
-	DisplayName: Industrial Control Station
+	DisplayName: 工业控制站
 	Tooltip: ""
 }
 
 IndustrialDeskClock: {
-	DisplayName: Industrial Desk Clock
+	DisplayName: 工业台钟
 	Tooltip: ""
 }
 
 IndustrialPiano: {
-	DisplayName: Industrial Piano
+	DisplayName: 工业Piano
 	Tooltip: ""
 }
 
 IndustrialSink: {
-	DisplayName: Industrial Sink
+	DisplayName: 工业Sink
 	Tooltip: ""
 }
 
 IndustrialBookcase: {
-	DisplayName: Industrial Bookcase
+	DisplayName: 工业Bookcase
 	Tooltip: ""
 }
 
 IndustrialCeilingMonitor: {
-	DisplayName: Industrial Ceiling Monitor
+	DisplayName: 工业屋顶显示器
 	Tooltip: ""
 }
 
 IndustrialDeskMonitor: {
-	DisplayName: Industrial Desk Monitor
+	DisplayName: 工业台式显示器
 	Tooltip: ""
 }
 
 IndustrialWallMonitor: {
-	DisplayName: Industrial Wall Monitor
+	DisplayName: 工业挂壁显示器
 	Tooltip: ""
 }
 
 IndustrialDresser: {
-	DisplayName: Industrial Dresser
+	DisplayName: 工业Dresser
 	Tooltip: ""
 }
 
 IndustrialToilet: {
-	DisplayName: Industrial Toilet
+	DisplayName: 工业Toilet
 	Tooltip: ""
 }
 
 OilRefinery: {
-	DisplayName: Oil Refinery
+	DisplayName: 炼油厂
 	Tooltip: Used to refine fuel and other fluids
 }
 
 SolarPanelSmall: {
-	DisplayName: Solar Panel
+	DisplayName: 太阳能电池板
 	Tooltip: Converts solar energy into electricity
 }
 
@@ -1021,7 +1021,7 @@ Procellarum: {
 }
 
 LexanGlass: {
-	DisplayName: Lexan Glass
+	DisplayName: 有机玻璃
 	Tooltip: ""
 }
 
@@ -1041,12 +1041,12 @@ XFLR6: {
 }
 
 InvarArrow: {
-	DisplayName: Invar Arrow
+	DisplayName: 殷钢箭
 	Tooltip: High velocity arrows that pierce enemies
 }
 
 InvarBullet: {
-	DisplayName: Invar Bullet
+	DisplayName: 殷钢弹
 	Tooltip: Might ricochet between enemies
 }
 
@@ -1061,17 +1061,17 @@ TeddyBear: {
 }
 
 SteelChestplate: {
-	DisplayName: Steel Chestplate
+	DisplayName: 钢Chestplate
 	Tooltip: ""
 }
 
 SteelHelmet: {
-	DisplayName: Steel Helmet
+	DisplayName: 钢Helmet
 	Tooltip: ""
 }
 
 SteelLeggings: {
-	DisplayName: Steel Leggings
+	DisplayName: 钢Leggings
 	Tooltip: ""
 }
 
@@ -1081,7 +1081,7 @@ RapaciousBrand: {
 }
 
 Motor: {
-	DisplayName: Motor
+	DisplayName: 电动机
 	Tooltip: ""
 }
 
@@ -1116,42 +1116,42 @@ MoonHeadstone: {
 }
 
 Coal: {
-	DisplayName: Coal
+	DisplayName: 煤炭
 	Tooltip: ""
 }
 
 OxygenSystem: {
-	DisplayName: Oxygen System
+	DisplayName: 氧气系统
 	Tooltip: ""
 }
 
 MercurianBanner: {
-	DisplayName: Mercurian Banner
+	DisplayName: 水星旗
 	Tooltip: ""
 }
 
 DeadworldMusicBox: {
-	DisplayName: Music Box (Deadworld)
+	DisplayName: 音乐盒 (Deadworld)
 	Tooltip: ""
 }
 
 RequiemMusicBox: {
-	DisplayName: Music Box (Requiem)
+	DisplayName: 音乐盒 (Requiem)
 	Tooltip: ""
 }
 
 SpaceInvaderMusicBox: {
-	DisplayName: Music Box (Space Invader)
+	DisplayName: 音乐盒 (Space Invader)
 	Tooltip: ""
 }
 
 StygiaMusicBox: {
-	DisplayName: Music Box (Stygia)
+	DisplayName: 音乐盒 (Stygia)
 	Tooltip: ""
 }
 
 IntoTheUnknownMusicBox: {
-	DisplayName: Music Box (Into The Unknown)
+	DisplayName: 音乐盒 (Into The Unknown)
 	Tooltip: ""
 }
 
@@ -1161,7 +1161,7 @@ OsmiumBoots: {
 }
 
 EarthGlobe: {
-	DisplayName: Earth Globe
+	DisplayName: 地球仪
 	Tooltip: Home sweet home!
 }
 
@@ -1171,7 +1171,7 @@ PowerJunction: {
 }
 
 Computer: {
-	DisplayName: Computer
+	DisplayName: 电脑
 	Tooltip: ""
 }
 
@@ -1191,12 +1191,12 @@ SpacesuitFabric: {
 }
 
 ConstructionLight: {
-	DisplayName: Construction Light
+	DisplayName: 建筑灯具
 	Tooltip: ""
 }
 
 OreExcavator: {
-	DisplayName: Ore Excavator
+	DisplayName: 矿石挖掘机
 	Tooltip:
 		'''
 		Automatically extracts ores and resources from underground
@@ -1226,7 +1226,7 @@ ReactorHousing: {
 }
 
 Fabricator: {
-	DisplayName: Fabricator
+	DisplayName: 制造商
 	Tooltip: Used to craft machines and rocket components
 }
 
@@ -1255,8 +1255,8 @@ RocketPlating: {
 	Tooltip: ""
 }
 
-CoalBrick: {
-	DisplayName: Coal Brick
+煤炭Brick: {
+	DisplayName: 煤炭Brick
 	Tooltip: ""
 }
 
@@ -1282,8 +1282,8 @@ CopperWire: {
 	Tooltip: ""
 }
 
-GothicCoalBrick: {
-	DisplayName: Gothic Coal Brick
+Gothic煤炭Brick: {
+	DisplayName: Gothic 煤炭Brick
 	Tooltip: ""
 }
 
@@ -1293,7 +1293,7 @@ SpookyDookie: {
 }
 
 CheeseBlock: {
-	DisplayName: Cheese Block
+	DisplayName: 奶酪块
 	Tooltip: ""
 }
 
@@ -1308,117 +1308,117 @@ CapstoneRush: {
 }
 
 CheeseBathtub: {
-	DisplayName: Cheese Bathtub
+	DisplayName: 奶酪Bathtub
 	Tooltip: ""
 }
 
 CheeseBed: {
-	DisplayName: Cheese Bed
+	DisplayName: 奶酪Bed
 	Tooltip: ""
 }
 
 CheeseBookcase: {
-	DisplayName: Cheese Bookcase
+	DisplayName: 奶酪Bookcase
 	Tooltip: ""
 }
 
 CheeseCandelabra: {
-	DisplayName: Cheese Candelabra
+	DisplayName: 奶酪Candelabra
 	Tooltip: ""
 }
 
 CheeseCandle: {
-	DisplayName: Cheese Candle
+	DisplayName: 奶酪Candle
 	Tooltip: ""
 }
 
 CheeseChair: {
-	DisplayName: Cheese Chair
+	DisplayName: 奶酪Chair
 	Tooltip: ""
 }
 
 CheeseChandelier: {
-	DisplayName: Cheese Chandelier
+	DisplayName: 奶酪Chandelier
 	Tooltip: ""
 }
 
 CheeseChest: {
-	DisplayName: Cheese Chest
+	DisplayName: 奶酪箱
 	Tooltip: ""
 }
 
 CheeseClock: {
-	DisplayName: Cheese Clock
+	DisplayName: 奶酪Clock
 	Tooltip: ""
 }
 
 CheeseDoor: {
-	DisplayName: Cheese Door
+	DisplayName: 奶酪Door
 	Tooltip: ""
 }
 
 CheeseDresser: {
-	DisplayName: Cheese Dresser
+	DisplayName: 奶酪Dresser
 	Tooltip: ""
 }
 
 CheeseLamp: {
-	DisplayName: Cheese Lamp
+	DisplayName: Cheese台灯
 	Tooltip: ""
 }
 
 CheeseLantern: {
-	DisplayName: Cheese Lantern
+	DisplayName: 奶酪Lantern
 	Tooltip: ""
 }
 
 CheesePiano: {
-	DisplayName: Cheese Piano
+	DisplayName: 奶酪Piano
 	Tooltip: ""
 }
 
 CheeseSink: {
-	DisplayName: Cheese Sink
+	DisplayName: 奶酪Sink
 	Tooltip: ""
 }
 
 CheeseSofa: {
-	DisplayName: Cheese Sofa
+	DisplayName: Cheese沙发
 	Tooltip: ""
 }
 
 CheeseTable: {
-	DisplayName: Cheese Table
+	DisplayName: 奶酪Table
 	Tooltip: ""
 }
 
 CheeseToilet: {
-	DisplayName: Cheese Toilet
+	DisplayName: 奶酪Toilet
 	Tooltip: This is a horrible idea.
 }
 
 CheeseWorkbench: {
-	DisplayName: Cheese Workbench
+	DisplayName: 奶酪Workbench
 	Tooltip: ""
 }
 
 LuminiteBookcase: {
-	DisplayName: Luminite Bookcase
+	DisplayName: 月明Bookcase
 	Tooltip: ""
 }
 
 LuminiteChair: {
-	DisplayName: Luminite Chair
+	DisplayName: 月明Chair
 	Tooltip: ""
 }
 
 LuminiteClock: {
-	DisplayName: Luminite Clock
+	DisplayName: 月明Clock
 	Tooltip: ""
 }
 
 LuminiteToilet: {
-	DisplayName: Luminite Toilet
+	DisplayName: 月明Toilet
 	Tooltip: ""
 }
 
@@ -1443,7 +1443,7 @@ EmployeeVisor: {
 }
 
 Boombox: {
-	DisplayName: Boombox
+	DisplayName: 音响
 	Tooltip: ""
 }
 
@@ -1453,12 +1453,12 @@ StopSign: {
 }
 
 WindTurbineLarge: {
-	DisplayName: Large Wind Turbine
+	DisplayName: Large 风力发电机
 	Tooltip: Converts wind energy into electricity
 }
 
 WindTurbineSmall: {
-	DisplayName: Wind Turbine
+	DisplayName: 风力发电机
 	Tooltip: Converts wind energy into electricity
 }
 
@@ -1478,12 +1478,12 @@ DisplayScreen: {
 }
 
 BurnerGenerator: {
-	DisplayName: Burner Generator
+	DisplayName: 燃烧机
 	Tooltip: Converts combustable fuel into electricity
 }
 
 IndustrialServer: {
-	DisplayName: Industrial Server
+	DisplayName: 工业服务器
 	Tooltip: ""
 }
 
@@ -1493,7 +1493,7 @@ InANutshell: {
 }
 
 Medkit: {
-	DisplayName: Medkit
+	DisplayName: 医疗包
 	Tooltip: ""
 	RestoreLifeText: "{0} over {1} {^1:second;seconds}"
 }
@@ -1531,352 +1531,352 @@ Cynthalith: {
 }
 
 AstraBookcase: {
-	DisplayName: Astra Bookcase
+	DisplayName: 星芒Bookcase
 	Tooltip: ""
 }
 
 AstraChair: {
-	DisplayName: Astra Chair
+	DisplayName: 星芒Chair
 	Tooltip: ""
 }
 
 AstraChest: {
-	DisplayName: Astra Chest
+	DisplayName: 星芒Chest
 	Tooltip: ""
 }
 
 AstraClock: {
-	DisplayName: Astra Clock
+	DisplayName: 星芒Clock
 	Tooltip: ""
 }
 
 AstraToilet: {
-	DisplayName: Astra Toilet
+	DisplayName: 星芒Toilet
 	Tooltip: ""
 }
 
 CosmicEmberBookcase: {
-	DisplayName: Cosmic Ember Bookcase
+	DisplayName: 宇宙余烬 Bookcase
 	Tooltip: ""
 }
 
 CosmicEmberChair: {
-	DisplayName: Cosmic Ember Chair
+	DisplayName: 宇宙余烬 Chair
 	Tooltip: ""
 }
 
 CosmicEmberChest: {
-	DisplayName: Cosmic Ember Chest
+	DisplayName: 宇宙余烬 Chest
 	Tooltip: ""
 }
 
 CosmicEmberClock: {
-	DisplayName: Cosmic Ember Clock
+	DisplayName: 宇宙余烬 Clock
 	Tooltip: ""
 }
 
 CosmicEmberToilet: {
-	DisplayName: Cosmic Ember Toilet
+	DisplayName: 宇宙余烬 Toilet
 	Tooltip: ""
 }
 
 CryocoreBookcase: {
-	DisplayName: Cryocore Bookcase
+	DisplayName: 冷核Bookcase
 	Tooltip: ""
 }
 
 CryocoreChair: {
-	DisplayName: Cryocore Chair
+	DisplayName: 冷核Chair
 	Tooltip: ""
 }
 
 CryocoreChest: {
-	DisplayName: Cryocore Chest
+	DisplayName: 冷核Chest
 	Tooltip: ""
 }
 
 CryocoreClock: {
-	DisplayName: Cryocore Clock
+	DisplayName: 冷核Clock
 	Tooltip: ""
 }
 
 CryocoreToilet: {
-	DisplayName: Cryocore Toilet
+	DisplayName: 冷核Toilet
 	Tooltip: ""
 }
 
 DarkCelestialBookcase: {
-	DisplayName: Dark Celestial Bookcase
+	DisplayName: 暗黑天界Bookcase
 	Tooltip: ""
 }
 
 DarkCelestialChair: {
-	DisplayName: Dark Celestial Chair
+	DisplayName: 暗黑天界Chair
 	Tooltip: ""
 }
 
 DarkCelestialChest: {
-	DisplayName: Dark Celestial Chest
+	DisplayName: 暗黑天界Chest
 	Tooltip: ""
 }
 
 DarkCelestialClock: {
-	DisplayName: Dark Celestial Clock
+	DisplayName: 暗黑天界Clock
 	Tooltip: ""
 }
 
 DarkCelestialToilet: {
-	DisplayName: Dark Celestial Toilet
+	DisplayName: 暗黑天界Toilet
 	Tooltip: ""
 }
 
 HeavenforgeBookcase: {
-	DisplayName: Heavenforge Bookcase
+	DisplayName: 天熔Bookcase
 	Tooltip: ""
 }
 
 HeavenforgeChair: {
-	DisplayName: Heavenforge Chair
+	DisplayName: 天熔Chair
 	Tooltip: ""
 }
 
 HeavenforgeChest: {
-	DisplayName: Heavenforge Chest
+	DisplayName: 天熔Chest
 	Tooltip: ""
 }
 
 HeavenforgeClock: {
-	DisplayName: Heavenforge Clock
+	DisplayName: 天熔Clock
 	Tooltip: ""
 }
 
 HeavenforgeToilet: {
-	DisplayName: Heavenforge Toilet
+	DisplayName: 天熔Toilet
 	Tooltip: ""
 }
 
 LuminiteChest: {
-	DisplayName: Luminite Chest
+	DisplayName: 月明Chest
 	Tooltip: ""
 }
 
 LunarRustBookcase: {
-	DisplayName: Lunar Rust Bookcase
+	DisplayName: 月锈 Bookcase
 	Tooltip: ""
 }
 
 LunarRustChair: {
-	DisplayName: Lunar Rust Chair
+	DisplayName: 月锈 Chair
 	Tooltip: ""
 }
 
 LunarRustChest: {
-	DisplayName: Lunar Rust Chest
+	DisplayName: 月锈 Chest
 	Tooltip: ""
 }
 
 LunarRustClock: {
-	DisplayName: Lunar Rust Clock
+	DisplayName: 月锈 Clock
 	Tooltip: ""
 }
 
 LunarRustToilet: {
-	DisplayName: Lunar Rust Toilet
+	DisplayName: 月锈 Toilet
 	Tooltip: ""
 }
 
 MercuryBookcase: {
-	DisplayName: Mercury Bookcase
+	DisplayName: 水星Bookcase
 	Tooltip: ""
 }
 
 MercuryChair: {
-	DisplayName: Mercury Chair
+	DisplayName: 水星Chair
 	Tooltip: ""
 }
 
 MercuryChest: {
-	DisplayName: Mercury Chest
+	DisplayName: 水星Chest
 	Tooltip: ""
 }
 
 MercuryClock: {
-	DisplayName: Mercury Clock
+	DisplayName: 水星Clock
 	Tooltip: ""
 }
 
 MercuryToilet: {
-	DisplayName: Mercury Toilet
+	DisplayName: 水星Toilet
 	Tooltip: ""
 }
 
 StarRoyaleBookcase: {
-	DisplayName: Star Royale Bookcase
+	DisplayName: 星星皇家 Bookcase
 	Tooltip: ""
 }
 
 StarRoyaleChair: {
-	DisplayName: Star Royale Chair
+	DisplayName: 星星皇家 Chair
 	Tooltip: ""
 }
 
 StarRoyaleChest: {
-	DisplayName: Star Royale Chest
+	DisplayName: 星星皇家 Chest
 	Tooltip: ""
 }
 
 StarRoyaleClock: {
-	DisplayName: Star Royale Clock
+	DisplayName: 星星皇家 Clock
 	Tooltip: ""
 }
 
 StarRoyaleToilet: {
-	DisplayName: Star Royale Toilet
+	DisplayName: 星星皇家 Toilet
 	Tooltip: ""
 }
 
 XaocKey: {
 	DisplayName: Xaoc Key
-	Tooltip: Opens all Luminite Chests
+	Tooltip: Opens all 月明Chests
 }
 
 AstraCandelabra: {
-	DisplayName: Astra Candelabra
+	DisplayName: 星芒Candelabra
 	Tooltip: ""
 }
 
 AstraCandle: {
-	DisplayName: Astra Candle
+	DisplayName: 星芒Candle
 	Tooltip: ""
 }
 
 AstraLantern: {
-	DisplayName: Astra Lantern
+	DisplayName: 星芒Lantern
 	Tooltip: ""
 }
 
 CosmicEmberCandelabra: {
-	DisplayName: Cosmic Ember Candelabra
+	DisplayName: 宇宙余烬 Candelabra
 	Tooltip: ""
 }
 
 CosmicEmberCandle: {
-	DisplayName: Cosmic Ember Candle
+	DisplayName: 宇宙余烬 Candle
 	Tooltip: ""
 }
 
 CosmicEmberLantern: {
-	DisplayName: Cosmic Ember Lantern
+	DisplayName: 宇宙余烬 Lantern
 	Tooltip: ""
 }
 
 CryocoreCandelabra: {
-	DisplayName: Cryocore Candelabra
+	DisplayName: 冷核Candelabra
 	Tooltip: ""
 }
 
 CryocoreCandle: {
-	DisplayName: Cryocore Candle
+	DisplayName: 冷核Candle
 	Tooltip: ""
 }
 
 CryocoreLantern: {
-	DisplayName: Cryocore Lantern
+	DisplayName: 冷核Lantern
 	Tooltip: ""
 }
 
 DarkCelestialCandelabra: {
-	DisplayName: Dark Celestial Candelabra
+	DisplayName: 暗黑天界Candelabra
 	Tooltip: ""
 }
 
 DarkCelestialCandle: {
-	DisplayName: Dark Celestial Candle
+	DisplayName: 暗黑天界Candle
 	Tooltip: ""
 }
 
 DarkCelestialLantern: {
-	DisplayName: Dark Celestial Lantern
+	DisplayName: 暗黑天界Lantern
 	Tooltip: ""
 }
 
 HeavenforgeCandelabra: {
-	DisplayName: Heavenforge Candelabra
+	DisplayName: 天熔Candelabra
 	Tooltip: ""
 }
 
 HeavenforgeCandle: {
-	DisplayName: Heavenforge Candle
+	DisplayName: 天熔Candle
 	Tooltip: ""
 }
 
 HeavenforgeLantern: {
-	DisplayName: Heavenforge Lantern
+	DisplayName: 天熔Lantern
 	Tooltip: ""
 }
 
 LuminiteCandelabra: {
-	DisplayName: Luminite Candelabra
+	DisplayName: 月明Candelabra
 	Tooltip: ""
 }
 
 LuminiteCandle: {
-	DisplayName: Luminite Candle
+	DisplayName: 月明Candle
 	Tooltip: ""
 }
 
 LuminiteLantern: {
-	DisplayName: Luminite Lantern
+	DisplayName: 月明Lantern
 	Tooltip: ""
 }
 
 LunarRustCandelabra: {
-	DisplayName: Lunar Rust Candelabra
+	DisplayName: 月锈 Candelabra
 	Tooltip: ""
 }
 
 LunarRustCandle: {
-	DisplayName: Lunar Rust Candle
+	DisplayName: 月锈 Candle
 	Tooltip: ""
 }
 
 LunarRustLantern: {
-	DisplayName: Lunar Rust Lantern
+	DisplayName: 月锈 Lantern
 	Tooltip: ""
 }
 
 MercuryCandelabra: {
-	DisplayName: Mercury Candelabra
+	DisplayName: 水星Candelabra
 	Tooltip: ""
 }
 
 MercuryCandle: {
-	DisplayName: Mercury Candle
+	DisplayName: 水星Candle
 	Tooltip: ""
 }
 
 MercuryLantern: {
-	DisplayName: Mercury Lantern
+	DisplayName: 水星Lantern
 	Tooltip: ""
 }
 
 StarRoyaleCandelabra: {
-	DisplayName: Star Royale Candelabra
+	DisplayName: 星星皇家 Candelabra
 	Tooltip: ""
 }
 
 StarRoyaleCandle: {
-	DisplayName: Star Royale Candle
+	DisplayName: 星星皇家 Candle
 	Tooltip: ""
 }
 
 StarRoyaleLantern: {
-	DisplayName: Star Royale Lantern
+	DisplayName: 星星皇家 Lantern
 	Tooltip: ""
 }
 
 AntiRadiationPills: {
-	DisplayName: Anti Radiation Pills
+	DisplayName: 抗辐射药丸
 	Tooltip: ""
 }
 
@@ -1891,7 +1891,7 @@ Sledgehammer: {
 }
 
 IrradiatedAltar: {
-	DisplayName: Irradiated Altar
+	DisplayName: 辐照祭坛
 	Tooltip: ""
 }
 
@@ -1926,7 +1926,7 @@ Micronova: {
 }
 
 LexanGlassWall: {
-	DisplayName: Lexan Glass Wall
+	DisplayName: 有机玻璃 Wall
 	Tooltip: ""
 }
 
@@ -1936,12 +1936,12 @@ KyaniteScarabCritter: {
 }
 
 Fridge: {
-	DisplayName: Fridge
+	DisplayName: 冰箱
 	Tooltip: ""
 }
 
 IVPole: {
-	DisplayName: IV Pole
+	DisplayName: 输液架
 	Tooltip: ""
 }
 
@@ -1976,52 +1976,52 @@ Totality: {
 }
 
 AstraWorkbench: {
-	DisplayName: Astra Workbench
+	DisplayName: 星芒Workbench
 	Tooltip: ""
 }
 
 CosmicEmberWorkbench: {
-	DisplayName: Cosmic Ember Workbench
+	DisplayName: 宇宙余烬 Workbench
 	Tooltip: ""
 }
 
 CryocoreWorkbench: {
-	DisplayName: Cryocore Workbench
+	DisplayName: 冷核Workbench
 	Tooltip: ""
 }
 
 DarkCelestialWorkbench: {
-	DisplayName: Dark Celestial Workbench
+	DisplayName: 暗黑天界Workbench
 	Tooltip: ""
 }
 
 HeavenforgeWorkbench: {
-	DisplayName: Heavenforge Workbench
+	DisplayName: 天熔Workbench
 	Tooltip: ""
 }
 
 LuminiteWorkbench: {
-	DisplayName: Luminite Workbench
+	DisplayName: 月明Workbench
 	Tooltip: ""
 }
 
 LunarRustWorkbench: {
-	DisplayName: Lunar Rust Workbench
+	DisplayName: 月锈 Workbench
 	Tooltip: ""
 }
 
 MercuryWorkbench: {
-	DisplayName: Mercury Workbench
+	DisplayName: 水星Workbench
 	Tooltip: ""
 }
 
 StarRoyaleWorkbench: {
-	DisplayName: Star Royale Workbench
+	DisplayName: 星星皇家 Workbench
 	Tooltip: ""
 }
 
 InvarBar: {
-	DisplayName: Invar Bar
+	DisplayName: 殷钢Bar
 	Tooltip: ""
 }
 
@@ -2144,7 +2144,7 @@ GreatstaffOfHorus: {
 }
 
 LuminiteTorch: {
-	DisplayName: Luminite Torch
+	DisplayName: 月明Torch
 	Tooltip: Can be used in airless environments.
 }
 
@@ -2154,47 +2154,47 @@ RyuguStaff: {
 }
 
 AstraDoor: {
-	DisplayName: Astra Door
+	DisplayName: 星芒Door
 	Tooltip: ""
 }
 
 CosmicEmberDoor: {
-	DisplayName: Cosmic Ember Door
+	DisplayName: 宇宙余烬 Door
 	Tooltip: ""
 }
 
 CryocoreDoor: {
-	DisplayName: Cryocore Door
+	DisplayName: 冷核Door
 	Tooltip: ""
 }
 
 DarkCelestialDoor: {
-	DisplayName: Dark Celestial Door
+	DisplayName: 暗黑天界Door
 	Tooltip: ""
 }
 
 HeavenforgeDoor: {
-	DisplayName: Heavenforge Door
+	DisplayName: 天熔Door
 	Tooltip: ""
 }
 
 LuminiteDoor: {
-	DisplayName: Luminite Door
+	DisplayName: 月明Door
 	Tooltip: ""
 }
 
 LunarRustDoor: {
-	DisplayName: Lunar Rust Door
+	DisplayName: 月锈 Door
 	Tooltip: ""
 }
 
 MercuryDoor: {
-	DisplayName: Mercury Door
+	DisplayName: 水星Door
 	Tooltip: ""
 }
 
 StarRoyaleDoor: {
-	DisplayName: Star Royale Door
+	DisplayName: 星星皇家 Door
 	Tooltip: ""
 }
 
@@ -2224,462 +2224,462 @@ ProtolithBrickWallUnsafe: {
 }
 
 AstraBathtub: {
-	DisplayName: Astra Bathtub
+	DisplayName: 星芒Bathtub
 	Tooltip: ""
 }
 
 AstraBed: {
-	DisplayName: Astra Bed
+	DisplayName: 星芒Bed
 	Tooltip: ""
 }
 
 AstraChandelier: {
-	DisplayName: Astra Chandelier
+	DisplayName: 星芒Chandelier
 	Tooltip: ""
 }
 
 AstraDresser: {
-	DisplayName: Astra Dresser
+	DisplayName: 星芒Dresser
 	Tooltip: ""
 }
 
 AstraLamp: {
-	DisplayName: Astra Lamp
+	DisplayName: 星芒Lamp
 	Tooltip: ""
 }
 
 AstraPiano: {
-	DisplayName: Astra Piano
+	DisplayName: 星芒Piano
 	Tooltip: ""
 }
 
 AstraSink: {
-	DisplayName: Astra Sink
+	DisplayName: 星芒Sink
 	Tooltip: ""
 }
 
 AstraSofa: {
-	DisplayName: Astra Sofa
+	DisplayName: 星芒Sofa
 	Tooltip: ""
 }
 
 AstraTable: {
-	DisplayName: Astra Table
+	DisplayName: 星芒Table
 	Tooltip: ""
 }
 
 CosmicEmberBathtub: {
-	DisplayName: Cosmic Ember Bathtub
+	DisplayName: 宇宙余烬 Bathtub
 	Tooltip: ""
 }
 
 CosmicEmberBed: {
-	DisplayName: Cosmic Ember Bed
+	DisplayName: 宇宙余烬 Bed
 	Tooltip: ""
 }
 
 CosmicEmberChandelier: {
-	DisplayName: Cosmic Ember Chandelier
+	DisplayName: 宇宙余烬 Chandelier
 	Tooltip: ""
 }
 
 CosmicEmberDresser: {
-	DisplayName: Cosmic Ember Dresser
+	DisplayName: 宇宙余烬 Dresser
 	Tooltip: ""
 }
 
 CosmicEmberLamp: {
-	DisplayName: Cosmic Ember Lamp
+	DisplayName: 宇宙余烬台灯
 	Tooltip: ""
 }
 
 CosmicEmberPiano: {
-	DisplayName: Cosmic Ember Piano
+	DisplayName: 宇宙余烬 Piano
 	Tooltip: ""
 }
 
 CosmicEmberSink: {
-	DisplayName: Cosmic Ember Sink
+	DisplayName: 宇宙余烬 Sink
 	Tooltip: ""
 }
 
 CosmicEmberSofa: {
-	DisplayName: Cosmic Ember Sofa
+	DisplayName: 宇宙余烬沙发
 	Tooltip: ""
 }
 
 CosmicEmberTable: {
-	DisplayName: Cosmic Ember Table
+	DisplayName: 宇宙余烬 Table
 	Tooltip: ""
 }
 
 CryocoreBathtub: {
-	DisplayName: Cryocore Bathtub
+	DisplayName: 冷核Bathtub
 	Tooltip: ""
 }
 
 CryocoreBed: {
-	DisplayName: Cryocore Bed
+	DisplayName: 冷核Bed
 	Tooltip: ""
 }
 
 CryocoreChandelier: {
-	DisplayName: Cryocore Chandelier
+	DisplayName: 冷核Chandelier
 	Tooltip: ""
 }
 
 CryocoreDresser: {
-	DisplayName: Cryocore Dresser
+	DisplayName: 冷核Dresser
 	Tooltip: ""
 }
 
 CryocoreLamp: {
-	DisplayName: Cryocore Lamp
+	DisplayName: 冷核Lamp
 	Tooltip: ""
 }
 
 CryocorePiano: {
-	DisplayName: Cryocore Piano
+	DisplayName: 冷核Piano
 	Tooltip: ""
 }
 
 CryocoreSink: {
-	DisplayName: Cryocore Sink
+	DisplayName: 冷核Sink
 	Tooltip: ""
 }
 
 CryocoreSofa: {
-	DisplayName: Cryocore Sofa
+	DisplayName: 冷核Sofa
 	Tooltip: ""
 }
 
 CryocoreTable: {
-	DisplayName: Cryocore Table
+	DisplayName: 冷核Table
 	Tooltip: ""
 }
 
 DarkCelestialBathtub: {
-	DisplayName: Dark Celestial Bathtub
+	DisplayName: 暗黑天界Bathtub
 	Tooltip: ""
 }
 
 DarkCelestialBed: {
-	DisplayName: Dark Celestial Bed
+	DisplayName: 暗黑天界Bed
 	Tooltip: ""
 }
 
 DarkCelestialChandelier: {
-	DisplayName: Dark Celestial Chandelier
+	DisplayName: 暗黑天界Chandelier
 	Tooltip: ""
 }
 
 DarkCelestialDresser: {
-	DisplayName: Dark Celestial Dresser
+	DisplayName: 暗黑天界Dresser
 	Tooltip: ""
 }
 
 DarkCelestialLamp: {
-	DisplayName: Dark Celestial Lamp
+	DisplayName: 暗黑天界Lamp
 	Tooltip: ""
 }
 
 DarkCelestialPiano: {
-	DisplayName: Dark Celestial Piano
+	DisplayName: 暗黑天界Piano
 	Tooltip: ""
 }
 
 DarkCelestialSink: {
-	DisplayName: Dark Celestial Sink
+	DisplayName: 暗黑天界Sink
 	Tooltip: ""
 }
 
 DarkCelestialSofa: {
-	DisplayName: Dark Celestial Sofa
+	DisplayName: 暗黑天界Sofa
 	Tooltip: ""
 }
 
 DarkCelestialTable: {
-	DisplayName: Dark Celestial Table
+	DisplayName: 暗黑天界Table
 	Tooltip: ""
 }
 
 HeavenforgeBathtub: {
-	DisplayName: Heavenforge Bathtub
+	DisplayName: 天熔Bathtub
 	Tooltip: ""
 }
 
 HeavenforgeBed: {
-	DisplayName: Heavenforge Bed
+	DisplayName: 天熔Bed
 	Tooltip: ""
 }
 
 HeavenforgeChandelier: {
-	DisplayName: Heavenforge Chandelier
+	DisplayName: 天熔Chandelier
 	Tooltip: ""
 }
 
 HeavenforgeDresser: {
-	DisplayName: Heavenforge Dresser
+	DisplayName: 天熔Dresser
 	Tooltip: ""
 }
 
 HeavenforgeLamp: {
-	DisplayName: Heavenforge Lamp
+	DisplayName: 天熔Lamp
 	Tooltip: ""
 }
 
 HeavenforgePiano: {
-	DisplayName: Heavenforge Piano
+	DisplayName: 天熔Piano
 	Tooltip: ""
 }
 
 HeavenforgeSink: {
-	DisplayName: Heavenforge Sink
+	DisplayName: 天熔Sink
 	Tooltip: ""
 }
 
 HeavenforgeSofa: {
-	DisplayName: Heavenforge Sofa
+	DisplayName: 天熔Sofa
 	Tooltip: ""
 }
 
 HeavenforgeTable: {
-	DisplayName: Heavenforge Table
+	DisplayName: 天熔Table
 	Tooltip: ""
 }
 
 LuminiteBathtub: {
-	DisplayName: Luminite Bathtub
+	DisplayName: 月明Bathtub
 	Tooltip: ""
 }
 
 LuminiteBed: {
-	DisplayName: Luminite Bed
+	DisplayName: 月明Bed
 	Tooltip: ""
 }
 
 LuminiteChandelier: {
-	DisplayName: Luminite Chandelier
+	DisplayName: 月明Chandelier
 	Tooltip: ""
 }
 
 LuminiteDresser: {
-	DisplayName: Luminite Dresser
+	DisplayName: 月明Dresser
 	Tooltip: ""
 }
 
 LuminiteLamp: {
-	DisplayName: Luminite Lamp
+	DisplayName: 月明Lamp
 	Tooltip: ""
 }
 
 LuminitePiano: {
-	DisplayName: Luminite Piano
+	DisplayName: 月明Piano
 	Tooltip: ""
 }
 
 LuminiteSink: {
-	DisplayName: Luminite Sink
+	DisplayName: 月明Sink
 	Tooltip: ""
 }
 
 LuminiteSofa: {
-	DisplayName: Luminite Sofa
+	DisplayName: 月明Sofa
 	Tooltip: ""
 }
 
 LuminiteTable: {
-	DisplayName: Luminite Table
+	DisplayName: 月明Table
 	Tooltip: ""
 }
 
 LunarRustBathtub: {
-	DisplayName: Lunar Rust Bathtub
+	DisplayName: 月锈 Bathtub
 	Tooltip: ""
 }
 
 LunarRustBed: {
-	DisplayName: Lunar Rust Bed
+	DisplayName: 月锈 Bed
 	Tooltip: ""
 }
 
 LunarRustChandelier: {
-	DisplayName: Lunar Rust Chandelier
+	DisplayName: 月锈 Chandelier
 	Tooltip: ""
 }
 
 LunarRustDresser: {
-	DisplayName: Lunar Rust Dresser
+	DisplayName: 月锈 Dresser
 	Tooltip: ""
 }
 
 LunarRustLamp: {
-	DisplayName: Lunar Rust Lamp
+	DisplayName: 月锈台灯
 	Tooltip: ""
 }
 
 LunarRustPiano: {
-	DisplayName: Lunar Rust Piano
+	DisplayName: 月锈钢琴
 	Tooltip: ""
 }
 
 LunarRustSink: {
-	DisplayName: Lunar Rust Sink
+	DisplayName: 月锈水槽
 	Tooltip: ""
 }
 
 LunarRustSofa: {
-	DisplayName: Lunar Rust Sofa
+	DisplayName: 月锈沙发
 	Tooltip: ""
 }
 
 LunarRustTable: {
-	DisplayName: Lunar Rust Table
+	DisplayName: 月锈 Table
 	Tooltip: ""
 }
 
 MercuryBathtub: {
-	DisplayName: Mercury Bathtub
+	DisplayName: 水星Bathtub
 	Tooltip: ""
 }
 
 MercuryBed: {
-	DisplayName: Mercury Bed
+	DisplayName: 水星Bed
 	Tooltip: ""
 }
 
 MercuryChandelier: {
-	DisplayName: Mercury Chandelier
+	DisplayName: 水星Chandelier
 	Tooltip: ""
 }
 
 MercuryDresser: {
-	DisplayName: Mercury Dresser
+	DisplayName: 水星Dresser
 	Tooltip: ""
 }
 
 MercuryLamp: {
-	DisplayName: Mercury Lamp
+	DisplayName: 水星Lamp
 	Tooltip: ""
 }
 
 MercuryPiano: {
-	DisplayName: Mercury Piano
+	DisplayName: 水星Piano
 	Tooltip: ""
 }
 
 MercurySink: {
-	DisplayName: Mercury Sink
+	DisplayName: 水星Sink
 	Tooltip: ""
 }
 
 MercurySofa: {
-	DisplayName: Mercury Sofa
+	DisplayName: 水星Sofa
 	Tooltip: ""
 }
 
 MercuryTable: {
-	DisplayName: Mercury Table
+	DisplayName: 水星Table
 	Tooltip: ""
 }
 
 StarRoyaleBathtub: {
-	DisplayName: Star Royale Bathtub
+	DisplayName: 星星皇家 Bathtub
 	Tooltip: ""
 }
 
 StarRoyaleBed: {
-	DisplayName: Star Royale Bed
+	DisplayName: 星星皇家 Bed
 	Tooltip: ""
 }
 
 StarRoyaleChandelier: {
-	DisplayName: Star Royale Chandelier
+	DisplayName: 星星皇家 Chandelier
 	Tooltip: ""
 }
 
 StarRoyaleDresser: {
-	DisplayName: Star Royale Dresser
+	DisplayName: 星星皇家 Dresser
 	Tooltip: ""
 }
 
 StarRoyaleLamp: {
-	DisplayName: Star Royale Lamp
+	DisplayName: 星星皇家台灯
 	Tooltip: ""
 }
 
 StarRoyalePiano: {
-	DisplayName: Star Royale Piano
+	DisplayName: 星星皇家 Piano
 	Tooltip: ""
 }
 
 StarRoyaleSink: {
-	DisplayName: Star Royale Sink
+	DisplayName: 星星皇家 Sink
 	Tooltip: ""
 }
 
 StarRoyaleSofa: {
-	DisplayName: Star Royale Sofa
+	DisplayName: 星星皇家沙发
 	Tooltip: ""
 }
 
 StarRoyaleTable: {
-	DisplayName: Star Royale Table
+	DisplayName: 星星皇家 Table
 	Tooltip: ""
 }
 
 AstraPlatform: {
-	DisplayName: Astra Platform
+	DisplayName: 星芒Platform
 	Tooltip: ""
 }
 
 CosmicEmberPlatform: {
-	DisplayName: Cosmic Ember Platform
+	DisplayName: 宇宙余烬 Platform
 	Tooltip: ""
 }
 
 CryocorePlatform: {
-	DisplayName: Cryocore Platform
+	DisplayName: 冷核Platform
 	Tooltip: ""
 }
 
 DarkCelestialPlatform: {
-	DisplayName: Dark Celestial Platform
+	DisplayName: 暗黑天界Platform
 	Tooltip: ""
 }
 
 HeavenforgePlatform: {
-	DisplayName: Heavenforge Platform
+	DisplayName: 天熔Platform
 	Tooltip: ""
 }
 
 LuminitePlatform: {
-	DisplayName: Luminite Platform
+	DisplayName: 月明Platform
 	Tooltip: ""
 }
 
 LunarRustPlatform: {
-	DisplayName: Lunar Rust Platform
+	DisplayName: 月锈 Platform
 	Tooltip: ""
 }
 
 MercuryPlatform: {
-	DisplayName: Mercury Platform
+	DisplayName: 水星Platform
 	Tooltip: ""
 }
 
 StarRoyalePlatform: {
-	DisplayName: Star Royale Platform
+	DisplayName: 星星皇家 Platform
 	Tooltip: ""
 }
 
 CheesePlatform: {
-	DisplayName: Cheese Platform
+	DisplayName: 奶酪Platform
 	Tooltip: ""
 }
 
 CheeseWall: {
-	DisplayName: Cheese Wall
+	DisplayName: 奶酪Wall
 	Tooltip: ""
 }
 
@@ -2689,6 +2689,6 @@ CircuitProbe: {
 }
 
 IndustrialBattery: {
-	DisplayName: Industrial Battery
+	DisplayName: 工业Battery
 	Tooltip: ""
 }

@@ -2,7 +2,7 @@ OilRefinery.DisplayName: 炼油厂
 OreExcavator.DisplayName: 采矿机
 
 BurnerGenerator: {
-	DisplayName: 燃烧室
+	DisplayName: 燃烧机
 	HullHeatMetric: 船体温度: {0}°C
 	HullHeatImperial: 船体温度: {0}°F
 }
