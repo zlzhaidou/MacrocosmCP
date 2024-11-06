@@ -1,28 +1,28 @@
 LuminiteChest: {
-	MapEntry0: Luminite Chest
-	MapEntry1: Luminite Chest (Locked)
+	MapEntry0: 夜明箱
+	MapEntry1: 夜明箱 (上锁)
 	MapEntry2: Heavenforge Chest
-	MapEntry3: Heavenforge Chest (Locked)
+	MapEntry3: Heavenforge Chest (上锁)
 	MapEntry4: Lunar Rust Chest
-	MapEntry5: Lunar Rust Chest (Locked)
+	MapEntry5: Lunar Rust Chest (上锁)
 	MapEntry6: Astra Chest
-	MapEntry7: Astra Chest (Locked)
+	MapEntry7: Astra Chest (上锁)
 	MapEntry8: Dark Celestial Chest
-	MapEntry9: Dark Celestial Chest (Locked)
+	MapEntry9: Dark Celestial Chest (上锁)
 	MapEntry10: Mercury Chest
-	MapEntry11: Mercury Chest (Locked)
+	MapEntry11: Mercury Chest (上锁)
 	MapEntry12: Star Royale Chest
-	MapEntry13: Star Royale Chest (Locked)
+	MapEntry13: Star Royale Chest (上锁)
 	MapEntry14: Cryocore Chest
-	MapEntry15: Cryocore Chest (Locked)
+	MapEntry15: Cryocore Chest (上锁)
 	MapEntry16: Cosmic Ember Chest
-	MapEntry17: Cosmic Ember Chest (Locked)
+	MapEntry17: Cosmic Ember Chest (上锁)
 }
 
 IndustrialChest: {
 	MapEntryNormal: Industrial Storage Unit
 	MapEntryUnlocked: Industrial Electronic Storage Unit
-	MapEntryLocked: Industrial Electronic Storage Unit (Locked)
+	MapEntryLocked: Industrial Electronic Storage Unit (上锁)
 }
 
 LaunchPadMarker.MapEntry: Launch Pad Marker

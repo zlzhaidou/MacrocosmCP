@@ -35,7 +35,6 @@ MoonChampion: {
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
-	// Town NPC Mood这个不用翻译暂时，作者说这段要重写
 
 	Chat: {
 		Shop: Shop
