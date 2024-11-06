@@ -9,8 +9,8 @@ MoonBiome: {
 }
 
 BloodMoonBiome: {
-	DisplayName: 血月
-	TownNPCDialogueName: 血月
+	DisplayName: 血月群系
+	TownNPCDialogueName: 血月群系
 }
 
 BasaltBiome: {

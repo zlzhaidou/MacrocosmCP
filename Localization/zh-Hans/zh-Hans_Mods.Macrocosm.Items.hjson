@@ -766,8 +766,8 @@ SilicaSand: {
 }
 
 LaunchPadMarker: {
-	DisplayName: Launchpad Marker
-	Tooltip: Used to create a launch pad for rockets
+	DisplayName: 发射台区域标记器
+	Tooltip: 用于框选火箭发射台的范围
 }
 
 SteelBar: {
@@ -2069,7 +2069,7 @@ WornLunarianDagger: {
 }
 
 Canister: {
-	DisplayName: Canister
+	DisplayName: 燃料罐
 	Tooltip: ""
 }
 

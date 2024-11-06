@@ -12,7 +12,7 @@ Common: {
 	CancelColor: 取消颜色更改
 	ZoomIn: 放大
 	ZoomOut: 缩小
-	Inventory.OpenInventory: 打开仓库
+	Inventory.OpenInventory: 打开货仓
 }
 
 LaunchPad: {
@@ -26,23 +26,23 @@ Rocket: {
 	Common: {
 		Close: 关闭
 		Navigation: 导航
-		Checklist: 起飞前查验清单
+		Checklist: 查验清单
 		LaunchLocations: 目标地点
 		Crew: 机组人员
 		Commander: 指挥人员
-		Cargo: 货物
+		Cargo: 燃料
 		Payload: 有效载荷
-		Inventory: 仓库
+		Inventory: 货仓
 		Fuel: 燃料
-		Customization: 定制
+		Customization: 个性化
 		Assembly: 组装
 	}
 
 	Modules: {
 		CommandPod.DisplayName: 指挥舱
-		ServiceModule.DisplayName: 服务模块
-		ReactorModule.DisplayName: 反应器模块
-		EngineModule.DisplayName: 引擎模块
+		ServiceModule.DisplayName: 起居舱
+		ReactorModule.DisplayName: 反应舱
+		EngineModule.DisplayName: 引擎舱
 		BoosterLeft.DisplayName: 左助推器
 		BoosterRight.DisplayName: 右助推器
 	}
@@ -50,24 +50,24 @@ Rocket: {
 	Customization: {
 		Apply: 应用火箭外观修改
 		Cancel: 取消火箭外观修改
-		CopyModule: 复制外观模块
-		PasteModule: 粘贴模块外观
+		CopyModule: 复制外观舱室
+		PasteModule: 粘贴舱室外观
 		CopyRocket: 复制火箭外观
 		PasteRocket: 粘贴火箭外观
-		ResetModule: 重置模块外观
+		ResetModule: 重置舱室外观
 		ResetRocket: 重置火箭外观
 		ResetPattern: 重置图案外观
-		Details.None: None
+		Details.None: 无
 
 		Patterns: {
-			Basic: Basic
-			Astra: Astra
-			Binary: Binary
-			Delta: Delta
-			Hazard: Hazard
-			Helix: Helix
-			Redstone: Redstone
-			Saturn: Saturn
+			Basic: 基础
+			Astra: 阿斯特拉
+			Binary: 星舰
+			Delta: 德尔塔系列运载火箭
+			Hazard: 黄黑警戒
+			Helix: 彩虹螺旋
+			Redstone: 红石式运载火箭
+			Saturn: 土星5号
 		}
 	}
 
@@ -96,15 +96,12 @@ Rocket: {
 			UnitMetric: "{0} km {1}{2}{3}"
 			UnitImperial: "{0} {^0:mile;miles} {1}{2}{3}"
 		}
-// 这段英里还是不翻译的好，感觉一堆英文单位里面突然出现个中文很怪
 
 		DayPeriod: {
 			Name: 自转周期
-			// 这个自转周期得到了作者的解释，就是这个意思
 			UnitDays: "{0} {^0:day;days} {1}{2}{3}"
 			UnitHours: "{0} {^0:hour;hours} {1}{2}{3}"
 		}
-// 我实在是没看懂这个是在哪里使用的文本，先摸了
 
 		Special: {
 			TidallyLocked: 潮汐锁定
@@ -124,7 +121,6 @@ Rocket: {
 			Threat9: "{0} - 地狱"
 			Threat10: "{0} - ？？？"
 		}
-// 原文的直接本地化看着很怪，改了一点点
 
 		Hazard: {
 			Name: 紧急事态！
@@ -143,10 +139,10 @@ Rocket: {
 			}
 
 			Obstruction: {
-				Met.Display: 路径通顺
+				Met.Display: 路径通畅
 
 				NotMet: {
-					Display: 路径被阻挡
+					Display: 路径被阻
 					Hover: 火箭飞行的路径被阻挡
 				}
 			}
