@@ -57,6 +57,18 @@ Rocket: {
 		ResetModule: 重置模块外观
 		ResetRocket: 重置火箭外观
 		ResetPattern: 重置图案外观
+		Details.None: None
+
+		Patterns: {
+			Basic: Basic
+			Astra: Astra
+			Binary: Binary
+			Delta: Delta
+			Hazard: Hazard
+			Helix: Helix
+			Redstone: Redstone
+			Saturn: Saturn
+		}
 	}
 
 	Cargo.DumpFuel: 倾倒
@@ -201,9 +213,9 @@ LoadingScreenTips: {
 
 	Earth: {
 		Earth_Tip1: 回家小憩？
-		Earth_Tip2: 你知道吗？地球上的蚂蚁有1千万亿多只！
+		Earth_Tip2: If you think you have enough electricity, you definitely don't.
 		Earth_Tip3: 经历过低重力之后，地球上的生活会很艰难.习惯就好了.
-		Earth_Tip4: 最初的24小时中，有70亿起死亡.
-		Earth_Tip5: 没有真正安全的地方.
+		Earth_Tip4: You can customize your rocket! Give it a new coat of paint, fly your favorite flag, give it a name!
+		Earth_Tip5: Try to use multiple sources of electricity. You never know when it's suddenly going to start raining.
 	}
 }
