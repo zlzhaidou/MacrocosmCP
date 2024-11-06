@@ -1,9 +1,9 @@
 CraterDemon: {
-	DisplayName: Crater Demon
-	BestiaryFlavorText: This massive meteorite demon is a member of a race that invaded the Moon long ago, and bears the scars of an ancient war.
-	SpawnInfo: Use a [i:Macrocosm/CraterDemonSummon] at any time on the Moon.
-	DespawnMessage: "{0} has left."
-	FunnyDeathMessage: "{0} died for the crater good"
+	DisplayName: 陨星恶煞
+	BestiaryFlavorText: 这个巨大的陨星是很久以前一个入侵月球的种族一员，带着古代战争的伤痕走向现在，又将去往何方......
+	SpawnInfo: 在月球上的任意时间使用[i:Macrocosm/CraterDemonSummon]以召唤
+	DespawnMessage: "{0} 逃脱了出来！"
+	FunnyDeathMessage: "{0} 向着陨石坑献出了它的生命！"
 }
 
 CraterImp: {
@@ -29,12 +29,13 @@ MoonChampion: {
 		DislikeBiome: I dislike {BiomeName}.
 		HateBiome: I hate {BiomeName}.
 		LoveNPC: I love {NPCName}.
-		LikeNPC: I like {NPCName.
+		LikeNPC: I like {NPCName}.
 		DislikeNPC: I dislike {NPCName}.
 		HateNPC: I hate {NPCName}.
 		LikeNPC_Princess: I like {NPCName}.
 		Princess_LovesNPC: I like {NPCName}.
 	}
+	// Town NPC Mood这个不用翻译暂时，作者说这段要重写
 
 	Chat: {
 		Shop: Shop
