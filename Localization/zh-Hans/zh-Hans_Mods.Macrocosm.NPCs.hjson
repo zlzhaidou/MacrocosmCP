@@ -1,9 +1,9 @@
 CraterDemon: {
 	DisplayName: 陨星恶煞
 	BestiaryFlavorText: 这个巨大的陨星是很久以前一个入侵月球的种族一员，带着古代战争的伤痕走向现在，又将去往何方......
-	SpawnInfo: 在月球上的任意时间使用[i:Macrocosm/CraterDemonSummon]以召唤
-	DespawnMessage: "{0} 逃脱了出来！"
-	FunnyDeathMessage: "{0} 向着陨石坑献出了它的生命！"
+	SpawnInfo: 在月球上使用[i:Macrocosm/CraterDemonSummon]以召唤
+	DespawnMessage: "{0} 对你不感兴趣"
+	FunnyDeathMessage: "{0} 被陨石‘坑’了！"
 }
 
 CraterImp: {
