@@ -1,39 +1,39 @@
 CraterDemon: {
 	DisplayName: 陨星恶煞
-	BestiaryFlavorText: 这个巨大的陨星是很久以前一个入侵月球的种族一员，带着古代战争的伤痕走向现在，又将去往何方......
+	BestiaryFlavorText: 这颗巨大的陨星是很久以前一个入侵月球的种族的一员，带着古代战争的伤痕走向现在，又将去往何方......
 	SpawnInfo: 在月球上使用[i:Macrocosm/CraterDemonSummon]以召唤
 	DespawnMessage: "{0} 对你不感兴趣"
 	FunnyDeathMessage: "{0} 被陨石‘坑’了！"
 }
 
 CraterImp: {
-	DisplayName: Crater Imp
-	BestiaryFlavorText: 臭名昭著的陨星恶煞的下属，这些小恶煞在战斗中帮助他们的主人.
+	DisplayName: 陨星煞鬼
+	BestiaryFlavorText: 陨星恶煞的下属，这些低等恶魔在战斗中协助他们的主人.
 }
 
-FlamingMeteor.DisplayName: 燃烧的陨星
+FlamingMeteor.DisplayName: 燃烧陨星
 
 MoonChampion: {
-	DisplayName: 月亮的冠军 SCP-1233
+	DisplayName: 月之斗士
 	BestiaryFlavorText: 一个既神秘又如超人一般的疯子，他将自己的生命奉献于保护月亮，并扫除所有威胁它的人.
 
 	TownNPCMood: {
-		Content: I am content.
-		NoHome: I hate not having a home.
-		FarFromHome: I am too far from home.
-		LoveSpace: I love having so much space.
-		DislikeCrowded: I dislike how crowded I am.
-		HateCrowded: I hate how crowded I am.
-		LoveBiome: I love {BiomeName}.
-		LikeBiome: I like {BiomeName}.
-		DislikeBiome: I dislike {BiomeName}.
-		HateBiome: I hate {BiomeName}.
-		LoveNPC: I love {NPCName}.
-		LikeNPC: I like {NPCName}.
-		DislikeNPC: I dislike {NPCName}.
-		HateNPC: I hate {NPCName}.
-		LikeNPC_Princess: I like {NPCName}.
-		Princess_LovesNPC: I like {NPCName}.
+		Content: 我很满足.
+		NoHome: 我不喜欢无家可归.
+		FarFromHome: 我离家太远.
+		LoveSpace: 我喜欢开阔空间.
+		DislikeCrowded: 我不喜欢人群.
+		HateCrowded: 我讨厌人群.
+		LoveBiome: 我爱{BiomeName}.
+		LikeBiome: 我喜欢{BiomeName}.
+		DislikeBiome: 我不喜欢{BiomeName}.
+		HateBiome: 我讨厌{BiomeName}.
+		LoveNPC: 我爱{NPCName}.
+		LikeNPC: 我喜欢{NPCName}.
+		DislikeNPC: 我不喜欢{NPCName}.
+		HateNPC: 我讨厌{NPCName}.
+		LikeNPC_Princess: 我喜欢{NPCName}.
+		Princess_LovesNPC: 我喜欢{NPCName}.
 	}
 
 	Chat: {
@@ -77,45 +77,43 @@ MoonChampion: {
 }
 
 Clavite: {
-	DisplayName: Clavite
-	BestiaryFlavorText: A ravenous alien that prowls the surface of the Moon, attacking and charging at anything it finds.
-}
+	DisplayName: 噬咬魔
+	BestiaryFlavorText: 在月球表面掠食的贪婪外星怪物.它会攻击面前的一切.
 
 CraterCrawlerHead: {
-	DisplayName: Crater Crawler
-	BestiaryFlavorText: The distant, non-domesticated relatives of crawltipedes, left to aimlessly wander the abandoned moonscape during its long, frigid nights.
+	DisplayName: 陨坑千足虫
+	BestiaryFlavorText: 千足蜈蚣的远房表亲，还未被驯化.在月夜的严寒中漫无目的地游荡.
 }
 
-CraterCrawlerBody.DisplayName: Crater Crawler
-CraterCrawlerTail.DisplayName: Crater Crawler
+CraterCrawlerBody.DisplayName: 陨坑千足虫
+CraterCrawlerTail.DisplayName: 陨坑千足虫
 
 CrescentGhoul: {
-	DisplayName: Crescent Ghoul
-	BestiaryFlavorText: These devious, crescent-shaped aliens prowl the Moon's long nights, using their immense velocity to shred their victims.
+	DisplayName: 弦月鬼
+	BestiaryFlavorText: 这些弦月形的邪魔出没于月球的长夜中，疾速撕碎其猎物.
 }
 
 Leaper: {
-	DisplayName: Leaper
-	BestiaryFlavorText: These agile creatures live deep below the Moon's surface, jumping to and from the walls and ceilings of caverns to confuse their victims.
+	DisplayName: 跃穴影
+	BestiaryFlavorText: 这些机敏的生物存活于月球地下深处，在洞穴的墙壁间蹦跃以使其猎物措手不及.
 }
 
 LuminiteSlime: {
-	DisplayName: Luminite Slime
-	BestiaryFlavorText: Some slimes beneath the Moon's surface develop an attraction to luminite, consuming so much that it becomes part of their makeup.
+	DisplayName: 夜明史莱姆
+	BestiaryFlavorText: 月亮地表下的一些史莱姆被夜明矿所吸引，吞食了过多的这种物质后，夜明矿便成了它们的一部分.
 }
 
 LuminiteSlimeVolatile: {
-	DisplayName: Volatile Luminite Slime
-	BestiaryFlavorText: Some slimes beneath the Moon's surface develop an attraction to luminite, consuming so much that it becomes part of their makeup.
+	DisplayName: 不稳定夜明史莱姆
+	BestiaryFlavorText: 月亮地表下的一些史莱姆被夜明矿所吸引，吞食了过多的这种物质后，夜明矿便成了它们的一部分.
 }
 
-MoonWormHead: {
-	DisplayName: Moon Worm
-	BestiaryFlavorText: The Moon's long nights bring forth many an alien monster, few more infamous than its colossal Moon worms, ambushing their prey from below.
+	DisplayName: 吞月巨虫
+	BestiaryFlavorText: 在月球上的所有外星怪物中，鲜有如此虫般可怕之物.它们潜藏于地下，每一次冲出地表，就代表着又一条生命被吞噬.
 }
 
-MoonWormBody.DisplayName: Moon Worm
-MoonWormTail.DisplayName: Moon Worm
+MoonWormBody.DisplayName: 吞月巨虫
+MoonWormTail.DisplayName: 吞月巨虫
 
 MoonZombie: {
 	DisplayName: Zombie Astronaut
