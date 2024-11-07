@@ -116,53 +116,52 @@ MoonWormBody.DisplayName: 吞月巨虫
 MoonWormTail.DisplayName: 吞月巨虫
 
 MoonZombie: {
-	DisplayName: Zombie Astronaut
-	BestiaryFlavorText: As if zombies weren't bad enough on Earth, the Moon is infested with undead astronauts from long abandoned human colonies.
+	DisplayName: 宇航员尸骸
+	BestiaryFlavorText: 地球上有僵尸，月球上也有.它们来自早已废弃的人类殖民区.
 }
 
 RadioactiveSlime: {
-	DisplayName: Radioactive Slime
-	BestiaryFlavorText: These slimes have absorbed high amounts of uranium, chromium, and other radioactive materials. Handle with care!
-}
+	DisplayName: 放射史莱姆
+	BestiaryFlavorText: 这种史莱姆吸收了大量的铀、铬以及其它放射性元素.小心处理它们！
 
 RegolithSlime: {
-	DisplayName: Regolith Slime
-	BestiaryFlavorText: Even extreme environments such as the Moon can host equally extreme types of slimes, mixing with the Moon's silvery regolith.
+	DisplayName: 岩尘史莱姆
+	BestiaryFlavorText: 月球上极端的环境催生了同样极端的史莱姆.这种史莱姆中混合了月球表面银亮的风化岩.
 }
 
 ZombieSecurity: {
-	DisplayName: Zombie Security
-	BestiaryFlavorText: Remnants of the Moon Base's security personnel, now reanimated and patrolling the area as undead sentinels.
+	DisplayName: 警卫员尸骸
+	BestiaryFlavorText: 月球基地警卫员的尸体，现在成了巡逻不休的僵尸卫兵.
 }
 
 KyaniteScarabCritter: {
-	DisplayName: Kyanite Scarab Hatchling
-	BestiaryFlavorText: Juvenile Scarabs are rarely seen away from their nests and are completely defenseless, relying on the vigilant protection of the adult Scarabs. In a long-lost civilization, they were once considered a delicacy.
+	DisplayName: 蓝晶甲虫幼体
+	BestiaryFlavorText: 这种甲虫的幼体脆弱无助，全靠着成年甲虫的保护存活，几乎从来不会离开巢穴. 在曾经的文明中，它们是一道美味佳肴.
 }
 
 KyaniteScarabSmall: {
-	DisplayName: Kyanite Scarab Worker
-	BestiaryFlavorText: Kyanite Scarabs establish their homes close to ore deposits, crafting nests from found metals. The shinier their nests, the likelier they are to attract mates from other nests.
+	DisplayName: 蓝晶甲虫工人
+	BestiaryFlavorText: 蓝晶甲虫往往在矿脉旁建立巢穴.巢穴越闪亮美丽，越能吸引其它巢穴的求偶者.
 }
 
 KyaniteScarabLarge: {
-	DisplayName: Kyanite Scarab Soldier
-	BestiaryFlavorText: Larger Kyanite Scarabs serve as fighters and guardians of their nests. Highly aggressive by nature, they will fiercely attack any intruder that approaches their territory.
+	DisplayName: 蓝晶甲虫卫兵
+	BestiaryFlavorText: 大型的蓝晶甲虫是巢穴的战士与捍卫者.其天性好斗，将对任何入侵领地者展开猛烈攻势.
 }
 
 LuminiteElemental: {
-	DisplayName: Luminite Elemental
-	BestiaryFlavorText: Even on this desolate Moon, elementals have manifested in clumps of luminite ore, using its bizarre properties to defend itself.
+	DisplayName: 夜明精
+	BestiaryFlavorText: 即使在这个荒芜的世界上，元素精魄也会在矿石中形成.它利用夜明矿的奇异性质来保护自身.
 }
 
 Shade: {
-	DisplayName: Shade
-	BestiaryFlavorText: Exposure to light will cause these ghostly entities to flee. However, if they remain exposed and vulnerable for an extended period of time, they may retaliate with hostility.
+	DisplayName: 潜祟影
+	BestiaryFlavorText: 这些虚形存在有强烈的避光性.然而，如果长时间暴露于危险下，它们会以敌意还击.
 }
 
 ZombieEngineer: {
-	DisplayName: Zombie Engineer
-	BestiaryFlavorText: The engineer�s leaking gas tank makes it a ticking time bomb, prone to exploding at any moment. It was once part of the Moon base�s maintenance crew.
+	DisplayName: 工程师尸骸
+	BestiaryFlavorText: 曾经是月球基地的维持工人.它的背上背着早已泄露的燃气罐，成为一只人形炸弹.
 }
 
 MoonLich: {
