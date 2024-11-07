@@ -142,7 +142,7 @@ Rocket: {
 				Met.Display: 路径通畅
 
 				NotMet: {
-					Display: 路径被阻挡
+					Display: 路径被阻
 					Hover: 火箭飞行的路径被阻挡
 				}
 			}

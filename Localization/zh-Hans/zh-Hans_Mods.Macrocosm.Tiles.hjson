@@ -64,7 +64,7 @@ SpaceInvaderMusicBox.MapEntry: 音乐盒 (Space Invader)
 StygiaMusicBox.MapEntry: 音乐盒 (Stygia)
 IntoTheUnknownMusicBox.MapEntry: 音乐盒 (Into The Unknown)
 EarthGlobe.MapEntry: 地球仪
-PowerJunction.MapEntry: 电源接头
+PowerJunction.MapEntry: 配电箱
 Computer.MapEntry: 电脑
 IndustrialCrate.MapEntry: 工业板条箱
 ConstructionLight.MapEntry: 建筑灯具
