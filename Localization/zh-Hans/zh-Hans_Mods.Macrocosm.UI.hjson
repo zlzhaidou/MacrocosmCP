@@ -105,7 +105,7 @@ Rocket: {
 
 		Special: {
 			TidallyLocked: 潮汐锁定
-			Unstable: 不稳定的
+			Unstable: 不稳定
 		}
 
 		ThreatLevel: {
@@ -123,7 +123,7 @@ Rocket: {
 		}
 
 		Hazard: {
-			Name: 紧急事态！
+			Name: 危险警报！
 			MeteorStorms: 陨星风暴
 			SolarStorms: 太阳风暴
 		}
@@ -142,7 +142,7 @@ Rocket: {
 				Met.Display: 路径通畅
 
 				NotMet: {
-					Display: 路径被阻
+					Display: 路径被阻挡
 					Hover: 火箭飞行的路径被阻挡
 				}
 			}
