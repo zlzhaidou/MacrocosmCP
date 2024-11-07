@@ -112,7 +112,7 @@ Rocket: {
 			Name: 威胁等级
 			Threat1: "{0} - 无害"
 			Threat2: "{0} - 轻微"
-			Threat3: "{0} - 挑战"
+			Threat3: "{0} - 诡谲"
 			Threat4: "{0} - 危险"
 			Threat5: "{0} - 艰难"
 			Threat6: "{0} - 致命"
