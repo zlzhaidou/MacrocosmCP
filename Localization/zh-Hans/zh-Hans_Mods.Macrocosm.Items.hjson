@@ -248,7 +248,7 @@ LithiumOre: {
 }
 
 LuminiteCrystal: {
-	DisplayName: 月明水晶
+	DisplayName: 夜明水晶
 	Tooltip: ""
 }
 
@@ -333,7 +333,7 @@ VortexChunk: {
 }
 
 SpaceShuttle: {
-	DisplayName: Space Shuttle
+	DisplayName: 航天飞船
 	Tooltip: 谨以此物凭念STS-51-L和STS-107
 }
 
@@ -358,257 +358,257 @@ IrradiatedRockWall: {
 }
 
 Protolith: {
-	DisplayName: Protolith
+	DisplayName: 月原岩
 	Tooltip: ""
 }
 
 ProtolithWall: {
-	DisplayName: Protolith Wall
+	DisplayName: 月原岩墙
 	Tooltip: ""
 }
 
 Regolith: {
-	DisplayName: Regolith
+	DisplayName: 风化岩
 	Tooltip: ""
 }
 
 RegolithBrick: {
-	DisplayName: Regolith Brick
+	DisplayName: 风化岩砖
 	Tooltip: ""
 }
 
 RegolithBrickWall: {
-	DisplayName: Regolith Brick Wall
+	DisplayName: 风化岩砖墙
 	Tooltip: ""
 }
 
 RegolithWall: {
-	DisplayName: Regolith Wall
+	DisplayName: 风化岩墙
 	Tooltip: ""
 }
 
 AdamantiteLoom: {
-	DisplayName: Adamantite Loom
-	Tooltip: Used to make spacesuit fabric
+	DisplayName: 精金织机
+	Tooltip: 用于制作宇航服面料
 }
 
 TitaniumLoom: {
-	DisplayName: Titanium Loom
-	Tooltip: Used to make spacesuit fabric
+	DisplayName: 钛金织机
+	Tooltip: 用于制作宇航服面料
 }
 
 SolarPanelLarge: {
-	DisplayName: Large 太阳能电池板
-	Tooltip: Coverts solar energy into electricity
+	DisplayName: 太阳能电池板（大）
+	Tooltip: 将太阳能转化为电能
 }
 
 BloodSunRising: {
-	DisplayName: Blood Sun Rising
+	DisplayName: 血阳腾空
 	Tooltip: "'L. Reda'"
 }
 
 DarkFortress: {
-	DisplayName: Dark Fortress
+	DisplayName: 昏黑堡垒
 	Tooltip: "'L. Reda'"
 }
 
 Empress: {
-	DisplayName: Empress
+	DisplayName: 帝后御容
 	Tooltip: "'L. Reda'"
 }
 
 Overlord: {
-	DisplayName: Overlord
+	DisplayName: 霸主天下
 	Tooltip: "'L. Reda'"
 }
 
 Retributor: {
-	DisplayName: Retributor
+	DisplayName: 天谴使者
 	Tooltip: "'L. Reda'"
 }
 
 WhenDayBreaks: {
-	DisplayName: When Day Breaks
+	DisplayName: 破晓之时
 	Tooltip: "'L. Reda'"
 }
 
 Freedomfaller: {
-	DisplayName: Freedomfaller
+	DisplayName: 自由落者
 	Tooltip: "'T. Williams'"
 }
 
 ShoresOfOblivion: {
-	DisplayName: Shores Of Oblivion
+	DisplayName: 遗忘之滨
 	Tooltip: "'E. Bracht'"
 }
 
 CraterDemonRelic: {
-	DisplayName: Crater Demon Relic
+	DisplayName: 陨星恶煞圣物
 	Tooltip: ""
 }
 
 MoonGoldTombstone: {
-	DisplayName: Moon Gold Tombstone
+	DisplayName: 月球金墓石
 	Tooltip: ""
 }
 
 MoonTombstone: {
-	DisplayName: Moon Tombstone
+	DisplayName: 月球墓石
 	Tooltip: ""
 }
 
 CraterDemonTrophy: {
-	DisplayName: Crater Demon Trophy
+	DisplayName: 陨星恶煞纪念章
 	Tooltip: ""
 }
 
 AluminumAxe: {
-	DisplayName: 铝Axe
+	DisplayName: 铝斧
 	Tooltip: ""
 }
 
 AluminumHammer: {
-	DisplayName: 铝Hammer
+	DisplayName: 铝锤
 	Tooltip: ""
 }
 
 AluminumPickaxe: {
-	DisplayName: 铝Pickaxe
+	DisplayName: 铝镐
 	Tooltip: ""
 }
 
 ArtemiteAxe: {
-	DisplayName: 嫦娥石Axe
+	DisplayName: 嫦娥石斧
 	Tooltip: ""
 }
 
 ArtemiteDrill: {
-	DisplayName: 嫦娥石Drill
+	DisplayName: 嫦娥石钻头
 	Tooltip: ""
 }
 
 ArtemiteHammer: {
-	DisplayName: 嫦娥石Hammer
+	DisplayName: 嫦娥石锤
 	Tooltip: ""
 }
 
 ArtemitePickaxe: {
-	DisplayName: 嫦娥石Pickaxe
+	DisplayName: 嫦娥石镐
 	Tooltip: ""
 }
 
 ChandriumAxe: {
-	DisplayName: 常曦石Axe
+	DisplayName: 常曦石斧
 	Tooltip: ""
 }
 
 ChandriumDrill: {
-	DisplayName: 常曦石Drill
+	DisplayName: 常曦石钻头
 	Tooltip: ""
 }
 
 ChandriumHammer: {
-	DisplayName: 常曦石Hammer
+	DisplayName: 常曦石锤
 	Tooltip: ""
 }
 
 ChandriumPickaxe: {
-	DisplayName: 常曦石Pickaxe
+	DisplayName: 常曦石镐
 	Tooltip: ""
 }
 
 DianiteAxe: {
-	DisplayName: 望舒石Axe
+	DisplayName: 望舒石斧
 	Tooltip: ""
 }
 
 DianiteDrill: {
-	DisplayName: 望舒石Drill
+	DisplayName: 望舒石钻头
 	Tooltip: ""
 }
 
 DianiteHammer: {
-	DisplayName: 望舒石Hammer
+	DisplayName: 望舒石锤
 	Tooltip: ""
 }
 
 DianitePickaxe: {
-	DisplayName: 望舒石Pickaxe
+	DisplayName: 望舒石镐
 	Tooltip: ""
 }
 
 SeleniteAxe: {
-	DisplayName: 月光石Axe
+	DisplayName: 月光石斧
 	Tooltip: ""
 }
 
 SeleniteDrill: {
-	DisplayName: 月光石Drill
+	DisplayName: 月光石钻头
 	Tooltip: ""
 }
 
 SeleniteHammer: {
-	DisplayName: 月光石Hammer
+	DisplayName: 月光石锤
 	Tooltip: ""
 }
 
 SelenitePickaxe: {
-	DisplayName: 月光石Pickaxe
+	DisplayName: 月光石镐
 	Tooltip: ""
 }
 
 CraterDemonMask: {
-	DisplayName: Crater Demon Mask
+	DisplayName: 陨星恶煞面具
 	Tooltip: ""
 }
 
 DianiteFork: {
-	DisplayName: 望舒石Fork
-	Tooltip: Fire swirling magic at your enemies!
+	DisplayName: 望舒焱叉
+	Tooltip: 旋转的火焰魔法朝着敌人而去...或许，吧？
 }
 
 DianiteTome: {
-	DisplayName: 望舒石Tome
+	DisplayName: 望舒陨星雨
 	Tooltip:
 		'''
-		Conjure a portal to rain 
-		flaming meteors down on your foes
+		召唤一个陨星雨之门
+		燃烧的陨星落在你的敌人身上
 		'''
 }
 
 ImbriumJewel: {
-	DisplayName: Imbrium Jewel
-	Tooltip: Fires phantasmal skulls around you
+	DisplayName: 淋浴之海珠玉
+	Tooltip: 在你周围发射幻影颅骨
 }
 
 AluminumBroadsword: {
-	DisplayName: 铝Broadsword
+	DisplayName: 铝宽剑
 	Tooltip: ""
 }
 
 AluminumShortsword: {
-	DisplayName: 铝Shortsword
+	DisplayName: 铝短剑
 	Tooltip: ""
 }
 
 ArtemiteGreatsword: {
-	DisplayName: 嫦娥石Greatsword
-	Tooltip: Hold <right> for a charged up swing
+	DisplayName: 嫦娥·灵霄断
+	Tooltip:  <right> 来蓄力，松开后造成大量伤害
 }
 
 ArtemiteSpear: {
-	DisplayName: 嫦娥石Spear
-	Tooltip: <right> to throw the spear
+	DisplayName: 嫦娥石长矛
+	Tooltip: <right> 来掷出长矛
 }
 
 ArtemiteSword: {
-	DisplayName: 嫦娥石Straightsword
+	DisplayName: 嫦娥·幻月斩
 	Tooltip: ""
 }
 
 ClawWrench: {
-	DisplayName: Claw Wrench
-	Tooltip: <right> to throw the wrench
+	DisplayName: 钩形扳手
+	Tooltip: <right> 来掷出扳手
 }
 
 Crucible: {
@@ -621,7 +621,7 @@ Crucible: {
 }
 
 MoonSword: {
-	DisplayName: Moon Sword
+	DisplayName: 月煌天刃
 	Tooltip: ""
 }
 
@@ -631,15 +631,15 @@ Noxsaber: {
 }
 
 AluminumBow: {
-	DisplayName: 铝Bow
+	DisplayName: 铝弓
 	Tooltip: ""
 }
 
 ArchersLine: {
-	DisplayName: Archer's Line
-	Tooltip: Bullets ricochet from one enemy to another
+	DisplayName: 弓手界限
+	Tooltip: 子弹从一个敌人弹到另一个敌人
 }
-
+// 弓手界限考究到是命运二的
 Copernicus: {
 	DisplayName: Copernicus
 	Tooltip: Every 5th shot also shoots a rocket
@@ -1186,7 +1186,7 @@ Gear: {
 }
 
 SpacesuitFabric: {
-	DisplayName: Spacesuit Fabric
+	DisplayName: 宇航服面料
 	Tooltip: ""
 }
 
