@@ -1,1 +1,21 @@
-Modify this file with a description of your mod.
+[h1]This is a Chinese-translation Mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3357778735] Macrocosm 群星外域 [BETA][/url] [/h1]
+
+[h1]†Ξ介绍Ξ†[/h1]
+本品为由玲珑汉化组出品的
+[https://steamcommunity.com/sharedfiles/filedetails/?id=3357778735] Macrocosm 群星外域 [BETA] [/url] 汉化
+汉化进度：99%
+适配群星外域版本0.1.0.5
+
+反馈群号：909428503
+贡献汉化：3412615165
+
+[h1]†Ξ使用方法Ξ†[/h1]
+1.同时订阅群星外域Mod和本汉化Mod
+2.进入tModLoader，在模组管理中启用本汉化Mod
+3.重载模组
+
+[h1]†Ξ后续规划Ξ†[/h1]
+1.维护
+
+[quote=虞悖] 致谢：
+玲珑汉化组全体组员&Collapsar [/quote] 

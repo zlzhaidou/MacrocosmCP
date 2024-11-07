@@ -1,3 +1,8 @@
 displayName = Macrocosm-汉化补丁
 author = 虞悖
-version = 0.1
+version = 1.0.0.1
+modReferences = Macrocosm
+translationMod = true
+side = Client
+hideResources = true
+hideCode = true
