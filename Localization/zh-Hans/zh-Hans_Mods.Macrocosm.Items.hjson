@@ -14,241 +14,241 @@ CelestialBulwark: {
 }
 
 AluminumBoots: {
-	DisplayName: 铝Boots
+	DisplayName: 铝护胫
 	Tooltip: ""
 }
 
 AluminumBreastplate: {
-	DisplayName: 铝Breastplate
+	DisplayName: 铝胸甲
 	Tooltip: ""
 }
 
 AluminumHelmet: {
-	DisplayName: 铝Helmet
+	DisplayName: 铝头盔
 	Tooltip: ""
 }
 
 ArtemiteBreastplate: {
-	DisplayName: 嫦娥Breastplate
-	Tooltip: 6% increased melee critical strike chance
+	DisplayName: 嫦娥石胸甲
+	Tooltip: +6%近战暴击率
 }
 
 ArtemiteHelmet: {
-	DisplayName: 嫦娥Helmet
-	Tooltip: 18% increased melee damage
+	DisplayName: 嫦娥石头盔
+	Tooltip: +18%近战伤害
 }
 
 ArtemiteLeggings: {
-	DisplayName: 嫦娥Leggings
-	Tooltip: 15% increased melee and movement speed
+	DisplayName: 嫦娥石护腿
+	Tooltip: +15%近战和移动速度
 }
 
 AstronautHelmet: {
-	DisplayName: Astronaut Helmet
+	DisplayName: 宇航服（头盔）
 	Tooltip: ""
 }
 
 AstronautLeggings: {
-	DisplayName: Astronaut Leggings
+	DisplayName: 宇航服（下身）
 	Tooltip: ""
 }
 
 AstronautSuit: {
-	DisplayName: Astronaut Suit
+	DisplayName: 宇航服（上身）
 	Tooltip: ""
 }
 
 ChandriumBreastplate: {
-	DisplayName: 常羲Breastplate
+	DisplayName: 常曦石胸甲
 	Tooltip:
 		'''
-		Increases max number of minions by 1
-		15% increased whip range and speed
+		+1最大随从栏
+		+15%鞭范围和使用速度
 		'''
 }
 
 ChandriumHelm: {
-	DisplayName: 常羲Helm
+	DisplayName: 常曦石头盔
 	Tooltip:
 		'''
-		Increases max number of minions by 1
-		25% increased summon damage
+		+1最大随从栏
+		+25%召唤伤害
 		'''
 }
 
 ChandriumLeggings: {
-	DisplayName: 常羲Leggings
+	DisplayName: 常曦石护腿
 	Tooltip:
 		'''
-		Increases you max number of minions by 1
-		10% increased movement speed
+		+1最大随从栏
+		+10%移动速度
 		'''
 }
 
 DianiteBreastplate: {
-	DisplayName: 望舒Breastplate
-	Tooltip: 12% increased magic critical strike chance
+	DisplayName: 望舒石胸甲
+	Tooltip: +12%魔法暴击率
 }
 
 DianiteLeggings: {
-	DisplayName: 望舒Leggings
+	DisplayName: 望舒石护腿
 	Tooltip:
 		'''
-		5% increased magic damage
-		10% increased movement speed
+		+5%魔法伤害
+		+10%移动速度
 		'''
 }
 
 DianiteVisor: {
-	DisplayName: 望舒Visor
+	DisplayName: 望舒石头盔
 	Tooltip:
 		'''
-		Increases maximum mana by 50
-		10% increased magic damage
+		+50最大魔力值
+		+10%魔法伤害
 		'''
 }
 
 SeleniteBreastplate: {
-	DisplayName: 月光Breastplate
-	Tooltip: 12% increased ranged critical strike chance
+	DisplayName: 月光石胸甲
+	Tooltip: +12%远程暴击率
 }
 
 SeleniteHeadgear: {
-	DisplayName: 月光Headgear
+	DisplayName: 月光石头盔
 	Tooltip:
 		'''
-		10% increased ranged damage
-		15% chance to save ammo
+		+10%远程伤害
+		-15%弹药消耗
 		'''
 }
 
 SeleniteLeggings: {
-	DisplayName: 月光Leggings
+	DisplayName: 月光石护腿
 	Tooltip:
 		'''
-		5% increased ranged damage
-		20% increased movement speed
+		+5%远程伤害
+		+20%移动速度
 		'''
 }
 
 CraterDemonBossBag: {
-	DisplayName: Treasure Bag (Crater Demon)
+	DisplayName: 宝藏袋 (陨星恶煞)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 
 CraterDemonSummon: {
-	DisplayName: Daemonic Tablet
+	DisplayName: 恶煞石碑
 	Tooltip:
 		'''
-		Summons Crater Demon
-		Must be used on the Moon
+		召唤陨星恶煞
+		必须在月球上使用
 		'''
 }
 
 Moonstone: {
-	DisplayName: Moonstone
-	TooltipNoChampion: These are a currency for the Moon Champion, but unfortunately he is not with you
-	TooltipChampion: These are a currency for {0}, the Moon Champion
+	DisplayName: 月壤
+	TooltipNoChampion: 这些是Moon Champion的货币，但不幸的是，他并不在你身边.
+	TooltipChampion: 这些是给 {0}的货币, the Moon Champion
 	Tooltip: ""
 }
 
 BanHammer: {
-	DisplayName: Ban Hammer
-	Tooltip: BEGONE.
+	DisplayName: 封禁锤
+	Tooltip: 滚出去！
 }
 
 DevPick: {
-	DisplayName: Developer Pickaxe
-	Tooltip: It's actually good as a weapon
+	DisplayName: 开发者镐
+	Tooltip: 这世界上是个很好的武器
 }
 
 RocketPlacer: {
-	DisplayName: Rocket Placer
-	Tooltip: Places a rocket. <right> to despawn all rockets in the Solar System
+	DisplayName: 背包火箭
+	Tooltip: <left>以释放火箭. <right> 来清除太阳系中的所有火箭
 }
 
 Rocket: {
-	DisplayName: Rocket
+	DisplayName: 火箭
 	Tooltip: ""
 }
 
 Teleporter: {
-	DisplayName: Teleporter
-	Tooltip: Teleports the user to and from the Moon
+	DisplayName: 月-地 往返遥控
+	Tooltip: 让玩家可以在地球和月球直接传送
 }
 
 AluminumBar: {
-	DisplayName: 铝Bar
+	DisplayName: 铝锭
 	Tooltip: ""
 }
 
 AluminumOre: {
-	DisplayName: 铝Ore
+	DisplayName: 铝矿
 	Tooltip: ""
 }
 
 ArtemiteBar: {
-	DisplayName: 嫦娥Bar
+	DisplayName: 精炼嫦娥石
 	Tooltip: ""
 }
 
 ArtemiteOre: {
-	DisplayName: 嫦娥Ore
+	DisplayName: 嫦娥石
 	Tooltip: ""
 }
 
 BrokenHeroShield: {
-	DisplayName: Broken Hero Shield
+	DisplayName: 破碎的英雄盾
 	Tooltip: ""
 }
 
 ChandriumBar: {
-	DisplayName: 常羲Bar
+	DisplayName: 精炼常曦石
 	Tooltip: ""
 }
 
 ChandriumOre: {
-	DisplayName: 常羲Ore
+	DisplayName: 常曦石
 	Tooltip: ""
 }
 
 CortexFragment: {
-	DisplayName: Cortex Fragment
+	DisplayName: 月亮领主皮质标本
 	Tooltip: ""
 }
 
 CosmicDust: {
-	DisplayName: Cosmic Dust
+	DisplayName: 宇宙尘埃
 	Tooltip: ""
 }
 
 CosmicEssence: {
-	DisplayName: Cosmic Essence
+	DisplayName: 宇宙根质
 	Tooltip: ""
 }
 
 DeliriumPlating: {
-	DisplayName: Delirium Plating
+	DisplayName: 紊乱镀层
 	Tooltip: ""
 }
 
 DianiteBar: {
-	DisplayName: 望舒Bar
+	DisplayName: 精炼望舒石
 	Tooltip: ""
 }
 
 DianiteOre: {
-	DisplayName: 望舒Ore
+	DisplayName: 望舒石
 	Tooltip: ""
 }
 
 LithiumOre: {
-	DisplayName: Lithium
+	DisplayName: 锂矿
 	Tooltip: ""
 }
 
 LuminiteCrystal: {
-	DisplayName: 月明Crystal
+	DisplayName: 月明水晶
 	Tooltip: ""
 }
 
@@ -258,7 +258,7 @@ OilShale: {
 }
 
 OxygenTank: {
-	DisplayName: Oxygen Tank
+	DisplayName: 氧气罐
 	Tooltip: ""
 }
 
@@ -268,92 +268,92 @@ PrintedCircuitBoard: {
 }
 
 SeleniteBar: {
-	DisplayName: 月光Bar
+	DisplayName: 精炼月光石
 	Tooltip: ""
 }
 
 SeleniteOre: {
-	DisplayName: 月光Ore
+	DisplayName: 月光石
 	Tooltip: ""
 }
 
 SiliconOre: {
-	DisplayName: Raw Silicon
+	DisplayName: 硅矿
 	Tooltip: ""
 }
 
 Silicon: {
-	DisplayName: Silicon
+	DisplayName: 硅
 	Tooltip: ""
 }
 
 MeteoricChunk: {
-	DisplayName: Meteoric Chunk
+	DisplayName: 陨星簇
 	Tooltip:
 		'''
-		Consumable
-		<right> to smash open!
+		消耗品
+		<right> 来砸开它!
 		'''
 }
 
 NebulaChunk: {
-	DisplayName: Nebula Chunk
+	DisplayName: 星云簇
 	Tooltip:
 		'''
-		Consumable
-		<right> to smash open!
+		消耗品
+		<right> 来砸开它!
 		'''
 }
 
 SolarChunk: {
-	DisplayName: Solar Chunk
+	DisplayName: 日耀簇
 	Tooltip:
 		'''
-		Consumable
-		<right> to smash open!
+		消耗品
+		<right> 来砸开它!
 		'''
 }
 
 StardustChunk: {
-	DisplayName: Stardust Chunk
+	DisplayName: 星尘簇
 	Tooltip:
 		'''
-		Consumable
-		<right> to smash open!
+		消耗品
+		<right> 来砸开它!
 		'''
 }
 
 VortexChunk: {
-	DisplayName: Vortex Chunk
+	DisplayName: 星旋簇
 	Tooltip:
 		'''
-		Consumable
-		<right> to smash open!
+		消耗品
+		<right> 来砸开它!
 		'''
 }
 
 SpaceShuttle: {
 	DisplayName: Space Shuttle
-	Tooltip: In memory of STS-51-L and STS-107.
+	Tooltip: 谨以此物凭念STS-51-L和STS-107
 }
 
 IrradiatedBrick: {
-	DisplayName: Irradiated Brick
+	DisplayName: 辐照砖
 	Tooltip: ""
 }
 
 IrradiatedBrickWall: {
-	DisplayName: Irradiated Brick Wall
+	DisplayName: 辐照砖墙
 	Tooltip: ""
 }
 
 IrradiatedRock: {
-	DisplayName: Irradiated Rock
+	DisplayName: 辐照石
 	Tooltip: ""
 }
 
 IrradiatedRockWall: {
-	DisplayName: Irradiated Rock Wall
+	DisplayName: 辐照石墙
 	Tooltip: ""
 }
 
@@ -478,82 +478,82 @@ AluminumPickaxe: {
 }
 
 ArtemiteAxe: {
-	DisplayName: 嫦娥Axe
+	DisplayName: 嫦娥石Axe
 	Tooltip: ""
 }
 
 ArtemiteDrill: {
-	DisplayName: 嫦娥Drill
+	DisplayName: 嫦娥石Drill
 	Tooltip: ""
 }
 
 ArtemiteHammer: {
-	DisplayName: 嫦娥Hammer
+	DisplayName: 嫦娥石Hammer
 	Tooltip: ""
 }
 
 ArtemitePickaxe: {
-	DisplayName: 嫦娥Pickaxe
+	DisplayName: 嫦娥石Pickaxe
 	Tooltip: ""
 }
 
 ChandriumAxe: {
-	DisplayName: 常羲Axe
+	DisplayName: 常曦石Axe
 	Tooltip: ""
 }
 
 ChandriumDrill: {
-	DisplayName: 常羲Drill
+	DisplayName: 常曦石Drill
 	Tooltip: ""
 }
 
 ChandriumHammer: {
-	DisplayName: 常羲Hammer
+	DisplayName: 常曦石Hammer
 	Tooltip: ""
 }
 
 ChandriumPickaxe: {
-	DisplayName: 常羲Pickaxe
+	DisplayName: 常曦石Pickaxe
 	Tooltip: ""
 }
 
 DianiteAxe: {
-	DisplayName: 望舒Axe
+	DisplayName: 望舒石Axe
 	Tooltip: ""
 }
 
 DianiteDrill: {
-	DisplayName: 望舒Drill
+	DisplayName: 望舒石Drill
 	Tooltip: ""
 }
 
 DianiteHammer: {
-	DisplayName: 望舒Hammer
+	DisplayName: 望舒石Hammer
 	Tooltip: ""
 }
 
 DianitePickaxe: {
-	DisplayName: 望舒Pickaxe
+	DisplayName: 望舒石Pickaxe
 	Tooltip: ""
 }
 
 SeleniteAxe: {
-	DisplayName: 月光Axe
+	DisplayName: 月光石Axe
 	Tooltip: ""
 }
 
 SeleniteDrill: {
-	DisplayName: 月光Drill
+	DisplayName: 月光石Drill
 	Tooltip: ""
 }
 
 SeleniteHammer: {
-	DisplayName: 月光Hammer
+	DisplayName: 月光石Hammer
 	Tooltip: ""
 }
 
 SelenitePickaxe: {
-	DisplayName: 月光Pickaxe
+	DisplayName: 月光石Pickaxe
 	Tooltip: ""
 }
 
@@ -563,12 +563,12 @@ CraterDemonMask: {
 }
 
 DianiteFork: {
-	DisplayName: 望舒Fork
+	DisplayName: 望舒石Fork
 	Tooltip: Fire swirling magic at your enemies!
 }
 
 DianiteTome: {
-	DisplayName: 望舒Tome
+	DisplayName: 望舒石Tome
 	Tooltip:
 		'''
 		Conjure a portal to rain 
@@ -592,17 +592,17 @@ AluminumShortsword: {
 }
 
 ArtemiteGreatsword: {
-	DisplayName: 嫦娥Greatsword
+	DisplayName: 嫦娥石Greatsword
 	Tooltip: Hold <right> for a charged up swing
 }
 
 ArtemiteSpear: {
-	DisplayName: 嫦娥Spear
+	DisplayName: 嫦娥石Spear
 	Tooltip: <right> to throw the spear
 }
 
 ArtemiteSword: {
-	DisplayName: 嫦娥Straightsword
+	DisplayName: 嫦娥石Straightsword
 	Tooltip: ""
 }
 
@@ -669,12 +669,12 @@ NWARocketLauncher: {
 }
 
 SeleniteBow: {
-	DisplayName: 月光Bow
+	DisplayName: 月光石Bow
 	Tooltip: Fires two arrows
 }
 
 SeleniteMagnum: {
-	DisplayName: 月光Magnum
+	DisplayName: 月光石Magnum
 	Tooltip: <right> to rapidly fan six bullets
 }
 
@@ -684,12 +684,12 @@ CalcicCane: {
 }
 
 ChandriumStaff: {
-	DisplayName: 常羲Staff
+	DisplayName: 常曦石Staff
 	Tooltip: Summons a Crescent Ghoul to fight for you
 }
 
 ChandriumWhip: {
-	DisplayName: 常羲Whip
+	DisplayName: 常曦石Whip
 	Tooltip: Extra damage every third hit
 }
 
@@ -1255,9 +1255,9 @@ RocketPlating: {
 	Tooltip: ""
 }
 
-煤炭Brick: {
-	DisplayName: 煤炭Brick
-	Tooltip: ""
+CoalBrick: {
+	// DisplayName: Coal Brick
+	// Tooltip: ""
 }
 
 LandingGear: {
@@ -1282,9 +1282,9 @@ CopperWire: {
 	Tooltip: ""
 }
 
-Gothic煤炭Brick: {
-	DisplayName: Gothic 煤炭Brick
-	Tooltip: ""
+GothicCoalBrick: {
+	// DisplayName: Gothic Coal Brick
+	// Tooltip: ""
 }
 
 SpookyDookie: {
