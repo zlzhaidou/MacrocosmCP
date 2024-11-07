@@ -1,15 +1,15 @@
 SetBonuses: {
-	SpaceProtection_1: Pressurized spacesuit allows for exploration of other celestial bodies.
-	SpaceProtection_2: Lead-lined suit allows for safe exploration of highly irradiated environments.
+	SpaceProtection_1: 加压宇航服允许探索其他天体. 
+	SpaceProtection_2: 内衬铅的防护服可以安全地探索高辐射环境.
 }
 
 CelestialBulwark: {
-	DisplayName: Celestial Bulwark
+	DisplayName: 天界堡垒
 	Tooltip:
 		'''
-		Allows the player to dash into the enemy
-		Allows for horizontal and vertical dashing
-		Double tap a direction
+		允许玩家冲向敌人
+		允许水平和竖直冲刺
+		双击某个方向以冲刺
 		'''
 }
 
@@ -641,16 +641,16 @@ ArchersLine: {
 }
 // 弓手界限考究到是命运二的
 Copernicus: {
-	DisplayName: Copernicus
-	Tooltip: Every 5th shot also shoots a rocket
+	DisplayName: 哥白尼
+	Tooltip: 飞快的射出子弹
 }
 
 Cruithne: {
-	DisplayName: Cruithne-3753
+	DisplayName: 克鲁特尼-3753
 	Tooltip:
 		'''
-		Converts musket balls to green slugs.
-		Shoots a delirium shell.
+		将火枪子弹转换为绿色子弹
+		同时射出一发紊乱炮弹
 		'''
 }
 
@@ -658,71 +658,71 @@ LHBMinigun: {
 	DisplayName: LHB-59
 	Tooltip:
 		'''
-		'What's more effective than bullets?''
-		'A whole LOT of bullets.'
+		'没有什么是一发子弹不能解决的?'
+		'如果有，那就两发！.'
 		'''
 }
 
 NWARocketLauncher: {
 	DisplayName: NWA-5000
-	Tooltip: <right> to lock onto an enemy
+	Tooltip: <right> 来锁定敌人
 }
 
 SeleniteBow: {
-	DisplayName: 月光石Bow
-	Tooltip: Fires two arrows
+	DisplayName: 月光弓
+	Tooltip: 一次射出两只箭矢
 }
 
 SeleniteMagnum: {
-	DisplayName: 月光石Magnum
-	Tooltip: <right> to rapidly fan six bullets
+	DisplayName: 月光马格南
+	Tooltip: <right> 以快速扇出六发子弹
 }
 
 CalcicCane: {
-	DisplayName: Calcic Cane
-	Tooltip: Summons a Crater Imp to fight for you
+	DisplayName: 钙质手杖
+	Tooltip: 召唤一个陨星煞鬼为你而战
 }
 
 ChandriumStaff: {
-	DisplayName: 常曦石Staff
-	Tooltip: Summons a Crescent Ghoul to fight for you
+	DisplayName: 常曦华杖
+	Tooltip: 召唤一次Crescent Ghoul为你而战
 }
 
 ChandriumWhip: {
-	DisplayName: 常曦石Whip
-	Tooltip: Extra damage every third hit
+	DisplayName: 常曦石鞭
+	Tooltip: 每三次命中后造成额外伤害
 }
 
 HandheldEngine: {
-	DisplayName: Handheld Engine
-	Tooltip: Uses mana as coolant
+	DisplayName: 手持式引擎
+	Tooltip: 使用法力作为冷却剂
 }
 
 HazardWall: {
-	DisplayName: Hazard Wall
+	DisplayName: 警示墙
 	Tooltip: ""
 }
 
 SpaceDust: {
-	DisplayName: Space Dust
+	DisplayName: 宇宙尘埃
 	Tooltip: ""
 }
 
 MoonPhaseGlobe: {
-	DisplayName: Moon Phase Globe
-	Tooltip: ""
+	DisplayName: 月相地球仪
+	Tooltip: 使用以切换月相
 }
 
 TychoDesertEagle: {
-	DisplayName: Tycho .50
+	DisplayName: 第谷 .50
 	Tooltip: ""
 }
 
 ChampionsBladeBroken: {
-	DisplayName: Champion's Blade
+	DisplayName: 斗士之锋
 	Tooltip:
 		'''
-		Repeated hits with the blade strengthen it
+		用刀片反复击打可以增强它
 		This effect wears off after some time when not hitting with the blade
 		'''
 }
@@ -731,17 +731,17 @@ ChampionsBladeRepaired: {
 	DisplayName: Champion's Blade
 	Tooltip:
 		'''
-		Repeated hits with the blade strengthen it
+		用刀片反复击打可以增强它
 		This effect wears off after some time when not hitting with the blade
 		'''
 }
 
 ChampionsBlade: {
-	DisplayName: Champion's Blade
+	DisplayName: 斗士之锋
 	Tooltip:
 		'''
-		Repeated hits with the blade strengthen it
-		This effect wears off after some time when not hitting with the blade
+		挥出绿色的剑刃
+		射出几个远离瞄准位置的绿色
 		'''
 }
 
@@ -771,97 +771,97 @@ LaunchPadMarker: {
 }
 
 SteelBar: {
-	DisplayName: 钢Bar
+	DisplayName: 钢锭
 	Tooltip: ""
 }
 
 SteelHamaxe: {
-	DisplayName: 钢Hamaxe
+	DisplayName: 钢锤斧
 	Tooltip: ""
 }
 
 SteelPickaxe: {
-	DisplayName: 钢Pickaxe
+	DisplayName: 钢镐
 	Tooltip: ""
 }
 
 SteelZweihander: {
-	DisplayName: 钢Zweihander
-	Tooltip: Hold <right> for a charged up swing
+	DisplayName: 钢双手剑
+	Tooltip: <right> 来蓄力，松开后造成大量伤害
 }
 
 SteelCrossbow: {
-	DisplayName: 钢Crossbow
+	DisplayName: 钢十字弓
 	Tooltip: ""
 }
 
 SteelRifle: {
-	DisplayName: 钢Rifle
+	DisplayName: 钢来福枪
 	Tooltip: ""
 }
 
 IndustrialPlating: {
-	DisplayName: 工业Plating
+	DisplayName: 工业护板
 	Tooltip: ""
 }
 
 IndustrialPlatform: {
-	DisplayName: 工业Platform
+	DisplayName: 工业平台
 	Tooltip: ""
 }
 
 IndustrialHazardWall: {
-	DisplayName: 工业Hazard Wall
+	DisplayName: 工业警示墙
 	Tooltip: ""
 }
 
 IndustrialHazardWallUnsafe: {
-	DisplayName: Unsafe 工业Hazard Wall
+	DisplayName: 不安全的工业警示墙
 	Tooltip: ""
 }
 
 IndustrialPlatingWall: {
-	DisplayName: 工业Plating Wall
+	DisplayName: 工业板墙
 	Tooltip: ""
 }
 
 IndustrialPlatingWallUnsafe: {
-	DisplayName: Unsafe 工业Plating Wall
+	DisplayName: 不安全的工业板墙
 	Tooltip: ""
 }
 
 IndustrialSquarePaneledWall: {
-	DisplayName: 工业Square Paneled Wall
+	DisplayName: 工业方形镶板墙
 	Tooltip: ""
 }
 
 IndustrialSquarePaneledWallUnsafe: {
-	DisplayName: Unsafe 工业Square Paneled Wall
+	DisplayName: 不安全的工业方形镶板墙
 	Tooltip: ""
 }
 
 IndustrialTrimmingWall: {
-	DisplayName: 工业Trimming Wall
+	DisplayName: 工业装饰墙
 	Tooltip: ""
 }
 
 IndustrialTrimmingWallUnsafe: {
-	DisplayName: Unsafe 工业Trimming Wall
+	DisplayName: 不安全的工业装饰墙
 	Tooltip: ""
 }
 
 IndustrialCandle: {
-	DisplayName: 工业Candle
+	DisplayName: 工业蜡烛
 	Tooltip: ""
 }
 
 IndustrialLamp: {
-	DisplayName: Industrial台灯
+	DisplayName: 工业台灯
 	Tooltip: ""
 }
 
 IndustrialLantern: {
-	DisplayName: 工业Lantern
+	DisplayName: 工业灯笼
 	Tooltip: ""
 }
 
@@ -881,27 +881,27 @@ IndustrialGurney: {
 }
 
 IndustrialTable: {
-	DisplayName: 工业Table
+	DisplayName: 工业桌
 	Tooltip: ""
 }
 
 IndustrialWorkbench: {
-	DisplayName: 工业Workbench
+	DisplayName: 工业工作台
 	Tooltip: ""
 }
 
 IndustrialBed: {
-	DisplayName: 工业Bed
+	DisplayName: 工业床
 	Tooltip: ""
 }
 
 IndustrialChair: {
-	DisplayName: 工业Reception Chair
+	DisplayName: 工业接待椅
 	Tooltip: ""
 }
 
 IndustrialChairSleek: {
-	DisplayName: 工业Sleek Chair
+	DisplayName: 光滑工业椅
 	Tooltip: ""
 }
 
@@ -911,7 +911,7 @@ IndustrialDeskLamp: {
 }
 
 IndustrialSofa: {
-	DisplayName: Industrial沙发
+	DisplayName: 工业沙发
 	Tooltip: ""
 }
 
@@ -931,7 +931,7 @@ IndustrialLocker: {
 }
 
 IndustrialDoor: {
-	DisplayName: 工业Door
+	DisplayName: 工业门
 	Tooltip: ""
 }
 
@@ -941,7 +941,7 @@ IndustrialBulkhead: {
 }
 
 IndustrialBathtub: {
-	DisplayName: 工业Bathtub
+	DisplayName: 工业浴缸
 	Tooltip: ""
 }
 
@@ -961,17 +961,17 @@ IndustrialDeskClock: {
 }
 
 IndustrialPiano: {
-	DisplayName: 工业Piano
+	DisplayName: 工业钢琴
 	Tooltip: ""
 }
 
 IndustrialSink: {
-	DisplayName: 工业Sink
+	DisplayName: 工业水槽
 	Tooltip: ""
 }
 
 IndustrialBookcase: {
-	DisplayName: 工业Bookcase
+	DisplayName: 工业书架
 	Tooltip: ""
 }
 
@@ -991,127 +991,127 @@ IndustrialWallMonitor: {
 }
 
 IndustrialDresser: {
-	DisplayName: 工业Dresser
+	DisplayName: 工业梳妆台
 	Tooltip: ""
 }
 
 IndustrialToilet: {
-	DisplayName: 工业Toilet
+	DisplayName: 工业马桶
 	Tooltip: ""
 }
 
 OilRefinery: {
 	DisplayName: 炼油厂
-	Tooltip: Used to refine fuel and other fluids
+	Tooltip: 用于提炼燃料和其他液体
 }
 
 SolarPanelSmall: {
 	DisplayName: 太阳能电池板
-	Tooltip: Converts solar energy into electricity
+	Tooltip: 将太阳能转化为电能
 }
 
 Procellarum: {
-	DisplayName: Procellarum
+	DisplayName: 风暴洋
 	Tooltip:
 		'''
-		<left> to swing, with hits applying a Lightning Mark
-		<right> to throw, charging to call down 5 heavenly lightning bolts down upon enemies
-		lightning bolts will prioritise and home in on and deal 50% increased damage to marked enemies
+		<left> 来摆动, 在命中敌人时附加闪电标记
+		<right> 来掷出, 冲向敌人，召唤5道天上的闪电
+		闪电将优先瞄准标记的敌人并额外造成50%的伤害
 		'''
 }
-
+// 这是考究到的月亮上的地名
 LexanGlass: {
 	DisplayName: 有机玻璃
 	Tooltip: ""
 }
 
 QuestionMark: {
-	DisplayName: Question Mark
+	DisplayName: 问号
 	Tooltip: ""
 }
 
 ZombieFinger: {
-	DisplayName: Zombie Finger
+	DisplayName: 僵尸之指
 	Tooltip: ""
 }
 
 XFLR6: {
 	DisplayName: XFLR-6
-	Tooltip: Well, what do you think of that? Look what the goat created.
+	Tooltip: 你觉得怎么样？看看山羊创造了什么吧.
 }
 
 InvarArrow: {
 	DisplayName: 殷钢箭
-	Tooltip: High velocity arrows that pierce enemies
+	Tooltip: 可以穿透敌人的高速箭
 }
 
 InvarBullet: {
 	DisplayName: 殷钢弹
-	Tooltip: Might ricochet between enemies
+	Tooltip: 可能在敌人之间反弹
 }
 
 SpaceTeddy: {
-	DisplayName: Space Teddy
+	DisplayName: 太空泰迪
 	Tooltip: ""
 }
 
 TeddyBear: {
-	DisplayName: Teddy Bear
+	DisplayName: 泰迪熊
 	Tooltip: ""
 }
 
 SteelChestplate: {
-	DisplayName: 钢Chestplate
+	DisplayName: 钢护胸
 	Tooltip: ""
 }
 
 SteelHelmet: {
-	DisplayName: 钢Helmet
+	DisplayName: 钢头盔
 	Tooltip: ""
 }
 
 SteelLeggings: {
-	DisplayName: 钢Leggings
+	DisplayName: 钢护胫
 	Tooltip: ""
 }
 
 RapaciousBrand: {
-	DisplayName: Rapacious Brand
+	DisplayName: 贪噬之刃
 	Tooltip: ""
 }
 
 Motor: {
-	DisplayName: 电动机
+	DisplayName: 马达
 	Tooltip: ""
 }
 
 Apollo115: {
-	DisplayName: Apollo115
+	DisplayName: 阿波罗115
 	Tooltip: ""
 }
 
 CraterDemonPet: {
-	DisplayName: Toy Rocket
+	DisplayName: 玩具火箭
 	Tooltip:
 		'''
-		Summons a Crater Imp
+		召唤一个陨星煞鬼
 		'Fly me to the Moon!'
 		       
 		'''
 }
-
+// 关于Fly Me to the Moon：美国宇航局曾把这首歌的唱片通过阿波罗飞船送上月球，使得这首歌曲成为第一首在月球上播放的人类歌曲.
 MoonGoldCrescent: {
-	DisplayName: Moon Gold Crescent
+	DisplayName: 新月墓石
 	Tooltip: ""
 }
 
 MoonGoldLunarCross: {
-	DisplayName: Moon Gold Lunar Cross
+	DisplayName: 月球十字形金墓石
 	Tooltip: ""
 }
 
 MoonHeadstone: {
-	DisplayName: Moon Headstone
+	DisplayName: 月球十字形墓石
 	Tooltip: ""
 }
 
@@ -1156,17 +1156,17 @@ IntoTheUnknownMusicBox: {
 }
 
 OsmiumBoots: {
-	DisplayName: Osmium Boots
-	Tooltip: Increases player's fall speed
+	DisplayName: 锇靴
+	Tooltip: 提高玩家的下落速度
 }
 
 EarthGlobe: {
 	DisplayName: 地球仪
-	Tooltip: Home sweet home!
+	Tooltip: 家！甜蜜的家！
 }
 
 PowerJunction: {
-	DisplayName: Power Junction
+	DisplayName: 电源接头
 	Tooltip: ""
 }
 
@@ -1176,12 +1176,12 @@ Computer: {
 }
 
 HelixPatternDesign: {
-	DisplayName: Helix Pattern Design
+	DisplayName: 螺旋图案设计
 	Tooltip: ""
 }
 
 Gear: {
-	DisplayName: Gear
+	DisplayName: 齿轮
 	Tooltip: ""
 }
 

@@ -17,9 +17,9 @@ ArtemiteSwordProjectile.DisplayName: Artemite Straightsword
 ClawWrenchProjectile.DisplayName: Claw Wrench
 MoonSwordProjectile.DisplayName: Moon Sword
 MoonSwordSwing.DisplayName: Moon Sword
-ArchersLineProjectile.DisplayName: Archer's Line
-CruithneGreenSlug.DisplayName: Green Slug
-DeliriumShell.DisplayName: Delirium Shell
+ArchersLineProjectile.DisplayName: 弓手界限
+CruithneGreenSlug.DisplayName: 绿色子弹
+DeliriumShell.DisplayName: 紊乱炮弹
 LHBMinigunProjectile.DisplayName: LHB-59
 NWAMissile.DisplayName: NWA-5000
 PlasmaGrenade.DisplayName: Plasma Grenade
