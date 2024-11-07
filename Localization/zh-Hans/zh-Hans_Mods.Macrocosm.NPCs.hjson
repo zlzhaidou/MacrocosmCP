@@ -123,6 +123,7 @@ MoonZombie: {
 RadioactiveSlime: {
 	DisplayName: 放射史莱姆
 	BestiaryFlavorText: 这种史莱姆吸收了大量的铀、铬以及其它放射性元素.小心处理它们！
+}
 
 RegolithSlime: {
 	DisplayName: 岩尘史莱姆
