@@ -86,12 +86,12 @@ ChandriumLeggings: {
 }
 
 DianiteBreastplate: {
-	DisplayName: 黛安娜Breastplate
+	DisplayName: 望舒Breastplate
 	Tooltip: 12% increased magic critical strike chance
 }
 
 DianiteLeggings: {
-	DisplayName: 黛安娜Leggings
+	DisplayName: 望舒Leggings
 	Tooltip:
 		'''
 		5% increased magic damage
@@ -100,7 +100,7 @@ DianiteLeggings: {
 }
 
 DianiteVisor: {
-	DisplayName: 黛安娜Visor
+	DisplayName: 望舒Visor
 	Tooltip:
 		'''
 		Increases maximum mana by 50
@@ -109,12 +109,12 @@ DianiteVisor: {
 }
 
 SeleniteBreastplate: {
-	DisplayName: 月亮Breastplate
+	DisplayName: 月光Breastplate
 	Tooltip: 12% increased ranged critical strike chance
 }
 
 SeleniteHeadgear: {
-	DisplayName: 月亮Headgear
+	DisplayName: 月光Headgear
 	Tooltip:
 		'''
 		10% increased ranged damage
@@ -123,7 +123,7 @@ SeleniteHeadgear: {
 }
 
 SeleniteLeggings: {
-	DisplayName: 月亮Leggings
+	DisplayName: 月光Leggings
 	Tooltip:
 		'''
 		5% increased ranged damage
@@ -233,12 +233,12 @@ DeliriumPlating: {
 }
 
 DianiteBar: {
-	DisplayName: 黛安娜Bar
+	DisplayName: 望舒Bar
 	Tooltip: ""
 }
 
 DianiteOre: {
-	DisplayName: 黛安娜Ore
+	DisplayName: 望舒Ore
 	Tooltip: ""
 }
 
@@ -268,12 +268,12 @@ PrintedCircuitBoard: {
 }
 
 SeleniteBar: {
-	DisplayName: 月亮Bar
+	DisplayName: 月光Bar
 	Tooltip: ""
 }
 
 SeleniteOre: {
-	DisplayName: 月亮Ore
+	DisplayName: 月光Ore
 	Tooltip: ""
 }
 
@@ -518,42 +518,42 @@ ChandriumPickaxe: {
 }
 
 DianiteAxe: {
-	DisplayName: 黛安娜Axe
+	DisplayName: 望舒Axe
 	Tooltip: ""
 }
 
 DianiteDrill: {
-	DisplayName: 黛安娜Drill
+	DisplayName: 望舒Drill
 	Tooltip: ""
 }
 
 DianiteHammer: {
-	DisplayName: 黛安娜Hammer
+	DisplayName: 望舒Hammer
 	Tooltip: ""
 }
 
 DianitePickaxe: {
-	DisplayName: 黛安娜Pickaxe
+	DisplayName: 望舒Pickaxe
 	Tooltip: ""
 }
 
 SeleniteAxe: {
-	DisplayName: 月亮Axe
+	DisplayName: 月光Axe
 	Tooltip: ""
 }
 
 SeleniteDrill: {
-	DisplayName: 月亮Drill
+	DisplayName: 月光Drill
 	Tooltip: ""
 }
 
 SeleniteHammer: {
-	DisplayName: 月亮Hammer
+	DisplayName: 月光Hammer
 	Tooltip: ""
 }
 
 SelenitePickaxe: {
-	DisplayName: 月亮Pickaxe
+	DisplayName: 月光Pickaxe
 	Tooltip: ""
 }
 
@@ -563,12 +563,12 @@ CraterDemonMask: {
 }
 
 DianiteFork: {
-	DisplayName: 黛安娜Fork
+	DisplayName: 望舒Fork
 	Tooltip: Fire swirling magic at your enemies!
 }
 
 DianiteTome: {
-	DisplayName: 黛安娜Tome
+	DisplayName: 望舒Tome
 	Tooltip:
 		'''
 		Conjure a portal to rain 
@@ -669,12 +669,12 @@ NWARocketLauncher: {
 }
 
 SeleniteBow: {
-	DisplayName: 月亮Bow
+	DisplayName: 月光Bow
 	Tooltip: Fires two arrows
 }
 
 SeleniteMagnum: {
-	DisplayName: 月亮Magnum
+	DisplayName: 月光Magnum
 	Tooltip: <right> to rapidly fan six bullets
 }
 
@@ -746,17 +746,17 @@ ChampionsBlade: {
 }
 
 SilicaCrimsand: {
-	DisplayName: 猩红二氧化硅沙
+	DisplayName: 猩红硅沙
 	Tooltip: ""
 }
 
 SilicaEbonsand: {
-	DisplayName: 腐化二氧化硅沙
+	DisplayName: 腐化硅沙
 	Tooltip: ""
 }
 
 SilicaPearlsand: {
-	DisplayName: 神圣二氧化硅沙
+	DisplayName: 神圣硅沙
 	Tooltip: ""
 }
 

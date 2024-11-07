@@ -32,14 +32,14 @@ ArtemiteOre.MapEntry: 嫦娥石
 ChandriumOre.MapEntry: 常羲石
 DianiteOre.MapEntry: 望舒石
 LithiumOre.MapEntry: 锂矿石
-SeleniteOre.MapEntry: 恒瑶石
+SeleniteOre.MapEntry: 月光石
 OilShale.MapEntry: 油页岩
 Coal.MapEntry: 煤炭
 ArtemiteBar.MapEntry: 嫦娥锭
 ChandriumBar.MapEntry: 常羲锭
 DianiteBar.MapEntry: 望舒锭
 AluminumBar.MapEntry: 铝锭
-SeleniteBar.MapEntry: 恒瑶锭
+SeleniteBar.MapEntry: 月光锭
 SteelBar.MapEntry: 钢锭
 SolarPanelLarge.MapEntry: 太阳能电池板（大）
 SolarPanelSmall.MapEntry: 太阳能电池板（小）
