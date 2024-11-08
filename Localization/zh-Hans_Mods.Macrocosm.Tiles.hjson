@@ -69,7 +69,7 @@ Computer.MapEntry: 计算机
 IndustrialCrate.MapEntry: 工业板条箱
 ConstructionLight.MapEntry: 建筑灯具
 OreExcavator.MapEntry: 矿石挖掘机
-Fabricator.MapEntry: 制造商
+Fabricator.MapEntry: 制造站
 IndustrialGurney.MapEntry: 工业轮床
 CheeseBlock.MapEntry: 奶酪块
 CheeseChest.MapEntry: 奶酪箱
