@@ -1,5 +1,5 @@
 SetBonuses: {
-	SpaceProtection_1: 加压宇航服允许探索其他天体. 
+	SpaceProtection_1: 加压宇航服允许探索其他天体.
 	SpaceProtection_2: 内衬铅的防护服可以安全地探索高辐射环境.
 }
 
@@ -334,7 +334,7 @@ VortexChunk: {
 
 SpaceShuttle: {
 	DisplayName: 航天飞船
-	Tooltip: 谨以此物凭念STS-51-L和STS-107
+	Tooltip: 谨以此物，向哥伦比亚号与挑战者号的遇难宇航员致以崇高敬意
 }
 
 IrradiatedBrick: {
@@ -593,7 +593,7 @@ AluminumShortsword: {
 
 ArtemiteGreatsword: {
 	DisplayName: 嫦娥·灵霄断
-	Tooltip:  <right> 来蓄力，松开后造成大量伤害
+	Tooltip: <right> 来蓄力，松开后造成大量伤害
 }
 
 ArtemiteSpear: {
@@ -639,7 +639,7 @@ ArchersLine: {
 	DisplayName: 弓手界限
 	Tooltip: 子弹从一个敌人弹到另一个敌人
 }
-// 弓手界限考究到是命运二的
+
 Copernicus: {
 	DisplayName: 哥白尼
 	Tooltip: 飞快的射出子弹
@@ -685,7 +685,7 @@ CalcicCane: {
 
 ChandriumStaff: {
 	DisplayName: 常曦华杖
-	Tooltip: 召唤一次Crescent Ghoul为你而战
+	Tooltip: 召唤一次弦月鬼为你而战
 }
 
 ChandriumWhip: {
@@ -726,7 +726,7 @@ ChampionsBladeBroken: {
 		This effect wears off after some time when not hitting with the blade
 		'''
 }
-
+// 不存在的物品
 ChampionsBladeRepaired: {
 	DisplayName: Champion's Blade
 	Tooltip:
@@ -735,7 +735,7 @@ ChampionsBladeRepaired: {
 		This effect wears off after some time when not hitting with the blade
 		'''
 }
-
+// 不存在的物品
 ChampionsBlade: {
 	DisplayName: 斗士之锋
 	Tooltip:
@@ -1019,7 +1019,7 @@ Procellarum: {
 		闪电将优先瞄准标记的敌人并额外造成50%的伤害
 		'''
 }
-// 这是考究到的月亮上的地名
+
 LexanGlass: {
 	DisplayName: 有机玻璃
 	Tooltip: ""
@@ -1099,7 +1099,7 @@ CraterDemonPet: {
 		       
 		'''
 }
-// 关于Fly Me to the Moon：美国宇航局曾把这首歌的唱片通过阿波罗飞船送上月球，使得这首歌曲成为第一首在月球上播放的人类歌曲.
+
 MoonGoldCrescent: {
 	DisplayName: 新月墓石
 	Tooltip: ""
@@ -1249,7 +1249,7 @@ RocketLandingLeg: {
 	DisplayName: 起落架
 	Tooltip: ""
 }
-// 这玩意被删除了
+
 RocketPlating: {
 	DisplayName: 火箭护板
 	Tooltip: ""
@@ -1283,8 +1283,8 @@ CopperWire: {
 }
 
 GothicCoalBrick: {
-	// DisplayName: 哥特式煤砖
-	// Tooltip: ""
+	DisplayName: 哥特式煤砖
+	Tooltip: ""
 }
 
 SpookyDookie: {
@@ -1507,7 +1507,7 @@ StarDestroyer: {
 	DisplayName: 歼星炮
 	Tooltip: 向敌人发射一大批星星
 }
-// 来自星球大战
+
 WaveGunBlue: {
 	DisplayName: 蓝色电击枪
 	Tooltip: ""

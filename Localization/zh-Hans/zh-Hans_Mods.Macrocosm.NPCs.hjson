@@ -77,39 +77,41 @@ MoonChampion: {
 }
 
 Clavite: {
-	DisplayName: 噬咬魔
-	BestiaryFlavorText: 在月球表面掠食的贪婪外星怪物.它会攻击面前的一切.
-
-CraterCrawlerHead: {
-	DisplayName: 陨坑千足虫
-	BestiaryFlavorText: 千足蜈蚣的远房表亲，还未被驯化.在月夜的严寒中漫无目的地游荡.
+	DisplayName: 吞月巨虫
+	BestiaryFlavorText: 在月球上的所有外星怪物中，鲜有如此虫般可怕之物.它们潜藏于地下，每一次冲出地表，就代表着又一条生命被吞噬.
 }
 
-CraterCrawlerBody.DisplayName: 陨坑千足虫
-CraterCrawlerTail.DisplayName: 陨坑千足虫
+CraterCrawlerHead: {
+	// DisplayName: Crater Crawler
+	// BestiaryFlavorText: The distant, non-domesticated relatives of crawltipedes, left to aimlessly wander the abandoned moonscape during its long, frigid nights.
+}
+
+// CraterCrawlerBody.DisplayName: Crater Crawler
+// CraterCrawlerTail.DisplayName: Crater Crawler
 
 CrescentGhoul: {
-	DisplayName: 弦月鬼
-	BestiaryFlavorText: 这些弦月形的邪魔出没于月球的长夜中，疾速撕碎其猎物.
+	// DisplayName: Crescent Ghoul
+	// BestiaryFlavorText: These devious, crescent-shaped aliens prowl the Moon's long nights, using their immense velocity to shred their victims.
 }
 
 Leaper: {
-	DisplayName: 跃穴影
-	BestiaryFlavorText: 这些机敏的生物存活于月球地下深处，在洞穴的墙壁间蹦跃以使其猎物措手不及.
+	// DisplayName: Leaper
+	// BestiaryFlavorText: These agile creatures live deep below the Moon's surface, jumping to and from the walls and ceilings of caverns to confuse their victims.
 }
 
 LuminiteSlime: {
-	DisplayName: 夜明史莱姆
-	BestiaryFlavorText: 月亮地表下的一些史莱姆被夜明矿所吸引，吞食了过多的这种物质后，夜明矿便成了它们的一部分.
+	// DisplayName: Luminite Slime
+	// BestiaryFlavorText: Some slimes beneath the Moon's surface develop an attraction to luminite, consuming so much that it becomes part of their makeup.
 }
 
 LuminiteSlimeVolatile: {
-	DisplayName: 不稳定夜明史莱姆
-	BestiaryFlavorText: 月亮地表下的一些史莱姆被夜明矿所吸引，吞食了过多的这种物质后，夜明矿便成了它们的一部分.
+	// DisplayName: Volatile Luminite Slime
+	// BestiaryFlavorText: Some slimes beneath the Moon's surface develop an attraction to luminite, consuming so much that it becomes part of their makeup.
 }
 
-	DisplayName: 吞月巨虫
-	BestiaryFlavorText: 在月球上的所有外星怪物中，鲜有如此虫般可怕之物.它们潜藏于地下，每一次冲出地表，就代表着又一条生命被吞噬.
+MoonWormHead: {
+	// DisplayName: Moon Worm
+	// BestiaryFlavorText: The Moon's long nights bring forth many an alien monster, few more infamous than its colossal Moon worms, ambushing their prey from below.
 }
 
 MoonWormBody.DisplayName: 吞月巨虫

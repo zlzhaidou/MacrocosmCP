@@ -57,18 +57,6 @@ Rocket: {
 		ResetModule: 重置舱室外观
 		ResetRocket: 重置火箭外观
 		ResetPattern: 重置图案外观
-		Details.None: 无
-
-		Patterns: {
-			Basic: 基础
-			Astra: 阿斯特拉
-			Binary: 星舰
-			Delta: 德尔塔系列运载火箭
-			Hazard: 黄黑警戒
-			Helix: 彩虹螺旋
-			Redstone: 红石式运载火箭
-			Saturn: 土星5号
-		}
 	}
 
 	Cargo.DumpFuel: 倾倒

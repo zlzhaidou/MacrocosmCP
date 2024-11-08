@@ -57,18 +57,6 @@ Rocket: {
 		ResetModule: Reset module to default appearance
 		ResetRocket: Reset rocket to default appearance
 		ResetPattern: Reset pattern to default appearance
-		Details.None: None
-
-		Patterns: {
-			Basic: Basic
-			Astra: Astra
-			Binary: Binary
-			Delta: Delta
-			Hazard: Hazard
-			Helix: Helix
-			Redstone: Redstone
-			Saturn: Saturn
-		}
 	}
 
 	Cargo.DumpFuel: Dump
