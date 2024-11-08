@@ -82,36 +82,36 @@ Clavite: {
 }
 
 CraterCrawlerHead: {
-	DisplayName: 陨星蠕虫
-	BestiaryFlavorText: 那些遥远的、未被驯化的爬行足类远亲. 它们在漫长的、寒冷的夜晚中，漫无目的地游荡在荒凉的月球上.
+	DisplayName: 陨坑千足虫
+	BestiaryFlavorText: 千足蜈蚣的远房表亲，还未被驯化.在月夜的严寒中漫无目的地游荡.
 }
 
-CraterCrawlerBody.DisplayName: 陨星蠕虫-身
-CraterCrawlerTail.DisplayName: 陨星蠕虫-尾
+CraterCrawlerBody.DisplayName: 陨坑千足虫-身
+CraterCrawlerTail.DisplayName: 陨坑千足虫-尾
 
 CrescentGhoul: {
-	DisplayName: 新月食尸鬼
-	BestiaryFlavorText: 这些狡猾的、新月形的外星生物潜匿在月球漫长的夜晚，利用它们惊人的速度撕裂猎物.
+	DisplayName: 弦月鬼
+	BestiaryFlavorText: 这些弦月形的邪魔出没于月球的长夜中，疾速撕碎其猎物.
 }
 
 Leaper: {
-	DisplayName: 跳跃者
-	BestiaryFlavorText: 这些敏捷的生物生活在较深的月球表面，在洞穴的墙壁和天花板上来回跳跃，以迷惑受害者.
+	DisplayName: 跃穴影
+	BestiaryFlavorText: 这些机敏的生物存活于月球地下深处，在洞穴的墙壁间蹦跃以使其猎物措手不及.
 }
 
 LuminiteSlime: {
 	DisplayName: 夜明史莱姆
-	BestiaryFlavorText: 月球表面下的一些泥泞对夜明产生了吸引力. 它们不断地吸收夜明，最终夜明成为了它们构成的一部分.
+	BestiaryFlavorText: 月亮地表下的一些史莱姆被夜明矿所吸引，吞食了过多的这种物质后，夜明矿便成了它们的一部分.
 }
 
 LuminiteSlimeVolatile: {
-	DisplayName: 挥发夜明史莱姆
-	BestiaryFlavorText: 月球表面下的一些泥泞对夜明产生了吸引力. 它们不断地吸收夜明，最终夜明成为了它们构成的一部分.
+	DisplayName: 不稳定夜明史莱姆
+	BestiaryFlavorText: 月亮地表下的一些史莱姆被夜明矿所吸引，吞食了过多的这种物质后，夜明矿便成了它们的一部分.
 }
 
 MoonWormHead: {
 	DisplayName: 吞月巨虫
-	BestiaryFlavorText: 月球漫长的夜晚孕育出众多异形怪物，其中少有比从地下伏击猎物的吞月巨虫更为臭名昭著的.
+	BestiaryFlavorText: 在月球上的所有外星怪物中，鲜有如此虫般可怕之物.它们潜藏于地下，每一次冲出地表，就代表着又一条生命被吞噬.
 }
 
 MoonWormBody.DisplayName: 吞月巨虫-身
