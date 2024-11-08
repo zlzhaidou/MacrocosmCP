@@ -2034,7 +2034,7 @@ InhibitorFieldGrenade: {
 	DisplayName: 静滞手雷
 	Tooltip: ""
 }
-// 考究到的
+
 QuartzFragment: {
 	DisplayName: 石英碎片
 	Tooltip: ""
