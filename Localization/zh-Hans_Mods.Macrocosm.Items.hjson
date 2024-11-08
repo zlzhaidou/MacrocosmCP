@@ -1,6 +1,6 @@
 SetBonuses: {
-	SpaceProtection_1: 加压宇航服允许探索其他天体.
-	SpaceProtection_2: 内衬铅的防护服可以安全地探索高辐射环境.
+	SpaceProtection_1: 加压的宇航服，允许你探索其他天体.
+	SpaceProtection_2: 内衬了铅的防护服，允许你安全地探索高辐射环境.
 }
 
 CelestialBulwark: {
@@ -642,7 +642,7 @@ ArchersLine: {
 
 Copernicus: {
 	DisplayName: 哥白尼
-	Tooltip: 飞快的射出子弹
+	Tooltip: 每射出五发子弹后射出一发火箭
 }
 
 Cruithne: {
@@ -1906,32 +1906,32 @@ IrradiatedRockWallUnsafe: {
 }
 
 ProtolithWallUnsafe: {
-	DisplayName: 不安全的月原岩Wall Unsafe
+	DisplayName: 不安全的月原岩墙
 	Tooltip: ""
 }
 
 RegolithBrickWallUnsafe: {
-	DisplayName: Regolith Brick Wall Unsafe
+	DisplayName: 不安全的风化砖墙
 	Tooltip: ""
 }
 
 RegolithWallUnsafe: {
-	DisplayName: Regolith Wall Unsafe
+	DisplayName: 不安全的风化岩墙
 	Tooltip: ""
 }
 
 Micronova: {
-	DisplayName: Micronova
-	Tooltip: Spawns two portals to fire beams at your cursor
+	DisplayName: 微型新星
+	Tooltip: 生成两个传送门，并向光标处发射光束
 }
 
 LexanGlassWall: {
-	DisplayName: 有机玻璃 Wall
+	DisplayName: 有机玻璃墙
 	Tooltip: ""
 }
 
 KyaniteScarabCritter: {
-	DisplayName: Kyanite Scarab Critter
+	DisplayName: 蓝晶甲虫幼体
 	Tooltip: ""
 }
 
@@ -1946,125 +1946,125 @@ IVPole: {
 }
 
 DevOmnitool: {
-	DisplayName: Dev Omnitool
+	DisplayName: 开发者万能工具
 	Tooltip: ""
 }
 
 LunarCrystal: {
-	DisplayName: Lunar Crystal
+	DisplayName: 月之碎晶
 	Tooltip: ""
 }
 
 CrescentMoon: {
-	DisplayName: Crescent Moon
+	DisplayName: 蛾眉月
 	Tooltip: ""
 }
 
 RocheChakram: {
-	DisplayName: Roche
+	DisplayName: 月光岩环
 	Tooltip: ""
 }
 
 CrescentScripture: {
-	DisplayName: Crescent Scripture
+	DisplayName: 半月颂歌
 	Tooltip: ""
 }
 
 Totality: {
-	DisplayName: Totality
-	Tooltip: Slash a rift into the fabric of reality!
+	DisplayName: 终绝
+	Tooltip: 撕开现实的面纱，开启通向另一方的道路......
 }
 
 AstraWorkbench: {
-	DisplayName: 星芒Workbench
+	DisplayName: 星芒书架
 	Tooltip: ""
 }
 
 CosmicEmberWorkbench: {
-	DisplayName: 宇宙余烬 Workbench
+	DisplayName: 宇宙余烬书架
 	Tooltip: ""
 }
 
 CryocoreWorkbench: {
-	DisplayName: 冷核Workbench
+	DisplayName: 冷核书架
 	Tooltip: ""
 }
 
 DarkCelestialWorkbench: {
-	DisplayName: 暗黑天界Workbench
+	DisplayName: 暗黑天界书架
 	Tooltip: ""
 }
 
 HeavenforgeWorkbench: {
-	DisplayName: 天熔Workbench
+	DisplayName: 天熔书架
 	Tooltip: ""
 }
 
 LuminiteWorkbench: {
-	DisplayName: 夜明Workbench
+	DisplayName: 夜明书架
 	Tooltip: ""
 }
 
 LunarRustWorkbench: {
-	DisplayName: 月锈 Workbench
+	DisplayName: 月锈书架
 	Tooltip: ""
 }
 
 MercuryWorkbench: {
-	DisplayName: 水星Workbench
+	DisplayName: 水星书架
 	Tooltip: ""
 }
 
 StarRoyaleWorkbench: {
-	DisplayName: 星星皇家 Workbench
+	DisplayName: 星星皇家书架
 	Tooltip: ""
 }
 
 InvarBar: {
-	DisplayName: 殷钢Bar
+	DisplayName: 殷钢锭
 	Tooltip: ""
 }
 
 NickelOre: {
-	DisplayName: Nickel Ore
+	DisplayName: 殷钢矿
 	Tooltip: ""
 }
 
 InhibitorFieldGrenade: {
-	DisplayName: Stasis Grenade
+	DisplayName: 静滞手雷
 	Tooltip: ""
 }
-
+// 考究到的
 QuartzFragment: {
-	DisplayName: Quartz Fragment
+	DisplayName: 石英碎片
 	Tooltip: ""
 }
 
 ManisolBlades: {
-	DisplayName: Manisol Blades
+	DisplayName: 日月双锋
 	Tooltip:
 		'''
-		Throw blades at your enemies
-		Sol blades stick to enemies and explode when returning to you
-		Mani blades pierce through enemies when thrown and when returning
+		向敌人掷出两张刀片
+		[c/e06c00:旭日之锋]将粘在敌人身上，并在回到你身边时爆炸
+		[c/94dee0:穹月之锋]将在投掷和回到你身边时刺穿敌人
 		'''
 }
 
 ArmstrongGauntlets: {
-	DisplayName: Armstrong Gauntlets
+	DisplayName: 阿姆斯特朗拳套
 	Tooltip:
 		'''
-		Throws a flurry of punches
-		Every few punches you will leap forward
+		嘿！挥舞起你的拳头！
+		不要害怕！勇敢地冲向你的敌人吧！
 		'''
 }
 
 WornLunarianDagger: {
-	DisplayName: Worn Lunarian Dagger
+	DisplayName: 破损的月民之匕
 	Tooltip:
 		'''
-		'A worn out dagger once had multiple uses. 
-		Now only its magical capabilities remain.'
+		'一个破碎的匕首，在以前有着许多的用处'
+		'随着时间，现在它只保留了一些基本的能力'
 		'''
 }
 
@@ -2074,217 +2074,217 @@ Canister: {
 }
 
 RocketFuelCanister: {
-	DisplayName: Rocket Fuel Canister
+	DisplayName: 火箭燃料罐
 	Tooltip: ""
 }
 
 TempestuousBand: {
-	DisplayName: Tempestuous Band
+	DisplayName: 暴风雨般的乐队
 	Tooltip:
 		'''
-		Critical strikes deal 20% increased extra damage
-		Non-critical strikes deal 20% less damage
-		15% increased critical strike chance
+		暴击时额外造成20%伤害
+		未造成暴击减少20%伤害
+		+15暴击率
 		'''
 }
 
 ArcaneBarnacle: {
-	DisplayName: Arcane Barnacle
+	DisplayName: 奥术藤壶
 	Tooltip:
 		'''
-		10% increased magic damage
-		70% increased mana cost
-		Hitting an enemy leeches 2% of damage as mana
-		Items that instantly restore mana are disabled
+		+10%魔法伤害
+		+70%魔力消耗
+		击中敌人时会将2%的伤害转化为魔力
+		禁用可以迅速回复大量魔力的物品
 		'''
 }
 
 MomentumLash: {
-	DisplayName: Momentum Lash
-	Tooltip: Repeatedly hitting enemies with a whip increases summon damage and whip speed up to +18%
+	DisplayName: 动量鞭
+	Tooltip: 用鞭子反复击打敌人会增加召唤伤害，+18%鞭子攻击速度
 }
 
 Ilmenite: {
-	DisplayName: Ilmenite
+	DisplayName: 铁钛之弦
 	Tooltip:
 		'''
-		<left> to fire bolts of light
-		Hold <right> to charge up an explosive vortex of light
+		<left>发射光之箭矢
+		<right>来为爆炸光漩涡充能
 		'''
 }
 
 StalwartTowerShield: {
-	DisplayName: Stalwart Tower Shield
-	Tooltip: Repeatedly getting hit will increase defence by +3 up to +12
+	DisplayName: 坚毅塔盾
+	Tooltip: 每受到一次伤害后增加3点防御力，最高增加12点防御力
 }
 
 ThaumaturgicWard: {
-	DisplayName: Thaumaturgic Ward
+	DisplayName: 秘法护符
 	Tooltip:
 		'''
-		Below 30% of maximum life, 50% of damage is taken from mana
-		Any overflow on damage to mana is then applied back to your life
-		Deal no non-magic damage
-		Cannot be equipped with Magic Cuffs
+		当你的生命值在30%以下时，受到伤害的50%会损失魔力值而非生命值
+		魔力值耗尽时，将继续从生命值中扣除
+		不能造成非魔法伤害
+		不能同时佩戴魔法手铐
 		'''
 }
 
 HummingbirdDroneRemote: {
-	DisplayName: P.D.C.D. Controller
+	DisplayName: P.D.C.D.控制器
 	Tooltip:
 		'''
-		Summons a Hummingbird drone to fight for you
-		At low health they will surround you in a defensive position
+		召唤Hummingbird dronen****为你而战
+		当生命值较低时他们会抱紧你来保护你
 		'''
 }
 
 GreatstaffOfHorus: {
-	DisplayName: Greatstaff Of Horus
-	Tooltip: Summons a Lesser Granule to fight for you.
+	DisplayName: 荷鲁斯巨杖
+	Tooltip: 召唤Lesser Granule***为你而战
 }
 
 LuminiteTorch: {
-	DisplayName: 夜明Torch
-	Tooltip: Can be used in airless environments.
+	DisplayName: 夜明火把
+	Tooltip: 可以在真空环境下使用
 }
 
 RyuguStaff: {
-	DisplayName: Mortar Staff
-	Tooltip: Summons a Ryugu to fight for you.
+	DisplayName: 广寒杖
+	Tooltip: 召唤Ryugu为你而战
 }
 
 AstraDoor: {
-	DisplayName: 星芒Door
+	DisplayName: 星芒门
 	Tooltip: ""
 }
 
 CosmicEmberDoor: {
-	DisplayName: 宇宙余烬 Door
+	DisplayName: 宇宙余烬门
 	Tooltip: ""
 }
 
 CryocoreDoor: {
-	DisplayName: 冷核Door
+	DisplayName: 冷核门
 	Tooltip: ""
 }
 
 DarkCelestialDoor: {
-	DisplayName: 暗黑天界Door
+	DisplayName: 暗黑天界门
 	Tooltip: ""
 }
 
 HeavenforgeDoor: {
-	DisplayName: 天熔Door
+	DisplayName: 天熔门
 	Tooltip: ""
 }
 
 LuminiteDoor: {
-	DisplayName: 夜明Door
+	DisplayName: 夜明门
 	Tooltip: ""
 }
 
 LunarRustDoor: {
-	DisplayName: 月锈 Door
+	DisplayName: 月锈门
 	Tooltip: ""
 }
 
 MercuryDoor: {
-	DisplayName: 水星Door
+	DisplayName: 水星门
 	Tooltip: ""
 }
 
 StarRoyaleDoor: {
-	DisplayName: 星星皇家 Door
+	DisplayName: 星星皇家门
 	Tooltip: ""
 }
 
 SolarCell: {
-	DisplayName: Solar Cell
+	DisplayName: 太阳能电池
 	Tooltip: ""
 }
 
 LaserSight: {
-	DisplayName: Laser Sight
-	Tooltip: 30% reduced ranged weapon spread
+	DisplayName: 激光瞄准器
+	Tooltip: -30%弹道漂移
 }
 
 ProtolithBrick: {
-	DisplayName: 月原岩Brick
+	DisplayName: 月原岩砖
 	Tooltip: ""
 }
 
 ProtolithBrickWall: {
-	DisplayName: 月原岩Brick Wall
+	DisplayName: 月原岩砖墙
 	Tooltip: ""
 }
 
 ProtolithBrickWallUnsafe: {
-	DisplayName: 月原岩Brick Wall Unsafe
+	DisplayName: 不安全的月原岩砖墙
 	Tooltip: ""
 }
 
 AstraBathtub: {
-	DisplayName: 星芒Bathtub
+	DisplayName: 星芒浴缸
 	Tooltip: ""
 }
 
 AstraBed: {
-	DisplayName: 星芒Bed
+	DisplayName: 星芒床
 	Tooltip: ""
 }
 
 AstraChandelier: {
-	DisplayName: 星芒Chandelier
+	DisplayName: 星芒吊灯
 	Tooltip: ""
 }
 
 AstraDresser: {
-	DisplayName: 星芒Dresser
+	DisplayName: 星芒梳妆台
 	Tooltip: ""
 }
 
 AstraLamp: {
-	DisplayName: 星芒Lamp
+	DisplayName: 星芒灯
 	Tooltip: ""
 }
 
 AstraPiano: {
-	DisplayName: 星芒Piano
+	DisplayName: 星芒钢琴
 	Tooltip: ""
 }
 
 AstraSink: {
-	DisplayName: 星芒Sink
+	DisplayName: 星芒水槽
 	Tooltip: ""
 }
 
 AstraSofa: {
-	DisplayName: 星芒Sofa
+	DisplayName: 星芒沙发
 	Tooltip: ""
 }
 
 AstraTable: {
-	DisplayName: 星芒Table
+	DisplayName: 星芒桌
 	Tooltip: ""
 }
 
 CosmicEmberBathtub: {
-	DisplayName: 宇宙余烬 Bathtub
+	DisplayName: 宇宙余烬浴缸
 	Tooltip: ""
 }
 
 CosmicEmberBed: {
-	DisplayName: 宇宙余烬 Bed
+	DisplayName: 宇宙余烬床
 	Tooltip: ""
 }
 
 CosmicEmberChandelier: {
-	DisplayName: 宇宙余烬 Chandelier
+	DisplayName: 宇宙余烬吊灯
 	Tooltip: ""
 }
 
 CosmicEmberDresser: {
-	DisplayName: 宇宙余烬 Dresser
+	DisplayName: 宇宙余烬梳妆台
 	Tooltip: ""
 }
 
@@ -2294,12 +2294,12 @@ CosmicEmberLamp: {
 }
 
 CosmicEmberPiano: {
-	DisplayName: 宇宙余烬 Piano
+	DisplayName: 宇宙余烬钢琴
 	Tooltip: ""
 }
 
 CosmicEmberSink: {
-	DisplayName: 宇宙余烬 Sink
+	DisplayName: 宇宙余烬水槽
 	Tooltip: ""
 }
 
@@ -2309,207 +2309,207 @@ CosmicEmberSofa: {
 }
 
 CosmicEmberTable: {
-	DisplayName: 宇宙余烬 Table
+	DisplayName: 宇宙余烬桌
 	Tooltip: ""
 }
 
 CryocoreBathtub: {
-	DisplayName: 冷核Bathtub
+	DisplayName: 冷核浴缸
 	Tooltip: ""
 }
 
 CryocoreBed: {
-	DisplayName: 冷核Bed
+	DisplayName: 冷核床
 	Tooltip: ""
 }
 
 CryocoreChandelier: {
-	DisplayName: 冷核Chandelier
+	DisplayName: 冷核吊灯
 	Tooltip: ""
 }
 
 CryocoreDresser: {
-	DisplayName: 冷核Dresser
+	DisplayName: 冷核梳妆台
 	Tooltip: ""
 }
 
 CryocoreLamp: {
-	DisplayName: 冷核Lamp
+	DisplayName: 冷核灯
 	Tooltip: ""
 }
 
 CryocorePiano: {
-	DisplayName: 冷核Piano
+	DisplayName: 冷核钢琴
 	Tooltip: ""
 }
 
 CryocoreSink: {
-	DisplayName: 冷核Sink
+	DisplayName: 冷核水槽
 	Tooltip: ""
 }
 
 CryocoreSofa: {
-	DisplayName: 冷核Sofa
+	DisplayName: 冷核沙发
 	Tooltip: ""
 }
 
 CryocoreTable: {
-	DisplayName: 冷核Table
+	DisplayName: 冷核桌
 	Tooltip: ""
 }
 
 DarkCelestialBathtub: {
-	DisplayName: 暗黑天界Bathtub
+	DisplayName: 暗黑天界浴缸
 	Tooltip: ""
 }
 
 DarkCelestialBed: {
-	DisplayName: 暗黑天界Bed
+	DisplayName: 暗黑天界床
 	Tooltip: ""
 }
 
 DarkCelestialChandelier: {
-	DisplayName: 暗黑天界Chandelier
+	DisplayName: 暗黑天界吊灯
 	Tooltip: ""
 }
 
 DarkCelestialDresser: {
-	DisplayName: 暗黑天界Dresser
+	DisplayName: 暗黑天界梳妆台
 	Tooltip: ""
 }
 
 DarkCelestialLamp: {
-	DisplayName: 暗黑天界Lamp
+	DisplayName: 暗黑天界灯
 	Tooltip: ""
 }
 
 DarkCelestialPiano: {
-	DisplayName: 暗黑天界Piano
+	DisplayName: 暗黑天界钢琴
 	Tooltip: ""
 }
 
 DarkCelestialSink: {
-	DisplayName: 暗黑天界Sink
+	DisplayName: 暗黑天界水槽
 	Tooltip: ""
 }
 
 DarkCelestialSofa: {
-	DisplayName: 暗黑天界Sofa
+	DisplayName: 暗黑天界沙发
 	Tooltip: ""
 }
 
 DarkCelestialTable: {
-	DisplayName: 暗黑天界Table
+	DisplayName: 暗黑天界桌
 	Tooltip: ""
 }
 
 HeavenforgeBathtub: {
-	DisplayName: 天熔Bathtub
+	DisplayName: 天熔浴缸
 	Tooltip: ""
 }
 
 HeavenforgeBed: {
-	DisplayName: 天熔Bed
+	DisplayName: 天熔床
 	Tooltip: ""
 }
 
 HeavenforgeChandelier: {
-	DisplayName: 天熔Chandelier
+	DisplayName: 天熔吊灯
 	Tooltip: ""
 }
 
 HeavenforgeDresser: {
-	DisplayName: 天熔Dresser
+	DisplayName: 天熔梳妆台
 	Tooltip: ""
 }
 
 HeavenforgeLamp: {
-	DisplayName: 天熔Lamp
+	DisplayName: 天熔灯
 	Tooltip: ""
 }
 
 HeavenforgePiano: {
-	DisplayName: 天熔Piano
+	DisplayName: 天熔钢琴
 	Tooltip: ""
 }
 
 HeavenforgeSink: {
-	DisplayName: 天熔Sink
+	DisplayName: 天熔水槽
 	Tooltip: ""
 }
 
 HeavenforgeSofa: {
-	DisplayName: 天熔Sofa
+	DisplayName: 天熔沙发
 	Tooltip: ""
 }
 
 HeavenforgeTable: {
-	DisplayName: 天熔Table
+	DisplayName: 天熔桌
 	Tooltip: ""
 }
 
 LuminiteBathtub: {
-	DisplayName: 夜明Bathtub
+	DisplayName: 夜明浴缸
 	Tooltip: ""
 }
 
 LuminiteBed: {
-	DisplayName: 夜明Bed
+	DisplayName: 夜明床
 	Tooltip: ""
 }
 
 LuminiteChandelier: {
-	DisplayName: 夜明Chandelier
+	DisplayName: 夜明吊灯
 	Tooltip: ""
 }
 
 LuminiteDresser: {
-	DisplayName: 夜明Dresser
+	DisplayName: 夜明梳妆台
 	Tooltip: ""
 }
 
 LuminiteLamp: {
-	DisplayName: 夜明Lamp
+	DisplayName: 夜明灯
 	Tooltip: ""
 }
 
 LuminitePiano: {
-	DisplayName: 夜明Piano
+	DisplayName: 夜明钢琴
 	Tooltip: ""
 }
 
 LuminiteSink: {
-	DisplayName: 夜明Sink
+	DisplayName: 夜明水槽
 	Tooltip: ""
 }
 
 LuminiteSofa: {
-	DisplayName: 夜明Sofa
+	DisplayName: 夜明沙发
 	Tooltip: ""
 }
 
 LuminiteTable: {
-	DisplayName: 夜明Table
+	DisplayName: 夜明桌
 	Tooltip: ""
 }
 
 LunarRustBathtub: {
-	DisplayName: 月锈 Bathtub
+	DisplayName: 月锈浴缸
 	Tooltip: ""
 }
 
 LunarRustBed: {
-	DisplayName: 月锈 Bed
+	DisplayName: 月锈床
 	Tooltip: ""
 }
 
 LunarRustChandelier: {
-	DisplayName: 月锈 Chandelier
+	DisplayName: 月锈吊灯
 	Tooltip: ""
 }
 
 LunarRustDresser: {
-	DisplayName: 月锈 Dresser
+	DisplayName: 月锈梳妆台
 	Tooltip: ""
 }
 
@@ -2534,72 +2534,72 @@ LunarRustSofa: {
 }
 
 LunarRustTable: {
-	DisplayName: 月锈 Table
+	DisplayName: 月锈桌
 	Tooltip: ""
 }
 
 MercuryBathtub: {
-	DisplayName: 水星Bathtub
+	DisplayName: 水星浴缸
 	Tooltip: ""
 }
 
 MercuryBed: {
-	DisplayName: 水星Bed
+	DisplayName: 水星床
 	Tooltip: ""
 }
 
 MercuryChandelier: {
-	DisplayName: 水星Chandelier
+	DisplayName: 水星吊灯
 	Tooltip: ""
 }
 
 MercuryDresser: {
-	DisplayName: 水星Dresser
+	DisplayName: 水星梳妆台
 	Tooltip: ""
 }
 
 MercuryLamp: {
-	DisplayName: 水星Lamp
+	DisplayName: 水星灯
 	Tooltip: ""
 }
 
 MercuryPiano: {
-	DisplayName: 水星Piano
+	DisplayName: 水星钢琴
 	Tooltip: ""
 }
 
 MercurySink: {
-	DisplayName: 水星Sink
+	DisplayName: 水星水槽
 	Tooltip: ""
 }
 
 MercurySofa: {
-	DisplayName: 水星Sofa
+	DisplayName: 水星沙发
 	Tooltip: ""
 }
 
 MercuryTable: {
-	DisplayName: 水星Table
+	DisplayName: 水星桌
 	Tooltip: ""
 }
 
 StarRoyaleBathtub: {
-	DisplayName: 星星皇家 Bathtub
+	DisplayName: 星星皇家浴缸
 	Tooltip: ""
 }
 
 StarRoyaleBed: {
-	DisplayName: 星星皇家 Bed
+	DisplayName: 星星皇家床
 	Tooltip: ""
 }
 
 StarRoyaleChandelier: {
-	DisplayName: 星星皇家 Chandelier
+	DisplayName: 星星皇家吊灯
 	Tooltip: ""
 }
 
 StarRoyaleDresser: {
-	DisplayName: 星星皇家 Dresser
+	DisplayName: 星星皇家梳妆台
 	Tooltip: ""
 }
 
@@ -2609,12 +2609,12 @@ StarRoyaleLamp: {
 }
 
 StarRoyalePiano: {
-	DisplayName: 星星皇家 Piano
+	DisplayName: 星星皇家钢琴
 	Tooltip: ""
 }
 
 StarRoyaleSink: {
-	DisplayName: 星星皇家 Sink
+	DisplayName: 星星皇家水槽
 	Tooltip: ""
 }
 
@@ -2624,71 +2624,71 @@ StarRoyaleSofa: {
 }
 
 StarRoyaleTable: {
-	DisplayName: 星星皇家 Table
+	DisplayName: 星星皇家桌
 	Tooltip: ""
 }
 
 AstraPlatform: {
-	DisplayName: 星芒Platform
+	DisplayName: 星芒平台
 	Tooltip: ""
 }
 
 CosmicEmberPlatform: {
-	DisplayName: 宇宙余烬 Platform
+	DisplayName: 宇宙余烬平台
 	Tooltip: ""
 }
 
 CryocorePlatform: {
-	DisplayName: 冷核Platform
+	DisplayName: 冷核平台
 	Tooltip: ""
 }
 
 DarkCelestialPlatform: {
-	DisplayName: 暗黑天界Platform
+	DisplayName: 暗黑天界平台
 	Tooltip: ""
 }
 
 HeavenforgePlatform: {
-	DisplayName: 天熔Platform
+	DisplayName: 天熔平台
 	Tooltip: ""
 }
 
 LuminitePlatform: {
-	DisplayName: 夜明Platform
+	DisplayName: 夜明平台
 	Tooltip: ""
 }
 
 LunarRustPlatform: {
-	DisplayName: 月锈 Platform
+	DisplayName: 月锈平台
 	Tooltip: ""
 }
 
 MercuryPlatform: {
-	DisplayName: 水星Platform
+	DisplayName: 水星平台
 	Tooltip: ""
 }
 
 StarRoyalePlatform: {
-	DisplayName: 星星皇家 Platform
+	DisplayName: 星星皇家平台
 	Tooltip: ""
 }
 
 CheesePlatform: {
-	DisplayName: 奶酪Platform
+	DisplayName: 奶酪平台
 	Tooltip: ""
 }
 
 CheeseWall: {
-	DisplayName: 奶酪Wall
+	DisplayName: 奶酪墙
 	Tooltip: ""
 }
 
 CircuitProbe: {
-	DisplayName: Circuit Probe
-	Tooltip: Used for circuitry troubleshooting
+	DisplayName: 电路探针
+	Tooltip: 用于排除电路故障
 }
 
 IndustrialBattery: {
-	DisplayName: 工业Battery
+	DisplayName: 工业电池组
 	Tooltip: ""
 }
