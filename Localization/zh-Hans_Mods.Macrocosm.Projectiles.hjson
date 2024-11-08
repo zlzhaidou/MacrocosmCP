@@ -10,10 +10,10 @@ VortexMeteor.DisplayName: 星旋陨星
 DianiteTomeProjectile.DisplayName: 望舒陨星
 DianiteTomeProjectileSmall.DisplayName: 小望舒陨星
 AluminumShortswordProjectile.DisplayName: 铝短剑
-ArtemiteSwordSwing.DisplayName: 嫦娥·灵霄断
+ArtemiteSwordSwing.DisplayName: 灵霄断
 ArtemiteSpearProjectile.DisplayName: 嫦娥石长矛
 ArtemiteSpearProjectileShoot.DisplayName: 嫦娥石长矛
-ArtemiteSwordProjectile.DisplayName: 嫦娥·幻月斩
+ArtemiteSwordProjectile.DisplayName: 幻月斩
 ClawWrenchProjectile.DisplayName: 钩形扳手
 MoonSwordProjectile.DisplayName: 月煌天刃
 MoonSwordSwing.DisplayName: 月煌天刃
@@ -33,10 +33,10 @@ DianiteDrillProjectile.DisplayName: 望舒石钻头
 SeleniteDrillProjectile.DisplayName: 月光石钻头
 FlamingMeteor.DisplayName: 燃烧的陨星
 MeteorPortal.DisplayName: 陨星雨之门
-ImbriumJewelProjectile.DisplayName: 淋浴之海珠玉
-ImbriumJewelMeteor.DisplayName: 淋浴之海珠玉
-HandheldEngineProjectile.DisplayName: 手持式引擎
-HandheldEngineHitbox.DisplayName: 手持式引擎
+ImbriumJewelProjectile.DisplayName: 雨海珠玉
+ImbriumJewelMeteor.DisplayName: 雨海珠玉
+HandheldEngineProjectile.DisplayName: 手持推进器
+HandheldEngineHitbox.DisplayName: 手持推进器
 ZombieSecurityBullet.DisplayName: 警卫员尸骸
 SeleniteMagnumProjectile.DisplayName: 月光马格南
 TychoBullet.DisplayName: 第谷 .50
@@ -62,11 +62,11 @@ LuminiteShard.DisplayName: 夜明碎片
 LuminiteStar.DisplayName: 夜明星
 PhantasmalBolt.DisplayName: 幻影闪电
 CraterDemonPet.DisplayName: 迷你陨星恶煞
-ArtemiteGreatswordSwing.DisplayName: 嫦娥·灵霄断
+ArtemiteGreatswordSwing.DisplayName: 灵霄断
 MoonGoldTombstone.DisplayName: 月球金墓石
 DianitePortal.DisplayName: 望舒传送门
 ArtemiteBoomerang.DisplayName: 嫦娥回旋镖
-ArtemiteGreatswordSwing2.DisplayName: 嫦娥·灵霄断
+ArtemiteGreatswordSwing2.DisplayName: 灵霄断
 ArtemiteSpearProjectileThrown.DisplayName: 嫦娥石长矛
 ArtemiteSlash.DisplayName: 嫦娥剑气
 ArtemiteSpike.DisplayName: 嫦娥尖刺
@@ -104,10 +104,10 @@ ChampionsBladeSwingEmpowered.DisplayName: 斗士之锋
 StarDestroyerStar_Blue.DisplayName: 歼星炮蓝星
 StarDestroyerStar_Yellow.DisplayName: 歼星炮黄星
 StarDestroyerStar.DisplayName: 歼星炮星
-ArtemiteGreatswordSwingEmpowered.DisplayName: 嫦娥·灵霄断
+ArtemiteGreatswordSwingEmpowered.DisplayName: 灵霄断
 RocheChakramProjectile.DisplayName: 月光岩环
 RocheSpike.DisplayName: 月光岩环
-ArtemiteSwordShoot.DisplayName: 嫦娥·幻月斩
+ArtemiteSwordShoot.DisplayName: 幻月斩
 BlueEnergyBolt.DisplayName: 蓝能量闪电
 BlueGunHeld.DisplayName: 蓝色电击枪
 PurpleEnergyBolt.DisplayName: 紫电击弹
@@ -127,7 +127,7 @@ Explosion.DisplayName: 爆炸
 ZombieEngineerExplosion.DisplayName: 工程师尸骸爆炸
 ArtemiteSwordSlash.DisplayName: 嫦娥剑
 ManisolBladeMoon.DisplayName: 旭日之锋
-ManisolBladeSol.DisplayName: 穹月之锋
+ManisolBladeSol.DisplayName: 皎月之锋
 ManisolBladeSolExplosion.DisplayName: 旭日之锋爆炸
 ManisolBladeShadow.DisplayName: 日月双锋
 LuminiteRune.DisplayName: 夜明符文
@@ -135,7 +135,7 @@ ChampionsBladeHeldProjectile.DisplayName: 斗士之锋
 ChampionsBladeBoltProjectile.DisplayName: 斗士之锋闪电
 ArmstrongGauntletProjectile.DisplayName: 阿姆斯特朗拳套
 LuminiteBolt.DisplayName: 夜明闪电
-WornLunarianDaggerHeld.DisplayName: 破损的月民之匕
+WornLunarianDaggerHeld.DisplayName: 破损的月之匕
 DroneLaser.DisplayName: P.D.C.D. "蜂鸟"
 DroneMinion.DisplayName: P.D.C.D. "蜂鸟"
 ExsanguinatorProjectile.DisplayName: 放血魔
