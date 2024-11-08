@@ -30,105 +30,105 @@ ChandriumStaffMinionBuff: {
 
 SpaceShuttle: {
 	DisplayName: 航天飞机
-	Description: 谨以此物悼念 STS-51-L 和 STS-107.
+	Description: 谨以此物，向哥伦比亚号与挑战者号的遇难宇航员致以崇高敬意
 }
 
 Procellarum_LightningMarkDebuff: {
 	DisplayName: 风暴闪电标记
-	Description: 你将会从风暴洋的闪电攻击中受到双倍伤害.
+	Description: 你将会从风暴洋的闪电攻击中受到双倍伤害
 }
 
 HandheldEngineOverheat: {
-	DisplayName: Handheld Engine Overheat
-	Description: Your weapon has overheated!
+	DisplayName: 过热
+	Description: 你的武器过热了!
 }
 
 CraterDemonPet: {
-	DisplayName: Mini Crater Demon
-	Description: You are being watched.
+	DisplayName: 迷你陨星恶煞
+	Description: 你正被注视着
 }
 
 MedkitHigh: {
-	DisplayName: Medkit
-	Description: You are healing
+	DisplayName: 医疗包
+	Description: 你在快速恢复中
 }
 
 MedkitLow: {
-	DisplayName: Medkit
-	Description: You are healing
+	DisplayName: 医疗包
+	Description: 你在缓慢恢复中
 }
 
 MedkitMedium: {
-	DisplayName: Medkit
-	Description: You are healing
+	DisplayName: 医疗包
+	Description: 你在稳定恢复中
 }
 
 Irradiated: {
-	DisplayName: Irradiated
-	Description: You have radiation sickness
+	DisplayName: 暴露于辐射中
+	Description: 你现在拥有了辐射病
 }
 
 Blindness: {
-	DisplayName: Blindness
-	Description: Decreased vision
+	DisplayName: 失明
+	Description: 你的视力正在下降
 }
 
 MildNecrosis: {
-	DisplayName: Mild Necrosis
-	Description: Your body is decaying
+	DisplayName: 轻度坏死
+	Description: 你的身体正在腐烂
 }
 
 Necrosis: {
-	DisplayName: Necrosis
-	Description: Your body is rapidly decaying
+	DisplayName: 坏死
+	Description: 你的身体正在急速腐烂
 }
 
 OrganFailure: {
-	DisplayName: Organ Failure
-	Description: Your organs are failing
+	DisplayName: 器官衰竭
+	Description: 你的器官正在衰竭
 }
 
 Paralysis: {
-	DisplayName: Paralysis
-	Description: You cannot move!
+	DisplayName: 瘫痪
+	Description: 你无法行动!
 }
 
 WeakBones: {
-	DisplayName: Weak Bones
-	Description: You feel weak...
+	DisplayName: 骨质疏松
+	Description: 你感觉到你的骨头非常脆弱...
 }
 
 Fatigue: {
-	DisplayName: Fatigue
-	Description: You feel tired...
+	DisplayName: 疲劳
+	Description: 你觉得很累...
 }
 
 AntiRadiationPills: {
-	DisplayName: Anti Radiation Pills
-	Description: You have been cured from radiation sickness
+	DisplayName: 抗辐射药丸
+	Description: 你已经摆脱了辐射病的困扰
 }
 
 Melting: {
-	DisplayName: Melting
-	Description: You are melting
+	DisplayName: 融化
+	Description: 你正在融化
 }
 
 HummingbirdDroneSummonBuff: {
-	DisplayName: P.D.C.D. "Hummingbird"
-	Description: The combat drone will protect you
+	DisplayName: P.D.C.D"蜂鸟"
+	Description: 战斗无人机会保护你的
 }
 
 GreatstaffOfHorusMinionBuff: {
-	DisplayName: Greatstaff Of Horus Minion Buff
-	Description: The solar granule will fight for you
+	DisplayName: 荷鲁斯之杖
+	Description: 太阳粒子为你而战
 }
 
 HorusBurn: {
-	DisplayName: Horus Burn
-	Description: Burned by the light of the brightest star
+	DisplayName: 荷鲁斯之光
+	Description: 被太阳所灼烧
 }
 
 RyuguSummonBuff: {
-	DisplayName: Ryugu Summon Buff
-	Description: The Ryugu will fight for you
+	DisplayName: 月兔炮
+	Description: 月兔炮为你而战
 }
