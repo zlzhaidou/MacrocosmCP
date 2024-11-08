@@ -147,8 +147,8 @@ CraterDemonSummon: {
 
 Moonstone: {
 	DisplayName: 月壤
-	TooltipNoChampion: 这些是Moon Champion的货币，但不幸的是，他并不在你身边.
-	TooltipChampion: 这些是给 {0}的货币, the Moon Champion
+	TooltipNoChampion: 这些是月之斗士的货币，但不幸的是，他并不在你身边.
+	TooltipChampion: 这些是给月之斗士{0}的货币
 	Tooltip: ""
 }
 
@@ -159,7 +159,7 @@ BanHammer: {
 
 DevPick: {
 	DisplayName: 开发者镐
-	Tooltip: 这世界上是个很好的武器
+	Tooltip: 当作武器使用也不错
 }
 
 RocketPlacer: {
@@ -223,12 +223,12 @@ CosmicDust: {
 }
 
 CosmicEssence: {
-	DisplayName: 宇宙根质
+	DisplayName: 宇宙精华
 	Tooltip: ""
 }
 
 DeliriumPlating: {
-	DisplayName: 紊乱护板
+	DisplayName: 紊乱镀层
 	Tooltip: ""
 }
 
@@ -577,7 +577,7 @@ DianiteTome: {
 }
 
 ImbriumJewel: {
-	DisplayName: 淋浴之海珠玉
+	DisplayName: 雨海秘宝
 	Tooltip: 在你周围发射幻影颅骨
 }
 
@@ -592,7 +592,7 @@ AluminumShortsword: {
 }
 
 ArtemiteGreatsword: {
-	DisplayName: 嫦娥·灵霄断
+	DisplayName: 灵霄断
 	Tooltip: <right> 来蓄力，松开后造成大量伤害
 }
 
@@ -602,7 +602,7 @@ ArtemiteSpear: {
 }
 
 ArtemiteSword: {
-	DisplayName: 嫦娥·幻月斩
+	DisplayName: 幻月斩
 	Tooltip: ""
 }
 
@@ -659,7 +659,7 @@ LHBMinigun: {
 	Tooltip:
 		'''
 		'没有什么是一发子弹不能解决的?'
-		'如果有，那就两发！.'
+		'如果有，那就多来几发！.'
 		'''
 }
 
@@ -675,7 +675,7 @@ SeleniteBow: {
 
 SeleniteMagnum: {
 	DisplayName: 月光马格南
-	Tooltip: <right> 以快速扇出六发子弹
+	Tooltip: <right> 以扇形快速射出六发子弹
 }
 
 CalcicCane: {
@@ -685,7 +685,7 @@ CalcicCane: {
 
 ChandriumStaff: {
 	DisplayName: 常曦华杖
-	Tooltip: 召唤一次弦月鬼为你而战
+	Tooltip: 召唤一只弦月鬼为你而战
 }
 
 ChandriumWhip: {
@@ -694,7 +694,7 @@ ChandriumWhip: {
 }
 
 HandheldEngine: {
-	DisplayName: 手持式引擎
+	DisplayName: 手持推进器
 	Tooltip: 使用法力作为冷却剂
 }
 
@@ -767,7 +767,7 @@ SilicaSand: {
 
 LaunchPadMarker: {
 	DisplayName: 发射台区域标记器
-	Tooltip: 用于框选火箭发射台的范围
+	Tooltip: 将两个标记器放置在平坦地面上并右键来开始搭建火箭！
 }
 
 SteelBar: {
@@ -796,7 +796,7 @@ SteelCrossbow: {
 }
 
 SteelRifle: {
-	DisplayName: 钢来福枪
+	DisplayName: 钢来复枪
 	Tooltip: ""
 }
 
@@ -1014,8 +1014,8 @@ Procellarum: {
 	DisplayName: 风暴洋
 	Tooltip:
 		'''
-		<left> 来摆动, 在命中敌人时附加闪电标记
-		<right> 来掷出, 冲向敌人，召唤5道天上的闪电
+		<left> 挥动, 在命中敌人时附加闪电标记
+		<right> 掷出, 冲向敌人，召唤5道闪电从天劈下
 		闪电将优先瞄准标记的敌人并额外造成50%的伤害
 		'''
 }
@@ -1031,7 +1031,7 @@ QuestionMark: {
 }
 
 ZombieFinger: {
-	DisplayName: 僵尸之指
+	DisplayName: 僵尸手指
 	Tooltip: ""
 }
 
@@ -1095,8 +1095,7 @@ CraterDemonPet: {
 	Tooltip:
 		'''
 		召唤一个陨星煞鬼
-		'Fly me to the Moon!'
-		       
+		'Fly me to the Moon!'  
 		'''
 }
 
@@ -1106,12 +1105,12 @@ MoonGoldCrescent: {
 }
 
 MoonGoldLunarCross: {
-	DisplayName: 月球十字形金墓石
+	DisplayName: 月球十字金墓石
 	Tooltip: ""
 }
 
 MoonHeadstone: {
-	DisplayName: 月球十字形墓石
+	DisplayName: 月球十字墓石
 	Tooltip: ""
 }
 
@@ -1171,7 +1170,7 @@ PowerJunction: {
 }
 
 Computer: {
-	DisplayName: 电脑
+	DisplayName: 计算机
 	Tooltip: ""
 }
 
@@ -1283,13 +1282,13 @@ CopperWire: {
 }
 
 GothicCoalBrick: {
-	DisplayName: 哥特式煤砖
+	DisplayName: 哥特煤砖
 	Tooltip: ""
 }
 
 SpookyDookie: {
 	DisplayName: 诡异的排泄物
-	Tooltip: Go ahead...
+	Tooltip: 来吧...
 }
 
 CheeseBlock: {
@@ -1886,7 +1885,7 @@ AirVent: {
 }
 
 Sledgehammer: {
-	DisplayName: 八角锤
+	DisplayName: 破城重锤
 	Tooltip: 比普通锤子能打破更多的墙
 }
 
@@ -2046,7 +2045,7 @@ ManisolBlades: {
 		'''
 		向敌人掷出两张刀片
 		[c/e06c00:旭日之锋]将粘在敌人身上，并在回到你身边时爆炸
-		[c/94dee0:穹月之锋]将在投掷和回到你身边时刺穿敌人
+		[c/94dee0:皎月之锋]将在投掷和回到你身边时刺穿敌人
 		'''
 }
 
@@ -2060,7 +2059,7 @@ ArmstrongGauntlets: {
 }
 
 WornLunarianDagger: {
-	DisplayName: 破损的月民之匕
+	DisplayName: 破损的月之匕
 	Tooltip:
 		'''
 		'一个破碎的匕首，在以前有着许多的用处'
@@ -2079,7 +2078,7 @@ RocketFuelCanister: {
 }
 
 TempestuousBand: {
-	DisplayName: 暴风雨般的乐队
+	DisplayName: 暴风雨摇滚
 	Tooltip:
 		'''
 		暴击时额外造成20%伤害
@@ -2122,7 +2121,7 @@ ThaumaturgicWard: {
 	DisplayName: 秘法护符
 	Tooltip:
 		'''
-		当你的生命值在30%以下时，受到伤害的50%会损失魔力值而非生命值
+		当你的生命值在30%以下时，受到伤害的50%会改为损失魔力值而非生命值
 		魔力值耗尽时，将继续从生命值中扣除
 		不能造成非魔法伤害
 		不能同时佩戴魔法手铐
@@ -2133,8 +2132,8 @@ HummingbirdDroneRemote: {
 	DisplayName: P.D.C.D.控制器
 	Tooltip:
 		'''
-		召唤蜂鸟为你而战
-		当生命值较低时他们会抱紧你来保护你
+		召唤“蜂鸟”无人机为你而战
+		当生命值较低时他们会围绕在你身边
 		'''
 }
 
