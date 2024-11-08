@@ -14,7 +14,7 @@ Depressurized: {
 }
 
 ChandriumWhipBuff: {
-	DisplayName: 常曦上身
+	DisplayName: 常曦附身
 	Description: 你下一次使用你的常曦石鞭的攻击将会造成额外的伤害！
 }
 

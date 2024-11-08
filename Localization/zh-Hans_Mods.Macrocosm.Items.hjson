@@ -1921,7 +1921,7 @@ RegolithWallUnsafe: {
 }
 
 Micronova: {
-	DisplayName: 微型新星
+	DisplayName: 微新星
 	Tooltip: 生成两个传送门，并向光标处发射光束
 }
 
@@ -2108,7 +2108,7 @@ Ilmenite: {
 	DisplayName: 铁钛之弦
 	Tooltip:
 		'''
-		<left>发射光之箭矢
+		<left>发射闪电箭矢
 		<right>来为爆炸光漩涡充能
 		'''
 }

@@ -24,133 +24,133 @@ LHBMinigunProjectile.DisplayName: LHB-59
 NWAMissile.DisplayName: NWA-5000
 PlasmaGrenade.DisplayName: 静滞手雷
 CalcicCaneMinion.DisplayName: 陨星煞鬼
-ChandriumStaffMinion.DisplayName: Crescent Ghoul
-ChandriumWhipProjectile.DisplayName: Chandrium Whip
-MoonTombstone.DisplayName: Moon Tombstone
-ArtemiteDrillProjectile.DisplayName: Artemite Drill
-ChandriumDrillProjectile.DisplayName: Chandrium Drill
-DianiteDrillProjectile.DisplayName: Dianite Drill
-SeleniteDrillProjectile.DisplayName: Selenite Drill
-FlamingMeteor.DisplayName: Flaming Meteor
-MeteorPortal.DisplayName: Meteor Portal
-ImbriumJewelProjectile.DisplayName: Imbrium Jewel
-ImbriumJewelMeteor.DisplayName: Imbrium Jewel
+ChandriumStaffMinion.DisplayName: 弦月鬼
+ChandriumWhipProjectile.DisplayName: 常曦石鞭
+MoonTombstone.DisplayName: 月球墓石
+ArtemiteDrillProjectile.DisplayName: 嫦娥石钻头
+ChandriumDrillProjectile.DisplayName: 常曦石钻头
+DianiteDrillProjectile.DisplayName: 望舒石钻头
+SeleniteDrillProjectile.DisplayName: 月光石钻头
+FlamingMeteor.DisplayName: 燃烧的陨星
+MeteorPortal.DisplayName: 陨星雨之门
+ImbriumJewelProjectile.DisplayName: 淋浴之海珠玉
+ImbriumJewelMeteor.DisplayName: 淋浴之海珠玉
 HandheldEngineProjectile.DisplayName: 手持式引擎
 HandheldEngineHitbox.DisplayName: 手持式引擎
-ZombieSecurityBullet.DisplayName: Zombie Security
-SeleniteMagnumProjectile.DisplayName: Selenite Magnum
-TychoBullet.DisplayName: Tycho .50
-DianiteMeteor.DisplayName: Dianite Meteor
-DianiteMeteorSmall.DisplayName: Dianite Meteor
-PhantasmalImp.DisplayName: Phantasmal Imp
-PhantasmalImpSmall.DisplayName: Phantasmal Imp
-PhantasmalPortal.DisplayName: Phantasmal Portal
-MoonPhaseGlobeProjectile.DisplayName: Moon Phase Globe
-DianiteForkCoreProjectile.DisplayName: Dianite Fork
-DianiteForkProjectile.DisplayName: Dianite Fork
-RegolithDebris.DisplayName: Regolith Debris
-Procellarum_HalberdProjectile.DisplayName: Procellarum
-Procellarum_LightBolt.DisplayName: Procellarum
-InvarArrow.DisplayName: Invar Arrow
-InvarBullet.DisplayName: Invar Bullet
-RapaciousBrandProjectile.DisplayName: Rapacious Brand
-RapaciousBrandSwing.DisplayName: Rapacious Brand
-SeleniteBolt.DisplayName: Selenite Bolt
-SeleniteBowHeld.DisplayName: Selenite Bow
-LuminiteExplosion.DisplayName: Luminite Explosion
-LuminiteShard.DisplayName: Luminite Shard
-LuminiteStar.DisplayName: Luminite Star
-PhantasmalBolt.DisplayName: Phantasmal Bolt
-CraterDemonPet.DisplayName: Mini Crater Demon
-ArtemiteGreatswordSwing.DisplayName: Artemite Greatsword
-MoonGoldTombstone.DisplayName: Moon Gold Tombstone
-DianitePortal.DisplayName: Dianite Portal
-ArtemiteBoomerang.DisplayName: Artemite Boomerang
-ArtemiteGreatswordSwing2.DisplayName: Artemite Greatsword
-ArtemiteSpearProjectileThrown.DisplayName: Artemite Spear
-ArtemiteSlash.DisplayName: Artemite Slash
-ArtemiteSpike.DisplayName: Artemite Spike
-SilicaCrimsandBall.DisplayName: Silica Crimsand
-SilicaCrimsandFalling.DisplayName: Silica Crimsand
-SilicaEbonsandBall.DisplayName: Silica Ebonsand
-SilicaEbonsandFalling.DisplayName: Silica Ebonsand
-SilicaPearlsandBall.DisplayName: Silica Pearlsand
-SilicaPearlsandFalling.DisplayName: Silica Pearlsand
-SilicaSandBall.DisplayName: Silica Sand
-SilicaSandFalling.DisplayName: Silica Sand
-MoonWormDust.DisplayName: Moon Worm Dust
-FrigorianGazeProjectile.DisplayName: Frigorian Gaze
-FrigorianIceSpike.DisplayName: Frigorian Ice Spike
-FrigorianIceCrystal.DisplayName: Frigorian Ice Crystal
-StarDestroyerBeam.DisplayName: Star Destroyer
-StarDestroyerStarBlue.DisplayName: Star Destroyer
-StarDestroyerStarYellow.DisplayName: Star Destroyer
-MoonRubble.DisplayName: Moon Rubble
-MoonLichNPCSummon.DisplayName: Moon Lich
-WaveRifleLaser.DisplayName: Wave Rifle Laser
-LichBolt.DisplayName: Lich Bolt
-GreenLaser.DisplayName: Green Laser
-LunarBarf.DisplayName: Lunar Barf
-FrigorianIceShard.DisplayName: Frigorian Ice Shard
-MicronovaBeam.DisplayName: Micronova Beam
-MicronovaPortal.DisplayName: Micronova Portal
-WaveStar.DisplayName: Wave Star
-InhibitorFieldGrenade.DisplayName: Stasis Grenade
-CrescentMoonProjectile.DisplayName: Crescent Moon
-LunarCrystalProjectile.DisplayName: Lunar Crystal
+ZombieSecurityBullet.DisplayName: 警卫员尸骸
+SeleniteMagnumProjectile.DisplayName: 月光马格南
+TychoBullet.DisplayName: 第谷 .50
+DianiteMeteor.DisplayName: 望舒陨星
+DianiteMeteorSmall.DisplayName: 望舒陨星
+PhantasmalImp.DisplayName: 幻影煞鬼
+PhantasmalImpSmall.DisplayName: 幻影煞鬼
+PhantasmalPortal.DisplayName: 幻影传送门
+MoonPhaseGlobeProjectile.DisplayName: 月相地球仪
+DianiteForkCoreProjectile.DisplayName: 望舒焱叉
+DianiteForkProjectile.DisplayName: 望舒焱叉
+RegolithDebris.DisplayName: 风化碎片
+Procellarum_HalberdProjectile.DisplayName: 风暴洋
+Procellarum_LightBolt.DisplayName: 风暴洋
+InvarArrow.DisplayName: 殷钢箭
+InvarBullet.DisplayName: 殷钢弹
+RapaciousBrandProjectile.DisplayName: 贪噬之刃
+RapaciousBrandSwing.DisplayName: 贪噬之刃
+SeleniteBolt.DisplayName: 月光闪电
+SeleniteBowHeld.DisplayName: 月光弓
+LuminiteExplosion.DisplayName: 夜明爆炸
+LuminiteShard.DisplayName: 夜明碎片
+LuminiteStar.DisplayName: 夜明星
+PhantasmalBolt.DisplayName: 幻影闪电
+CraterDemonPet.DisplayName: 迷你陨星恶煞
+ArtemiteGreatswordSwing.DisplayName: 嫦娥·灵霄断
+MoonGoldTombstone.DisplayName: 月球金墓石
+DianitePortal.DisplayName: 望舒传送门
+ArtemiteBoomerang.DisplayName: 嫦娥回旋镖
+ArtemiteGreatswordSwing2.DisplayName: 嫦娥·灵霄断
+ArtemiteSpearProjectileThrown.DisplayName: 嫦娥石长矛
+ArtemiteSlash.DisplayName:嫦娥剑气
+ArtemiteSpike.DisplayName: 嫦娥尖刺
+SilicaCrimsandBall.DisplayName: 猩红硅砂
+SilicaCrimsandFalling.DisplayName: 猩红硅沙
+SilicaEbonsandBall.DisplayName: 腐化硅沙
+SilicaEbonsandFalling.DisplayName: 腐化硅沙
+SilicaPearlsandBall.DisplayName: 神圣硅沙
+SilicaPearlsandFalling.DisplayName: 神圣硅沙
+SilicaSandBall.DisplayName: 硅砂
+SilicaSandFalling.DisplayName: 硅砂
+MoonWormDust.DisplayName: 吞月巨虫尘
+FrigorianGazeProjectile.DisplayName: 霜眼凝寒
+FrigorianIceSpike.DisplayName: 冰刺
+FrigorianIceCrystal.DisplayName: 冰刺
+StarDestroyerBeam.DisplayName: 歼星炮
+StarDestroyerStarBlue.DisplayName: 歼星炮
+StarDestroyerStarYellow.DisplayName: 歼星炮
+MoonRubble.DisplayName: 月球瓦砾
+MoonLichNPCSummon.DisplayName: 幻月巫妖
+WaveRifleLaser.DisplayName: 波动炮
+LichBolt.DisplayName: 巫妖闪电
+GreenLaser.DisplayName: 绿光激光
+LunarBarf.DisplayName: 月之呕吐
+FrigorianIceShard.DisplayName: 冰刺
+MicronovaBeam.DisplayName: 微新星光束
+MicronovaPortal.DisplayName: 微新星传送门
+WaveStar.DisplayName: 波浪星
+InhibitorFieldGrenade.DisplayName: 静滞手雷
+CrescentMoonProjectile.DisplayName: 蛾眉月
+LunarCrystalProjectile.DisplayName: 月之碎晶
 ImbriumJewelPhantasmalSkull.DisplayName: 幻影颅骨
-ChampionsBladeSwing.DisplayName: Champion's Blade
-ChampionsBladeSwingEmpowered.DisplayName: Champion's Blade
-StarDestroyerStar_Blue.DisplayName: Star Destroyer Blue Star
-StarDestroyerStar_Yellow.DisplayName: Star Destroyer Yellow Star
-StarDestroyerStar.DisplayName: Star Destroyer Star
-ArtemiteGreatswordSwingEmpowered.DisplayName: Artemite Greatsword
-RocheChakramProjectile.DisplayName: Roche Chakram
-RocheSpike.DisplayName: Roche Spike
-ArtemiteSwordShoot.DisplayName: Artemite Sword Shoot
-BlueEnergyBolt.DisplayName: Blue Energy Bolt
-BlueGunHeld.DisplayName: Blue Gun Held
-PurpleEnergyBolt.DisplayName: Purple Energy Bolt
-RedEnergyBolt.DisplayName: Red Energy Bolt
-RedGunHeld.DisplayName: Red Gun Held
-WaveGunEnergyBolt.DisplayName: Energy Bolt
-WaveGunBlueHeld.DisplayName: Blue Zap Gun
-WaveGunDualHeld.DisplayName: Zap Gun Dual Wield
-WaveGunRedHeld.DisplayName: Red Zap Gun
-WaveGunRifleHeld.DisplayName: Wave Gun
-ChampionsBladeSlash.DisplayName: Champion's Blade
-CrescentScriptureProjectile.DisplayName: Crescent Scripture
-LuminiteWave.DisplayName: Luminite Wave
-LunarBlood.DisplayName: Lunar Blood
-TotalityProjectile.DisplayName: Totality Projectile
-Explosion.DisplayName: Explosion
-ZombieEngineerExplosion.DisplayName: Zombie Engineer Explosion
-ArtemiteSwordSlash.DisplayName: Artemite Sword
-ManisolBladeMoon.DisplayName: Sol Blade
-ManisolBladeSol.DisplayName: Mani Blade
-ManisolBladeSolExplosion.DisplayName: Manisol Blade Sol Explosion
-ManisolBladeShadow.DisplayName: Manisol Blade Shadow
-LuminiteRune.DisplayName: Luminite Rune
-ChampionsBladeHeldProjectile.DisplayName: Champion's Blade
-ChampionsBladeBoltProjectile.DisplayName: Champion's Blade Bolt
-ArmstrongGauntletProjectile.DisplayName: Armstrong Gauntlet
-LuminiteBolt.DisplayName: Luminite Bolt
-WornLunarianDaggerHeld.DisplayName: Worn Lunarian Dagger
-DroneLaser.DisplayName: P.D.C.D. "Hummingbird"
-DroneMinion.DisplayName: P.D.C.D. "Hummingbird"
-ExsanguinatorProjectile.DisplayName: Exsanguinator Projectile
-IlmeniteHeld.DisplayName: Ilmenite Held
-IlmeniteRegularProj.DisplayName: Ilmenite Regular Proj
-IlmeniteAltProj.DisplayName: Ilmenite Alt Proj
-IlminiteExplosion.DisplayName: Ilminite Explosion
-IlmeniteExplosion.DisplayName: Ilmenite Explosion
-HummingbirdBullet.DisplayName: P.D.C.D. "Hummingbird"
-HummingbirdDrone.DisplayName: P.D.C.D. "Hummingbird"
-CalcicCaneBolt.DisplayName: Calcic Cane Bolt
-GreatstaffOfHorusMinion.DisplayName: Greatstaff Of Horus Minion
-HorusExplosion.DisplayName: Horus Explosion
-RyuguMinion.DisplayName: Ryugu Minion
-RyuguShell.DisplayName: Ryugu Shell
-CrescentScriptureSlash.DisplayName: Crescent Scripture Slash
-TotalitySlashProjectile.DisplayName: Totality Slash Projectile
-TotalitySmallSlashProjectile.DisplayName: Totality Small Slash Projectile
+ChampionsBladeSwing.DisplayName: 斗士之锋
+ChampionsBladeSwingEmpowered.DisplayName: 斗士之锋
+StarDestroyerStar_Blue.DisplayName: 歼星炮蓝星
+StarDestroyerStar_Yellow.DisplayName: 歼星炮黄星
+StarDestroyerStar.DisplayName: 歼星炮星
+ArtemiteGreatswordSwingEmpowered.DisplayName: 嫦娥·灵霄断
+RocheChakramProjectile.DisplayName: 月光岩环
+RocheSpike.DisplayName: 月光岩环
+ArtemiteSwordShoot.DisplayName: 嫦娥·幻月斩
+BlueEnergyBolt.DisplayName: 蓝能量闪电
+BlueGunHeld.DisplayName: 蓝色电击枪
+PurpleEnergyBolt.DisplayName: 紫电击弹
+RedEnergyBolt.DisplayName: 红电击弹
+RedGunHeld.DisplayName: 红色电击枪
+WaveGunEnergyBolt.DisplayName: 能量弹
+WaveGunBlueHeld.DisplayName: 蓝色电击枪
+WaveGunDualHeld.DisplayName: 双持电击枪
+WaveGunRedHeld.DisplayName: 红色电击枪
+WaveGunRifleHeld.DisplayName: 波动炮
+ChampionsBladeSlash.DisplayName: 斗士之锋
+CrescentScriptureProjectile.DisplayName: 半月颂歌
+LuminiteWave.DisplayName: 夜明波
+LunarBlood.DisplayName: 月之精血
+TotalityProjectile.DisplayName: 终绝
+Explosion.DisplayName: 爆炸
+ZombieEngineerExplosion.DisplayName: 工程师尸骸爆炸
+ArtemiteSwordSlash.DisplayName: 嫦娥剑
+ManisolBladeMoon.DisplayName: 旭日之锋
+ManisolBladeSol.DisplayName: 穹月之锋
+ManisolBladeSolExplosion.DisplayName: 旭日之锋爆炸
+ManisolBladeShadow.DisplayName: 日月双锋
+LuminiteRune.DisplayName: 夜明符文
+ChampionsBladeHeldProjectile.DisplayName: 斗士之锋
+ChampionsBladeBoltProjectile.DisplayName: 斗士之锋闪电
+ArmstrongGauntletProjectile.DisplayName: 阿姆斯特朗拳套
+LuminiteBolt.DisplayName: 夜明闪电
+WornLunarianDaggerHeld.DisplayName: 破损的月民之匕
+DroneLaser.DisplayName: P.D.C.D. "蜂鸟"
+DroneMinion.DisplayName: P.D.C.D. "蜂鸟"
+ExsanguinatorProjectile.DisplayName: 放血魔
+IlmeniteHeld.DisplayName: 铁钛之弦
+IlmeniteRegularProj.DisplayName: 铁钛之弦
+IlmeniteAltProj.DisplayName: 铁钛之弦
+IlminiteExplosion.DisplayName: 铁钛之弦爆炸
+IlmeniteExplosion.DisplayName: 铁钛之弦爆炸
+HummingbirdBullet.DisplayName: P.D.C.D. "蜂鸟"
+HummingbirdDrone.DisplayName: P.D.C.D. "蜂鸟"
+CalcicCaneBolt.DisplayName: 钙质手杖闪电
+GreatstaffOfHorusMinion.DisplayName: 太阳粒子
+HorusExplosion.DisplayName: 荷鲁斯爆炸
+RyuguMinion.DisplayName: 月兔
+RyuguShell.DisplayName: 月兔
+CrescentScriptureSlash.DisplayName: 半月颂歌
+TotalitySlashProjectile.DisplayName: 终绝
+TotalitySmallSlashProjectile.DisplayName: 终绝
