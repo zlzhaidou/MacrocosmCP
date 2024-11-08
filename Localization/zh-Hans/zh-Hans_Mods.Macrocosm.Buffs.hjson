@@ -1,41 +1,41 @@
 Fear: {
-	DisplayName: Fear
-	Description: OH GOD WHAT IS THAT?!
+	DisplayName: 恐惧
+	Description: 我的天啊，那到底是什么？
 }
 
 SuitBreach: {
-	DisplayName: Suit Breach
-	Description: You are exposed to the elements!
+	DisplayName: 防护服损坏
+	Description: 你暴露在了辐射中！
 }
 
 Depressurized: {
-	DisplayName: Depressurized
-	Description: Your blood is boiling!
+	DisplayName: 失压
+	Description: 热血沸腾!
 }
 
 ChandriumWhipBuff: {
-	DisplayName: Chandrium Empowerment
-	Description: Your next hit with your Chandrium Whip will deal increased damage!
+	DisplayName: 常曦上身
+	Description: 你下一次使用你的常曦石鞭的攻击将会造成额外的伤害！
 }
 
 CalcicCaneMinionBuff: {
-	DisplayName: Crater Imp
-	Description: The crater imp will fight for you
+	DisplayName: 陨星煞鬼
+	Description: 陨星煞鬼为你而战！
 }
 
 ChandriumStaffMinionBuff: {
-	DisplayName: Crescent Ghoul
-	Description: The crescent ghoul will fight for you
+	DisplayName: 弦月鬼
+	Description: 弦月鬼为你而战！
 }
 
 SpaceShuttle: {
-	DisplayName: Space Shuttle
-	Description: In memory of STS-51-L and STS-107.
-}
+	DisplayName: 航天飞机
+	Description: 谨以此物悼念 STS-51-L 和 STS-107. 
+} //这两起事故都是航天史上的悲剧，也是人类探索太空过程中的沉痛教训。
 
 Procellarum_LightningMarkDebuff: {
-	DisplayName: Procellarum Lightning Mark
-	Description: You take double damage from Procellarum's light bolts.
+	DisplayName: 风暴闪电标记
+	Description: 你将会从风暴洋的闪电攻击中受到双倍伤害.
 }
 
 HandheldEngineOverheat: {
