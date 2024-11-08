@@ -1,0 +1,11 @@
+LaunchpadMarker: {
+	TooClose: 发射台标记器之间的距离太近了.
+	SolidBlock: 这里有一个实心块，不能组装火箭.
+	FoundGap: 地面不平整，不能组装火箭.
+	NoPair: 在附近未找到可配对的发射台标记器.
+}
+
+MeteorStorm: {
+	Start: 陨星正在从天空中坠落！
+	End: 陨星们回到了自己的轨道上!
+}

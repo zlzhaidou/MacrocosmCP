@@ -1,0 +1,134 @@
+Fear: {
+	DisplayName: 恐惧
+	Description: 我的天啊，那到底是什么？
+}
+
+SuitBreach: {
+	DisplayName: 防护服损坏
+	Description: 你暴露在了辐射中！
+}
+
+Depressurized: {
+	DisplayName: 失压
+	Description: 热血沸腾!
+}
+
+ChandriumWhipBuff: {
+	DisplayName: 常曦上身
+	Description: 你下一次使用你的常曦石鞭的攻击将会造成额外的伤害！
+}
+
+CalcicCaneMinionBuff: {
+	DisplayName: 陨星煞鬼
+	Description: 陨星煞鬼为你而战！
+}
+
+ChandriumStaffMinionBuff: {
+	DisplayName: 弦月鬼
+	Description: 弦月鬼为你而战！
+}
+
+SpaceShuttle: {
+	DisplayName: 航天飞机
+	Description: 谨以此物悼念 STS-51-L 和 STS-107.
+}
+
+Procellarum_LightningMarkDebuff: {
+	DisplayName: 风暴闪电标记
+	Description: 你将会从风暴洋的闪电攻击中受到双倍伤害.
+}
+
+HandheldEngineOverheat: {
+	DisplayName: Handheld Engine Overheat
+	Description: Your weapon has overheated!
+}
+
+CraterDemonPet: {
+	DisplayName: Mini Crater Demon
+	Description: You are being watched.
+}
+
+MedkitHigh: {
+	DisplayName: Medkit
+	Description: You are healing
+}
+
+MedkitLow: {
+	DisplayName: Medkit
+	Description: You are healing
+}
+
+MedkitMedium: {
+	DisplayName: Medkit
+	Description: You are healing
+}
+
+Irradiated: {
+	DisplayName: Irradiated
+	Description: You have radiation sickness
+}
+
+Blindness: {
+	DisplayName: Blindness
+	Description: Decreased vision
+}
+
+MildNecrosis: {
+	DisplayName: Mild Necrosis
+	Description: Your body is decaying
+}
+
+Necrosis: {
+	DisplayName: Necrosis
+	Description: Your body is rapidly decaying
+}
+
+OrganFailure: {
+	DisplayName: Organ Failure
+	Description: Your organs are failing
+}
+
+Paralysis: {
+	DisplayName: Paralysis
+	Description: You cannot move!
+}
+
+WeakBones: {
+	DisplayName: Weak Bones
+	Description: You feel weak...
+}
+
+Fatigue: {
+	DisplayName: Fatigue
+	Description: You feel tired...
+}
+
+AntiRadiationPills: {
+	DisplayName: Anti Radiation Pills
+	Description: You have been cured from radiation sickness
+}
+
+Melting: {
+	DisplayName: Melting
+	Description: You are melting
+}
+
+HummingbirdDroneSummonBuff: {
+	DisplayName: P.D.C.D. "Hummingbird"
+	Description: The combat drone will protect you
+}
+
+GreatstaffOfHorusMinionBuff: {
+	DisplayName: Greatstaff Of Horus Minion Buff
+	Description: The solar granule will fight for you
+}
+
+HorusBurn: {
+	DisplayName: Horus Burn
+	Description: Burned by the light of the brightest star
+}
+
+RyuguSummonBuff: {
+	DisplayName: Ryugu Summon Buff
+	Description: The Ryugu will fight for you
+}

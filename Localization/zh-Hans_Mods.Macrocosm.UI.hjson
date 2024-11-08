@@ -1,0 +1,205 @@
+Common: {
+	AlignLeft: 左对齐
+	AlignRight: 右对齐
+	AlignCenterHorizontal: 居中对齐
+	AlignTop: 顶部对齐
+	AlignBottom: 底部对齐
+	AlignCenterVertical: 居中对齐
+	CopyColorHex: 复制颜色到剪切板
+	PasteColorHex: 从剪切板中导入颜色
+	RandomizeColor: 随机颜色
+	ApplyColor: 保存颜色更改
+	CancelColor: 取消颜色更改
+	ZoomIn: 放大
+	ZoomOut: 缩小
+	Inventory.OpenInventory: 打开货仓
+}
+
+LaunchPad: {
+	Assemble: 组装
+	Disassemble: 拆解
+	AnyChest: 任何箱子
+	UnknownLocation: 未知
+}
+
+Rocket: {
+	Common: {
+		Close: 关闭
+		Navigation: 导航
+		Checklist: 查验清单
+		LaunchLocations: 目标地点
+		Crew: 机组人员
+		Commander: 指挥人员
+		Cargo: 燃料
+		Payload: 有效载荷
+		Inventory: 货仓
+		Fuel: 燃料
+		Customization: 个性化
+		Assembly: 组装
+	}
+
+	Modules: {
+		CommandPod.DisplayName: 指挥舱
+		ServiceModule.DisplayName: 起居舱
+		ReactorModule.DisplayName: 反应舱
+		EngineModule.DisplayName: 引擎舱
+		BoosterLeft.DisplayName: 左助推器
+		BoosterRight.DisplayName: 右助推器
+	}
+
+	Customization: {
+		Apply: 应用火箭外观修改
+		Cancel: 取消火箭外观修改
+		CopyModule: 复制外观舱室
+		PasteModule: 粘贴舱室外观
+		CopyRocket: 复制火箭外观
+		PasteRocket: 粘贴火箭外观
+		ResetModule: 重置舱室外观
+		ResetRocket: 重置火箭外观
+		ResetPattern: 重置图案外观
+	}
+
+	Cargo.DumpFuel: 倾倒
+
+	Navigation: {
+		LaunchButton: {
+			NoTarget: -无-目-标-
+			CantReach: -无-法-到-达-
+			DifferentTarget: -当-前-坐-标-
+			Occupied: -已-被-占-用-
+			ZoomIn: -放-大-
+			Launch: -发-射-
+			LaunchInactive: -发-射-
+		}
+
+		Gravity: {
+			Name: 重力
+			UnitG: "{0} G {1}{2}{3}"
+			UnitMetric: "{0} m/s² {1}{2}{3}"
+			UnitImperial: "{0} ft/s² {1}{2}{3}"
+		}
+
+		Radius: {
+			Name: 半径
+			UnitMetric: "{0} km {1}{2}{3}"
+			UnitImperial: "{0} {^0:mile;miles} {1}{2}{3}"
+		}
+
+		DayPeriod: {
+			Name: 自转周期
+			UnitDays: "{0} {^0:day;days} {1}{2}{3}"
+			UnitHours: "{0} {^0:hour;hours} {1}{2}{3}"
+		}
+
+		Special: {
+			TidallyLocked: 潮汐锁定
+			Unstable: 不稳定
+		}
+
+		ThreatLevel: {
+			Name: 威胁等级
+			Threat1: "{0} - 无害"
+			Threat2: "{0} - 轻微"
+			Threat3: "{0} - 诡谲"
+			Threat4: "{0} - 危险"
+			Threat5: "{0} - 艰难"
+			Threat6: "{0} - 致命"
+			Threat7: "{0} - 灾难"
+			Threat8: "{0} - 噩梦"
+			Threat9: "{0} - 地狱"
+			Threat10: "{0} - ？？？"
+		}
+
+		Hazard: {
+			Name: 危险警报！
+			MeteorStorms: 陨星风暴
+			SolarStorms: 太阳风暴
+		}
+
+		Checklist: {
+			Fuel: {
+				Met.Display: 燃料足够
+
+				NotMet: {
+					Display: 燃料不足
+					Hover: 你需要更多燃料来发动火箭
+				}
+			}
+
+			Obstruction: {
+				Met.Display: 路径通畅
+
+				NotMet: {
+					Display: 路径被阻
+					Hover: 火箭飞行的路径被阻挡
+				}
+			}
+
+			Boss: {
+				NotMet: {
+					Display: 世界上存在Boss
+					Hover: 先击败当前Boss才能安全起飞
+				}
+			}
+
+			Invasion: {
+				NotMet: {
+					Display: 正处于入侵中
+					Hover: 先击败当前入侵才能安全起飞
+				}
+			}
+
+			BloodMoon: {
+				NotMet: {
+					Display: 正处于血月
+					Hover: 血月存在时，外太空极其危险
+				}
+			}
+
+			Selected: {
+				NotMet: {
+					Display: 选择目的地
+					Hover: 默认
+				}
+			}
+
+			DifferentTarget: {
+				NotMet: {
+					Display: 你就在这里
+					Hover: 默认
+				}
+			}
+
+			VacantLaunchpad: {
+				NotMet: {
+					Display: 发射平台已被占用
+					Hover: 默认
+				}
+			}
+		}
+	}
+
+	Special.TidallyLocked: 潮汐锁定
+}
+
+LoadingScreenTips: {
+	Moon: {
+		Moon_Tip1: 这是你的一小步，却是泰拉人的一大步！
+		Moon_Tip2: 月球的自转比地球慢得多.确保你带上了足够撑过一晚的补给.
+		Moon_Tip3: 月亮真的是用奶酪做的吗？向月核掘进，揭开真相吧！
+		Moon_Tip4: 即使在这块缺乏空气的冰冷岩石上，生命仍自有出路.不要放松警惕.
+		Moon_Tip5: 月球的重力很低，这可能是你的优势，也可能是敌人的.
+		Moon_Tip6: 当血红之时来临，快找地方躲起来.
+		Moon_Tip7: 没有氧气，就没有火把.你需要想别的方法来照明.
+		Moon_Tip8: 当心太阳风暴！
+		Moon_Tip9: 月球领主只是这一切的开始.这颗银亮的卫星上又有什么在等着你？
+	}
+
+	Earth: {
+		Earth_Tip1: 回家小憩？
+		Earth_Tip2: 电量永远不嫌多！
+		Earth_Tip3: 经历过低重力之后，地球上的生活会很艰难.习惯就好了.
+		Earth_Tip4: 您可以个性化定制您的火箭！给它涂上新漆、挂上喜欢的旗帜最后给它起个好名字吧！
+		Earth_Tip5: 做多种电力的来源规划，你永远不知道某天是否会因为某些原因缺少电的来源！
+	}
+}

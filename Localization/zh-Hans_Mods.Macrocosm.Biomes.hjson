@@ -1,0 +1,39 @@
+EarthBiome: {
+	DisplayName: 地球
+	TownNPCDialogueName: 地球
+}
+
+MoonBiome: {
+	DisplayName: 月球
+	TownNPCDialogueName: 月球
+}
+
+BloodMoonBiome: {
+	DisplayName: 血月群系
+	TownNPCDialogueName: 血月群系
+}
+
+BasaltBiome: {
+	DisplayName: 玄武岩之地
+	TownNPCDialogueName: 玄武岩之地
+}
+
+IrradiationBiome: {
+	DisplayName: 辐照之地
+	TownNPCDialogueName: 辐照之地
+}
+
+DemonSunBiome: {
+	DisplayName: 渎耀之地
+	TownNPCDialogueName: 渎耀之地
+}
+
+MoonNightBiome: {
+	DisplayName: 月之暗面
+	TownNPCDialogueName: 月之暗面
+}
+
+MoonUndergroundBiome: {
+	DisplayName: 月球地下
+	TownNPCDialogueName: 月球地下
+}

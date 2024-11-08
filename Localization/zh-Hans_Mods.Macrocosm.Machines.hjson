@@ -1,0 +1,26 @@
+OilRefinery.DisplayName: 炼油厂
+OreExcavator.DisplayName: 采矿机
+
+BurnerGenerator: {
+	DisplayName: 燃烧机
+	HullHeatMetric: 船体温度: {0}°C
+	HullHeatImperial: 船体温度: {0}°F
+}
+
+Common: {
+	ConsumedPower: 输出功率
+	GeneratedPower: 发电功率
+	StoredEnergy: 储存能源
+	PowerInfo: "{0}kW"
+	StatusInfo: "{0}kW / {1}kW"
+	LiquidExtract: 可提取
+	LiquidContainer: 液体容器
+	BurnFuel: 可燃燃料
+
+	FullStatusInfo: {
+		Consumer: 消耗: {0}kW / 需要: {1}kW
+		Generator: 可用: {0}kW / 发电: {1}kW
+		Battery: 可用: {0}kW / 储存: {1}kW
+		Controller: ""
+	}
+}
