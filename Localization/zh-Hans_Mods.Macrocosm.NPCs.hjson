@@ -143,12 +143,12 @@ KyaniteScarabCritter: {
 }
 
 KyaniteScarabSmall: {
-	DisplayName: 蓝晶甲虫工人
+	DisplayName: 蓝晶甲虫工虫
 	BestiaryFlavorText: 蓝晶甲虫往往在矿脉旁建立巢穴.巢穴越闪亮美丽，越能吸引其它巢穴的求偶者.
 }
 
 KyaniteScarabLarge: {
-	DisplayName: 蓝晶甲虫卫兵
+	DisplayName: 蓝晶甲虫兵虫
 	BestiaryFlavorText: 大型的蓝晶甲虫是巢穴的战士与捍卫者.其天性好斗，将对任何入侵领地者展开猛烈攻势.
 }
 
