@@ -77,8 +77,8 @@ MoonChampion: {
 }
 
 Clavite: {
-	DisplayName: 吞月巨虫
-	BestiaryFlavorText: 在月球上的所有外星怪物中，鲜有如此虫般可怕之物.它们潜藏于地下，每一次冲出地表，就代表着又一条生命被吞噬.
+	DisplayName: 噬咬魔
+	BestiaryFlavorText: 贪餮无度的外星掠食者.会无情地扑击、撕咬一切活物.
 }
 
 CraterCrawlerHead: {
@@ -86,17 +86,17 @@ CraterCrawlerHead: {
 	BestiaryFlavorText: 千足蜈蚣的远房表亲，还未被驯化.在月夜的严寒中漫无目的地游荡.
 }
 
-CraterCrawlerBody.DisplayName: 陨坑千足虫-身
-CraterCrawlerTail.DisplayName: 陨坑千足虫-尾
+CraterCrawlerBody.DisplayName: 陨坑千足虫
+CraterCrawlerTail.DisplayName: 陨坑千足虫
 
 CrescentGhoul: {
 	DisplayName: 弦月鬼
-	BestiaryFlavorText: 这些弦月形的邪魔出没于月球的长夜中，疾速撕碎其猎物.
+	BestiaryFlavorText: 这些弦月形的邪魔出没于月球的长夜中，凭借其出色的速度撕碎其猎物.
 }
 
 Leaper: {
 	DisplayName: 跃穴影
-	BestiaryFlavorText: 这些机敏的生物存活于月球地下深处，在洞穴的墙壁间蹦跃以使其猎物措手不及.
+	BestiaryFlavorText: 这些机敏的生物存活于月球地下深处，在洞穴的墙壁间蹦跃并偷袭其猎物.
 }
 
 LuminiteSlime: {
@@ -114,22 +114,22 @@ MoonWormHead: {
 	BestiaryFlavorText: 在月球上的所有外星怪物中，鲜有如此虫般可怕之物.它们潜藏于地下，每一次冲出地表，就代表着又一条生命被吞噬.
 }
 
-MoonWormBody.DisplayName: 吞月巨虫-身
-MoonWormTail.DisplayName: 吞月巨虫-尾
+MoonWormBody.DisplayName: 吞月巨虫
+MoonWormTail.DisplayName: 吞月巨虫
 
 MoonZombie: {
 	DisplayName: 宇航员尸骸
-	BestiaryFlavorText: 地球上有僵尸，月球上也有.它们来自早已废弃的人类殖民区.
+	BestiaryFlavorText: 地球上有僵尸，月球上也有. 它们来自早已废弃的人类殖民地.
 }
 
 RadioactiveSlime: {
 	DisplayName: 放射史莱姆
-	BestiaryFlavorText: 这种史莱姆吸收了大量的铀、铬以及其它放射性元素.小心处理它们！
+	BestiaryFlavorText: 这种史莱姆吸收了大量的铀以及其它放射性元素. 处理它们务必小心！
 }
 
 RegolithSlime: {
 	DisplayName: 岩尘史莱姆
-	BestiaryFlavorText: 月球上极端的环境催生了同样极端的史莱姆.这种史莱姆中混合了月球表面银亮的风化岩.
+	BestiaryFlavorText: 月球上极端的环境催生了同样极端的史莱姆. 这种史莱姆中混合了月球表面银亮的风化岩.
 }
 
 ZombieSecurity: {
@@ -139,16 +139,16 @@ ZombieSecurity: {
 
 KyaniteScarabCritter: {
 	DisplayName: 蓝晶甲虫幼体
-	BestiaryFlavorText: 这种甲虫的幼体脆弱无助，全靠着成年甲虫的保护存活，几乎从来不会离开巢穴. 在曾经的文明中，它们是一道美味佳肴.
+	BestiaryFlavorText: 这种甲虫的幼体脆弱无助，全靠成年甲虫的保护存活，几乎从来不会离开巢穴. 在曾经的文明中，它们是一道美味佳肴.
 }
 
 KyaniteScarabSmall: {
-	DisplayName: 蓝晶甲虫工虫
+	DisplayName: 蓝晶工虫
 	BestiaryFlavorText: 蓝晶甲虫往往在矿脉旁建立巢穴.巢穴越闪亮美丽，越能吸引其它巢穴的求偶者.
 }
 
 KyaniteScarabLarge: {
-	DisplayName: 蓝晶甲虫兵虫
+	DisplayName: 蓝晶兵虫
 	BestiaryFlavorText: 大型的蓝晶甲虫是巢穴的战士与捍卫者.其天性好斗，将对任何入侵领地者展开猛烈攻势.
 }
 
@@ -169,45 +169,45 @@ ZombieEngineer: {
 
 MoonLich: {
 	DisplayName: 幻月巫妖
-	BestiaryFlavorText: 这位古老的外星生物，掌握着深邃的月之魔法，拥有令人死而复生的神奇力量，使亡者复苏，为他们的新的主宰效力并战斗.
+	BestiaryFlavorText: 这种古老的外星生物掌握着深邃的月之魔法，拥有令人死而复生的力量，使亡者复苏，为他们的新的主宰效力并战斗.
 }
 
 XenoHive: {
-	DisplayName: Xeno Hive
-	BestiaryFlavorText: Zombified aliens molded to serve as mobile hives for swarms of alien leeches, deployed to defend their Lich.
+	DisplayName: 异形腐巢
+	BestiaryFlavorText: 复生的外星生物残骸被塑形成异形蛭的巢穴，跟随在巫妖身边保卫着它.
 }
 
 XenoHornet: {
-	DisplayName: Alien Leech
-	BestiaryFlavorText: Tiny, mutated alien drones that have evolved to fly with small, biochemical jets. They can quickly overwhelm their targets in large numbers.
+	DisplayName: 异形蛭
+	BestiaryFlavorText: 这些变异生物以小型生化推进器官飞行.它们体型虽小，却很擅长以数量压倒敌人.
 }
 
 LunarChimera: {
-	DisplayName: Gutbelcher
-	BestiaryFlavorText: Reconstructed amalgams of various lunar aliens, belching their acidic and volatile insides at their targets.
+	DisplayName: 吐恶兽
+	BestiaryFlavorText: 由不同外星生物融合而成的怪物.会向敌人喷吐它们酸性易燃的内脏.
 }
 
 Scatterbrained: {
-	DisplayName: Scatterbrained
-	BestiaryFlavorText: Reanimated storm divers, their bodies reconfigured and distorted. Their attacks are slow and inaccurate, but deadly.
+	DisplayName: 绞智体
+	BestiaryFlavorText: 复生、重塑、扭曲的旋泥怪.它们的攻击缓慢而不准，却仍然致命.
 }
 
 Dweller: {
-	DisplayName: Dweller
-	BestiaryFlavorText: Alien beasts of immense size that stalk their prey in the Moon's pitch black caverns. They act extremely aggressive in the presence of light.
+	DisplayName: Dweller隐者
+	BestiaryFlavorText: 居住于无光洞穴中的月球巨兽.它们对光极其敏感，也极具攻击性.
 }
 
 Hermite: {
-	DisplayName: Hermite
+	DisplayName: 螫伏虫
 	BestiaryFlavorText: Mods.Macrocosm.NPCs.Hermite.BestiaryFlavorText
 }
 
 Bruiser: {
-	DisplayName: Bruiser
-	BestiaryFlavorText: A hulking, tanky behemoth of alien flesh, bone, and fury. Get too close and they'll slug your bloody entrails into orbit!
+	DisplayName: 猛击恶体
+	BestiaryFlavorText: 高大，坚实而野蛮的外星巨怪.它能一击将你以逃逸速度打飞！
 }
 
 LuminiteHorror: {
-	DisplayName: Luminite Horror
-	BestiaryFlavorText: Possessed by countless souls of restless, enraged lunar spirits, this hulking mass of raw luminite patrols the Moon's caverns for new victims.
+	DisplayName: 夜明惧物
+	BestiaryFlavorText: 由无数不得安息的愤怒月之灵魂，聚合了大块夜明矿形成的巨物.它游荡于月球的洞窟之中，寻找着能加入自身的灵魂.
 }
