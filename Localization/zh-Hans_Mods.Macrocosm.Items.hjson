@@ -2133,14 +2133,14 @@ HummingbirdDroneRemote: {
 	DisplayName: P.D.C.D.控制器
 	Tooltip:
 		'''
-		召唤Hummingbird dronen****为你而战
+		召唤蜂鸟为你而战
 		当生命值较低时他们会抱紧你来保护你
 		'''
 }
 
 GreatstaffOfHorus: {
 	DisplayName: 荷鲁斯巨杖
-	Tooltip: 召唤Lesser Granule***为你而战
+	Tooltip: 召唤太阳粒子为你而战
 }
 
 LuminiteTorch: {
@@ -2149,8 +2149,8 @@ LuminiteTorch: {
 }
 
 RyuguStaff: {
-	DisplayName: 广寒杖
-	Tooltip: 召唤Ryugu为你而战
+	DisplayName: 月兔炮杖
+	Tooltip: 召唤月兔炮为你而战
 }
 
 AstraDoor: {
