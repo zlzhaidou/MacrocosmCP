@@ -13,7 +13,7 @@ Common: {
 	StoredEnergy: 储存能源
 	PowerInfo: "{0}kW"
 	StatusInfo: "{0}kW / {1}kW"
-	LiquidExtract: 可提取
+	LiquidExtract: 油页岩
 	LiquidContainer: 液体容器
 	BurnFuel: 可燃燃料
 
