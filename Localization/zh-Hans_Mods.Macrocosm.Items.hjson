@@ -146,8 +146,8 @@ CraterDemonSummon: {
 }
 
 Moonstone: {
-	DisplayName: 月壤
-	TooltipNoChampion: 这些是月之斗士的货币，但不幸的是，他并不在你身边.
+	DisplayName: 月球宝石
+	TooltipNoChampion: 这些是与月之斗士交易的货币，但不幸的是，他并不在你身边.
 	TooltipChampion: 这些是给月之斗士{0}的货币
 	Tooltip: ""
 }
@@ -173,7 +173,7 @@ Rocket: {
 }
 
 Teleporter: {
-	DisplayName: 月-地 往返遥控
+	DisplayName: 传送遥控器
 	Tooltip: 让玩家可以在地球和月球直接传送
 }
 
@@ -198,7 +198,7 @@ ArtemiteOre: {
 }
 
 BrokenHeroShield: {
-	DisplayName: 破碎的英雄盾
+	DisplayName: 破碎英雄盾
 	Tooltip: ""
 }
 
@@ -627,7 +627,7 @@ MoonSword: {
 
 Noxsaber: {
 	DisplayName: 归虚之刃
-	Tooltip: 一柄由暗能量铸成的远古神兵，从一个早已消亡的教团殿堂中偷出.
+	Tooltip: 一柄由暗能量铸成的远古神兵，从一个早已消亡的教团殿堂中偷得.
 }
 
 AluminumBow: {
@@ -680,7 +680,7 @@ SeleniteMagnum: {
 
 CalcicCane: {
 	DisplayName: 钙质手杖
-	Tooltip: 召唤一个陨星煞鬼为你而战
+	Tooltip: 召唤一只陨星煞鬼为你而战
 }
 
 ChandriumStaff: {
@@ -709,7 +709,7 @@ SpaceDust: {
 }
 
 MoonPhaseGlobe: {
-	DisplayName: 月相地球仪
+	DisplayName: 月相仪
 	Tooltip: 使用以切换月相
 }
 
@@ -751,12 +751,12 @@ SilicaCrimsand: {
 }
 
 SilicaEbonsand: {
-	DisplayName: 腐化硅沙
+	DisplayName: 黑檀硅沙
 	Tooltip: ""
 }
 
 SilicaPearlsand: {
-	DisplayName: 神圣硅沙
+	DisplayName: 珍珠硅沙
 	Tooltip: ""
 }
 
@@ -1094,7 +1094,7 @@ CraterDemonPet: {
 	DisplayName: 玩具火箭
 	Tooltip:
 		'''
-		召唤一个陨星煞鬼
+		召唤一只陨星煞鬼
 		'Fly me to the Moon!'  
 		'''
 }
@@ -1487,7 +1487,7 @@ IndustrialServer: {
 }
 
 InANutshell: {
-	DisplayName: 简而言之
+	DisplayName: 果壳里的...
 	Tooltip: ""
 }
 
@@ -1499,7 +1499,7 @@ Medkit: {
 
 FrigorianGaze: {
 	DisplayName: 霜眼凝寒
-	Tooltip: 你的敌人在一场冰刺风暴中消失了！
+	Tooltip: 在一场冰刺风暴中毁灭你的敌人！
 }
 
 StarDestroyer: {
@@ -1975,47 +1975,47 @@ Totality: {
 }
 
 AstraWorkbench: {
-	DisplayName: 星芒书架
+	DisplayName: 星芒工作台
 	Tooltip: ""
 }
 
 CosmicEmberWorkbench: {
-	DisplayName: 宇宙余烬书架
+	DisplayName: 宇宙余烬工作台
 	Tooltip: ""
 }
 
 CryocoreWorkbench: {
-	DisplayName: 冷核书架
+	DisplayName: 冷核工作台
 	Tooltip: ""
 }
 
 DarkCelestialWorkbench: {
-	DisplayName: 暗黑天界书架
+	DisplayName: 暗黑天界工作台
 	Tooltip: ""
 }
 
 HeavenforgeWorkbench: {
-	DisplayName: 天熔书架
+	DisplayName: 天熔工作台
 	Tooltip: ""
 }
 
 LuminiteWorkbench: {
-	DisplayName: 夜明书架
+	DisplayName: 夜明工作台
 	Tooltip: ""
 }
 
 LunarRustWorkbench: {
-	DisplayName: 月锈书架
+	DisplayName: 月锈工作台
 	Tooltip: ""
 }
 
 MercuryWorkbench: {
-	DisplayName: 水星书架
+	DisplayName: 水星工作台
 	Tooltip: ""
 }
 
 StarRoyaleWorkbench: {
-	DisplayName: 星星皇家书架
+	DisplayName: 星星皇家工作台
 	Tooltip: ""
 }
 
